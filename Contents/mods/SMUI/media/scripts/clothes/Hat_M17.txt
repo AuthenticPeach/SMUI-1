@@ -13,5 +13,7 @@ module SMUIClothing {
         BiteDefense = 30,
         Weight = 0.5,
         Tooltip = Tooltip_M17,
+		AttachmentType  = GasMask,	
+		StaticModel 	= GasMaskM17NotWorn,		
     }
 }

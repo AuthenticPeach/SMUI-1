@@ -1,0 +1,13 @@
+module Base
+{
+    
+model M67Grenade
+    {
+        mesh = weapons/1handed/M67Grenade,
+    }
+model GasMaskM17NotWorn
+    {
+        mesh = Skinned/Clothes/M_M17_NotWorn,
+		texture = clothes\hat\Hat_M17,		
+    }	
+}
