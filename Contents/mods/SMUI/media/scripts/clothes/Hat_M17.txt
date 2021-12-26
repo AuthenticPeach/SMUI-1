@@ -2,7 +2,7 @@ module SMUIClothing {
     
       item Hat_M17
     {
-        DisplayCategory = Clothing,
+        DisplayCategory = Accessory,
         Type = Clothing,
         DisplayName = M17 Gas Mask,
         ClothingItem = Hat_M17,
@@ -14,6 +14,7 @@ module SMUIClothing {
         Weight = 0.5,
         Tooltip = Tooltip_M17,
 		AttachmentType  = GasMask,	
-		StaticModel 	= GasMaskM17NotWorn,		
+		StaticModel 	= GasMaskM17NotWorn,
+		Tags 			= GasMask,			
     }
 }
