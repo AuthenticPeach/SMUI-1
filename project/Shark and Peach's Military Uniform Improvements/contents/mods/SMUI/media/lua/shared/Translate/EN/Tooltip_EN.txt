@@ -1,4 +1,6 @@
 Tooltip_EN = {
+    Tooltip_Rolled = "The sleeves are rolled"
+    Tooltip_Tucked = "The trousers are tucked"
     Tooltip_DoffHoodM17 = "Protective NBC hood designed for the M17",
     Tooltip_DoffHoodM40 = "Protective NBC hood designed for the M40",
     Tooltip_PackageTop = "Contains an NBC suit top and protective gloves",
