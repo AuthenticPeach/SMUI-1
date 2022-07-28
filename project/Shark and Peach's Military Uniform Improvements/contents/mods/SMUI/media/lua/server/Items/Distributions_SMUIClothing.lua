@@ -49,11 +49,6 @@ table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Bag_LargeALICEPackWoodland");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3)
 
-table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_MilitaryTacticalHelmet");
-table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 0.1);
-table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Hat_MilitaryTacticalHelmet");
-table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 0.1);
-
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.LBV88Webbing");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 1);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.LBV88Webbing");
@@ -315,11 +310,6 @@ table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothi
 table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 0.1);
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.NightVisionGoggles");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 1);
-
-table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_MilitaryTacticalHelmet");
-table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 0.3);
-table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Vest_MilitaryTacticalVest");
-table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 0.3);
 
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Vest_RangerBodyArmor");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 1);
