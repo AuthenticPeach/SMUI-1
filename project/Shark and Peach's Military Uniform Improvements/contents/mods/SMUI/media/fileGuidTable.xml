@@ -39,10 +39,15 @@
 	</files>
 
 	<files>
-	<path>media/clothing/clothingItems/Hat_OG106Cap.xml</path>
-	<guid>d5bbff14-3bc1-46b0-b4b2-cb02c91e1819</guid>
+	<path>media/clothing/clothingItems/Shirt_OG107UtilityShirt.xml</path>
+	<guid>3d511719-615d-4245-8bbb-872fc658d67e</guid>
 	</files>
-	
+
+	<files>
+	<path>media/clothing/clothingItems/Shirt_OG107UtilityShirtRolled.xml</path>
+	<guid>89b178b5-8c27-4210-bf7e-1c651218c21d</guid>
+	</files>
+
 	<files>
 	<path>media/clothing/clothingItems/Hat_OG106CapReversed.xml</path>
 	<guid>c32087f7-7f79-4428-a4f9-c454beb66117</guid>
@@ -1044,6 +1049,16 @@
 	<files>
 	<path>media/clothing/clothingItems/Trousers_ODGreenTucked.xml</path>
 	<guid>caaf9d9c-be1b-46ef-9a39-0686bdf2f3ac</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Trousers_OG107Utility.xml</path>
+	<guid>1508e92b-9ad3-411c-8fa4-5a8c6ee15cc0</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Trousers_OG107UtilityTucked.xml</path>
+	<guid>d0365fa3-bf46-42f1-95ae-cef7144924d7</guid>
 	</files>
 
 	<files>

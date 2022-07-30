@@ -529,6 +529,52 @@ module SMUIClothing
         Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
+
+        item Trousers_OG107Utility
+    
+    {   
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = OG-107 Utility Pants,
+        BodyLocation = Pants,
+        Icon = ODGreenPants,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        ClothingItem = Trousers_OG107Utility,
+        ClothingItemExtra = SMUIClothing.Trousers_OG107UtilityTucked,
+        ClothingItemExtraOption = TuckIn,
+        ClothingExtraSubmenu = TuckOut,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+        item Trousers_OG107UtilityTucked
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = OG-107 Utility Pants,
+        BodyLocation = Pants,
+        Icon = ODGreenPants,
+        BloodLocation = Trousers,
+        BiteDefense = 10,
+        ScratchDefense = 20,
+        Insulation = 0.4,
+        ClothingItem = Trousers_OG107UtilityTucked,
+        ClothingItemExtra = SMUIClothing.Trousers_OG107Utility,
+        ClothingItemExtraOption = TuckOut,
+        ClothingExtraSubmenu = TuckIn,
+        WindResistance = 0.3,
+        WaterResistance = 0.4,
+        FabricType = Cotton,
+        Tooltip = Tooltip_Tucked,
+        WorldStaticModel = Trousers_Ground,
+    }
 }
     
    
