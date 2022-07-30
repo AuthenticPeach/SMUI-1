@@ -6,16 +6,27 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Male Head Stubble,
         ClothingItem = MaleHeadStubble_SMUI,
-        BodyLocation = Hat,
+        BodyLocation = SMUICosmeticOne,
         Weight	=	0.1,
-        OpenSound   =   OpenBag,
-        CloseSound   =   CloseBag,
-        PutInSound   =   PutItemInBag,
-        BloodLocation = FullHelmet,
+        BloodLocation = Trousers,
         RunSpeedModifier = 1,
         CanHaveHoles = false,
     }
+
+    
+        item SMUI_Facepaint
+
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        ClothingItem = Facepaint_SMUI,
+        BodyLocation = SMUICosmeticTwo,
+        Weight	=	0.1,
+        BloodLocation = Trousers,
+        RunSpeedModifier = 1,
+        CanHaveHoles = false,
+    }
+
 
 }

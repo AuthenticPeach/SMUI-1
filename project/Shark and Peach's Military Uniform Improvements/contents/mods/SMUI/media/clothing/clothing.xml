@@ -9,16 +9,22 @@
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_AllowTopTint>false</m_AllowTopTint>
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
-		<m_items> <!-- Woodland PASGT Helmet -->
-			<itemGUID>e3b68146-8b14-4c4c-a59e-d0fb94901858</itemGUID>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
+			<m_items> <!-- Face Paint -->
+		<probability>0.8</probability>
+			<itemGUID>c1de3be1-2854-447f-afd0-5e2e45827329</itemGUID>
+		</m_items>
+		<m_items> <!-- Desert Battle PASGT Helmet -->
+			<itemGUID>b049fdda-ea87-444c-9a5b-c719b3776e81</itemGUID>
+		<subitems>	<!-- Desert Military Helmet w/ Goggles-->
+			<itemGUID>925f00d1-ac42-445f-8ebd-cd7cb73a4201</itemGUID>
+		</subitems>
 		</m_items>
 		<m_items> <!-- GI Glasses-->
 		<probability>0.2</probability>
 			<itemGUID>85217973-ff88-4680-8a5d-1c6c97692767</itemGUID>
-		</m_items>
-			<m_items> <!-- Desert Military Helmet w/ Goggles -->
-		<probability>0.5</probability>
-			<itemGUID>925f00d1-ac42-445f-8ebd-cd7cb73a4201</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Webbing-->
 			<itemGUID>b69a787f-5b96-4c7a-b782-4a0d8aacdf40</itemGUID>
@@ -42,10 +48,6 @@
 		</m_items>
 		<m_items> <!-- Desert PASGT Vest -->
 			<itemGUID>d646bba8-dee5-4d17-923b-a48f9280367b</itemGUID>
-		</m_items>
-		<m_items> <!-- Ranger Body Armor -->
-		<probability>0.1</probability>
-			<itemGUID>5015651a-e3b2-4ef6-b41a-bf2aca34063b</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Pack (Plain) -->
 		<probability>0.1</probability>
@@ -82,6 +84,9 @@
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_AllowTopTint>false</m_AllowTopTint>
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
 		<m_items> <!-- Military Helmet-->
 			<itemGUID>8b309824-c769-45e1-9e1f-25d349b72b4c</itemGUID>
 		</m_items>
@@ -224,6 +229,9 @@
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_AllowTopTint>false</m_AllowTopTint>
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
 		<m_items> <!-- Military Helmet-->
 			<itemGUID>e3b68146-8b14-4c4c-a59e-d0fb94901858</itemGUID>
 		</m_items>
@@ -354,6 +362,9 @@
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_AllowTopTint>false</m_AllowTopTint>
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
 		<m_items> <!-- Military Helmet-->
 			<itemGUID>e3b68146-8b14-4c4c-a59e-d0fb94901858</itemGUID>
 		</m_items>
@@ -492,6 +503,9 @@
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_AllowTopTint>false</m_AllowTopTint>
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
 		<m_items> <!---Army Helmet (Strapless)-->
 			<itemGUID>9620aac8-3540-4699-b285-ed3257bc2ee5</itemGUID>
 		</m_items>
@@ -554,6 +568,9 @@
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_AllowTopTint>false</m_AllowTopTint>
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+        <m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
 		<m_items> <!---Army Helmet (Strapless)-->
 			<itemGUID>9620aac8-3540-4699-b285-ed3257bc2ee5</itemGUID>
 		</m_items>
@@ -683,6 +700,9 @@
 		<m_Guid>82c517ea-2efd-4742-b465-f9abf4c214f1</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
 		<m_items> <!-- Woodland Patrol Cap-->
 			<itemGUID>601bf44b-fe47-44b1-a327-3fd441250ca7</itemGUID>
 		</m_items>
@@ -730,6 +750,9 @@
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_AllowTopTint>false</m_AllowTopTint>
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
 		<m_items> <!-- Military Helmet /w Riot Visor (Up) -->
 			<itemGUID>744b22b2-9d94-49fc-872b-4cc695f86f67</itemGUID>
 		</m_items>
@@ -798,6 +821,9 @@
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_AllowTopTint>false</m_AllowTopTint>
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
 		<m_items> <!-- Military Helmet /w Riot Visor (Up) -->
 			<itemGUID>744b22b2-9d94-49fc-872b-4cc695f86f67</itemGUID>
 		</m_items>
@@ -865,6 +891,9 @@
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_AllowTopTint>false</m_AllowTopTint>
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
 		<m_items> <!-- DH-132 Helmet -->
 			<itemGUID>d303ddaa-ed62-442a-8706-f7b8a577b748</itemGUID>
 		</m_items>
@@ -908,6 +937,9 @@
 		<m_Guid>a3ec3ed3-481b-494b-82cb-6281b818b230</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
 		<m_items> <!-- GI Socks -->
 			<itemGUID>b496da29-e941-43f7-85dd-854b79c7b453</itemGUID>
 		</m_items>	
@@ -948,12 +980,18 @@
 		<m_Guid>613295c7-7743-4b51-82be-56393848491b</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
-		<m_items> <!-- Military Tactical Helmet -->
-			<itemGUID>0f8e3cda-6558-4c51-9e43-c4a92882764e</itemGUID>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
 		</m_items>
-		<m_items> <!-- Boogie Goggles -->
-		<probability>0.7</probability>
-			<itemGUID>e8441963-a45b-4454-81d3-8fd69c0ec453</itemGUID>
+		<m_items> <!-- Face Paint -->
+			<itemGUID>c1de3be1-2854-447f-afd0-5e2e45827329</itemGUID>
+		</m_items>
+		<m_items> <!-- Military Helmet w/ NVG (Down)-->
+		<probability>0.3</probability>
+			<itemGUID>3468f688-5da8-4398-943a-488f0e73d2b1</itemGUID>
+		</m_items>
+		<m_items> <!-- Military Helmet (NVG up)-->
+			<itemGUID>14b93a03-3b91-463a-b59d-4c83bf3c0574</itemGUID>
 		</m_items>
 		<m_items> <!-- GI Socks -->
 			<itemGUID>b496da29-e941-43f7-85dd-854b79c7b453</itemGUID>
@@ -992,6 +1030,9 @@
 		<m_Guid>aeabd0c5-5bbc-4165-a5d7-5cbdef0e3b4e</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
 		<m_items> <!-- Military Tactical Helmet -->
 			<itemGUID>0f8e3cda-6558-4c51-9e43-c4a92882764e</itemGUID>
 		</m_items>
@@ -1036,6 +1077,9 @@
 		<m_Guid>a975fd61-fc49-47f0-9519-22a5eb62c8dd</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
 		<m_items> <!-- Military Tactical Helmet -->
 			<itemGUID>0f8e3cda-6558-4c51-9e43-c4a92882764e</itemGUID>
 		</m_items>
@@ -1093,6 +1137,9 @@
 		<m_Guid>a975fd61-fc49-47f0-9519-22a5eb62c8dd</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
 		<m_items> <!-- Red Military Beret -->
 			<probability>0.5</probability>
 			<itemGUID>408d4d09-81ae-4bf8-9b77-1f4bfccbb1c9</itemGUID>
@@ -1176,6 +1223,9 @@
 		<m_Guid>ef5c55c2-648d-4f4d-baed-2e533af4c845</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
 		<m_items> <!-- Military Helmet-->
 			<itemGUID>e3b68146-8b14-4c4c-a59e-d0fb94901858</itemGUID>
 		</m_items>
