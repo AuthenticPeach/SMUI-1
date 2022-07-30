@@ -3,6 +3,10 @@
 
 	<!-- Shark's Military Uniform Improvements -->
 
+	<files>
+	<path>media/clothing/clothingItems/Shoes_MickeyMouse.xml</path>
+	<guid>d52eede5-6426-4eef-ba0c-18d66b72ccc4</guid>
+	</files>
 
 	<files>
 	<path>media/clothing/clothingItems/TShirt_NoveltyGulfWar.xml</path>
