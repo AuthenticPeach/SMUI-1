@@ -12,3 +12,7 @@ group:getOrCreateLocation("SMUIWebbingPlus")
 group:getOrCreateLocation("SMUITorsoRigPlus")
 group:getOrCreateLocation("SMUILeftArmPlus")
 group:getOrCreateLocation("SMUIRightArmPlus")
+
+group:getOrCreateLocation("SMUICosmeticOne")
+group:getOrCreateLocation("SMUICosmeticTwo")
+group:getOrCreateLocation("SMUICosmeticThree")
