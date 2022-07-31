@@ -1,6 +1,49 @@
 module SMUIClothing 
 {
 
+         item Hat_MilitaryHelmetRagtop
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Ragtop PASGT Helmet,
+        ClothingItem = Hat_MilitaryHelmetRagtop,
+        BodyLocation = Hat,
+        Icon = MilitaryHelmet,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetRagtopStrapless,
+        ClothingItemExtraOption = Unstrap,
+        ClothingExtraSubmenu = Strap,
+        Insulation = 0.10,
+        Weight = 1,
+		WorldStaticModel = MilitaryHelmet_WorldItem,
+    }
+
+        item Hat_MilitaryHelmetRagtopStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Ragtop PASGT Helmet,
+        ClothingItem = Hat_MilitaryHelmetRagtopStrapless,
+        BodyLocation = Hat,
+        Icon = MilitaryHelmetStrapless,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetRagtop,
+        ClothingItemExtraOption = Strap,
+        ClothingExtraSubmenu = Unstrap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 1,
+		WorldStaticModel = MilitaryHelmet_WorldItem,
+    }
+
         item Hat_MilitaryHelmet
     {
         DisplayCategory = Helmet,
@@ -367,7 +410,8 @@ module SMUIClothing
 		WorldStaticModel = MilitaryHelmetRiot_WorldItem,
     }
 
-        item Hat_M1Helmet
+
+            item Hat_M1Helmet
     {
         DisplayCategory = Helmet,
         Type = Clothing,
@@ -381,6 +425,51 @@ module SMUIClothing
         BulletDefense = 20,
         CanHaveHoles = false,
         ClothingItemExtra = SMUIClothing.Hat_M1HelmetStrapless,
+        ClothingItemExtraOption = Unstrap,
+        ClothingExtraSubmenu = Strap,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1Helmet_WorldItem,
+    }
+
+        item Hat_M1HelmetRagtopStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Strapless Ragtop M1 Steel Helmet,
+        ClothingItem = Hat_M1HelmetRagtopStrapless,
+        BodyLocation = Hat,
+        Icon = M1HelmetStrapless,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_M1HelmetRagtop,
+        ClothingItemExtraOption = Strap,
+        ClothingExtraSubmenu = Unstrap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1Helmet_WorldItem,
+    }
+
+        item Hat_M1HelmetRagtop
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Ragtop M1 Steel Helmet,
+        ClothingItem = Hat_M1HelmetRagtop,
+        BodyLocation = Hat,
+        Icon = M1Helmet,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_M1HelmetRagtopStrapless,
         ClothingItemExtraOption = Unstrap,
         ClothingExtraSubmenu = Strap,
         Insulation = 0.10,

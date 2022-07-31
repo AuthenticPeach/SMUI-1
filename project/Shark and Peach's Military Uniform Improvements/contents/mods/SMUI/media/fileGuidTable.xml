@@ -242,7 +242,17 @@
 	<path>media/clothing/clothingItems/Bag_LargeALICEPackWoodland.xml</path>
 	<guid>617e0407-c44b-49ac-b215-5674bb6705de</guid>
 	</files>
-	
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetRagtop.xml</path>
+	<guid>2d73454f-5cc5-4983-98cc-114fc1641b2d</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_M1HelmetRagtopStrapless.xml</path>
+	<guid>a8af769b-b5f0-4ac7-897a-c0237157d69b</guid>
+	</files>
+
 	<files>
 	<path>media/clothing/clothingItems/Hat_M1Helmet.xml</path>
 	<guid>4fd438f9-45cc-4b8d-a374-cfaf74856280</guid>
@@ -390,6 +400,16 @@
 	<files>
 	<path>media/clothing/clothingItems/Hat_DH132Goggles.xml</path>
 	<guid>c8f6aea5-cdd0-473c-a5c8-539f582c5f39</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetRagtop.xml</path>
+	<guid>a17a9386-b66a-40e0-8006-2e94ea192190</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetRagtopStrapless.xml</path>
+	<guid>f5e57d62-0f59-474a-8b7e-a3e039398a25</guid>
 	</files>
 
 	<files>
