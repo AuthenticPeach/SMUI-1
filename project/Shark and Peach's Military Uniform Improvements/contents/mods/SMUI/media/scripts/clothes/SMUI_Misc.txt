@@ -312,7 +312,7 @@ module SMUIClothing
 	{
 	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = Military Police Brassard (Right),
+		DisplayName = Military Police Brassard,
 		ClothingItem = MPBrassard,
 		BodyLocation = SMUIRightArmPlus,
         ClothingItemExtra = SMUIClothing.MPBrassardAlternate,
