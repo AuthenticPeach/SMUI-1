@@ -117,15 +117,34 @@ module SMUIClothing
 	Type = Clothing,
 	DisplayName = NBC Gloves,
 	ClothingItem = Gloves_HazmatGloves,
+    BodyLocation = SMUIHazmatGloves,
+	BloodLocation = Hands,
+	Icon = HazmatGloves,
+	ScratchDefense = 40,
+    BiteDefense = 10,
+    Weight = 0.1,
+    Insulation = 0.75,
+    WindResistance = 0.75,
+    WorldStaticModel = GlovesLong_Ground,
+	}
+
+    item Gloves_GloveLiner
+	{
+
+	DisplayCategory = Clothing,
+	Type = Clothing,
+	DisplayName = Glove Liner,
+	ClothingItem = Gloves_GloveLiner,
     BodyLocation = Hands,
 	BloodLocation = Hands,
 	Icon = HazmatGloves,
 	ScratchDefense = 40,
     BiteDefense = 10,
-    Weight = 0.0,
-    Insulation = 0.75,
-    WindResistance = 0.75,
+    Weight = 0.1,
+    Insulation = 0.6,
+    WindResistance = 1,
     WorldStaticModel = GlovesLong_Ground,
+
 	}
 
     item Shoes_HazmatBoots
@@ -138,14 +157,14 @@ module SMUIClothing
 	BodyLocation = Shoes,
 	BloodLocation = Shoes,
 	Icon = HazmatBoots,
-	Weight = 0,
-    RunSpeedModifier = 0.9,
+	Weight = 1,
+    RunSpeedModifier = 0.5,
     RemoveOnBroken = true,
     ScratchDefense = 40,
     BiteDefense = 10,
-    Insulation = 0.9,
-    WindResistance = 0.65,
-    WaterResistance = 0.65,
+    Insulation = 0.3,
+    WindResistance = 1,
+    WaterResistance = 1,
     WorldStaticModel = HazmatBoots_WorldItem,
 	}
 

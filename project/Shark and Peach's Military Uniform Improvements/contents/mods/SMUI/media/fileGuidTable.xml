@@ -139,6 +139,11 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Vest_PASGTDesertCombat.xml</path>
+	<guid>3cf6bf0f-4192-45f0-979e-93474af5cc4b</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Vest_PASGTOD.xml</path>
 	<guid>bd491c9f-6fe3-48ca-bf05-04c8070cfb99</guid>
 	</files>
@@ -695,6 +700,11 @@
 	<files>
 	<path>media/clothing/clothingItems/Gloves_FlightGloves.xml</path>
 	<guid>376cd290-8fdb-4b2a-ab52-7a85b2412bd7</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Gloves_GloveLiner.xml</path>
+	<guid>d79f41d8-bdfd-4498-acc5-bbbb86b73e5c</guid>
 	</files>
 
 	<files>
