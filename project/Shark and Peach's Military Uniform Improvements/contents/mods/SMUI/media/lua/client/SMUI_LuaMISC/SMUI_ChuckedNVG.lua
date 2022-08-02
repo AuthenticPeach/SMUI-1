@@ -1,0 +1,1 @@
+SMUI_HotbarAttachDefinition.lua

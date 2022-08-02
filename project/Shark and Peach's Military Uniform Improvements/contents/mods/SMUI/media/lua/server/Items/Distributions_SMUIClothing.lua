@@ -226,6 +226,11 @@ table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Vest_PASGTDesert");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 0.5);
 
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Vest_PASGTDesertCombat");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Vest_PASGTDesertCombat");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 0.5);
+
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Vest_PASGTOD");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 1);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Vest_PASGTOD");

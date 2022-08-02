@@ -1,5 +1,5 @@
 name=Shark (and Peach's) Military Uniform Improvements
-poster=poster.png
 id=SMUI
-require = NightVisionChucked
-description= Complete setting specific military overhaul for Project Zomboid.
+require=NightVisionChucked
+description= Complete setting specific military gear overhaul for Project Zomboid.
+poster=poster.png

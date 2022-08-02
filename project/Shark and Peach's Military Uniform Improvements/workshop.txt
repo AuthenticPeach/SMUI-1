@@ -9,7 +9,6 @@ description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
 description= [h1][b]SMUI has undergone its largest update to date, stay tuned for further follow-up updates./b][/h1]
 description= [h1][b]SMUI has also has undergone major optimization work for MP servers./b][/h1]
-description= [h1][b]SMUI now has mod integration events with Expanded Helicopter Events.[/b][/h1]
 description=
 description= [h1][b]NEW: LBV-88 Webbing[/b][/h1]
 description= [h1][b]NEW: Higher quality camouflage on all military/camouflage clothing[/b][/h1]
@@ -19,6 +18,7 @@ description= [h1][b]NEW: Extreme Cold Weather Mask
 description= [h1][b]NEW: Mickey Mouse Boots (Extreme Cold Weather Boots)
 description= [h1][b]NEW: M81 and Mitchell Pattern M65 jackets[/b][/h1]
 description= [h1][b]NEW: Duckhunter and Frogskin pattern camouflage[/b][/h1]
+description= [h1][b]NEW: Desert Combat PASGT Vest[/b][/h1]
 description= [h1][b]NEW: Military Police M1 Helmet[/b][/h1]
 description= [h1][b]NEW: Military Police Brassard can now be worn on either arm[/b][/h1]
 description= [h1][b]NEW: Gulf War Novelty T-Shirt[/b][/h1]
