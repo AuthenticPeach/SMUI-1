@@ -1176,6 +1176,16 @@
 	<guid>afdf07c9-e638-4435-9938-ef98a8cfffed</guid>
 	</files>
 
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetShark.xml</path>
+	<guid>9bd8382a-2450-4f93-9151-f1077ec2b782</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryHelmetSharkStrapless.xml</path>
+	<guid>93ba4933-7d28-4ee4-9ed5-c8b1c13adf26</guid>
+	</files>
+
 	<!-- Vanilla Clothing -->
 	
 	<files>

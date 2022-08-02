@@ -1,11 +1,57 @@
 module SMUIClothing 
 {
 
+
+   item Hat_MilitaryHelmetShark
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Shark Pattern PASGT Helmet,
+        ClothingItem = Hat_MilitaryHelmetShark,
+        Icon = MilitaryHelmet,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetSharkStrapless,
+        ClothingItemExtraOption = Unstrap,
+        ClothingExtraSubmenu = Strap,
+        WaterResistance = 1,
+        Insulation = 1,
+        Weight = 1,
+        Tooltip = Tooltip_CoolKids,
+		WorldStaticModel = MilitaryHelmet_WorldItem,
+    }
+
+        item Hat_MilitaryHelmetSharkStrapless
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Strapless Shark Pattern PASGT Helmet,
+        ClothingItem = Hat_MilitaryHelmetSharkStrapless,
+        BodyLocation = Hat,
+        Icon = MilitaryHelmetStrapless,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 100,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_MilitaryHelmetShark,
+        ClothingItemExtraOption = Strap,
+        ClothingExtraSubmenu = Unstrap,
+        ChanceToFall = 80,
+        Insulation = 1,
+        Weight = 1,
+        Tooltip = Tooltip_CoolKids,
+		WorldStaticModel = MilitaryHelmet_WorldItem,
+    }
+
         item Hat_MilitaryHelmetHawaiian
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Hawaiian PASGT Helmet,
+        DisplayName = Hawaiian Pattern PASGT Helmet,
         ClothingItem = Hat_MilitaryHelmetHawaiian,
         BodyLocation = Hat,
         Icon = MilitaryHelmet,
@@ -27,7 +73,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Strapless Hawaiian PASGT Military Helmet,
+        DisplayName = Strapless Hawaiian Pattern PASGT Military Helmet,
         ClothingItem = Hat_MilitaryHelmetHawaiianStrapless,
         BodyLocation = Hat,
         Icon = MilitaryHelmetStrapless,
@@ -40,7 +86,7 @@ module SMUIClothing
         ClothingItemExtraOption = Strap,
         ClothingExtraSubmenu = Unstrap,
         ChanceToFall = 80,
-        Insulation = 0.10,
+        Insulation = 1,
         Weight = 1,
         Tooltip = Tooltip_CoolKids,
 		WorldStaticModel = MilitaryHelmet_WorldItem,
@@ -50,7 +96,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Hawaiian M1 Steel Helmet,
+        DisplayName = Hawaiian Pattern M1 Steel Helmet,
         ClothingItem = Hat_M1HelmetHawaiian,
         BodyLocation = Hat,
         Icon = M1Helmet,
@@ -62,7 +108,7 @@ module SMUIClothing
         ClothingItemExtra = SMUIClothing.Hat_M1HelmetHawaiianStrapless,
         ClothingItemExtraOption = Unstrap,
         ClothingExtraSubmenu = Strap,
-        Insulation = 0.10,
+        Insulation = 1,
         WaterResistance = 0.2,
         Weight = 0.5,
         Tooltip = Tooltip_CoolKids,
@@ -73,7 +119,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Strapless Hawaiian M1 Steel Helmet,
+        DisplayName = Strapless Hawaiian Pattern M1 Steel Helmet,
         ClothingItem = Hat_M1HelmetHawaiianStrapless,
         BodyLocation = Hat,
         Icon = M1HelmetStrapless,
@@ -86,7 +132,7 @@ module SMUIClothing
         ClothingItemExtraOption = Strap,
         ClothingExtraSubmenu = Unstrap,
         ChanceToFall = 80,
-        Insulation = 0.10,
+        Insulation = 1,
         WaterResistance = 0.2,
         Weight = 0.5,
         Tooltip = Tooltip_CoolKids,
@@ -211,7 +257,7 @@ module SMUIClothing
         BulletDefense = 100,
         Insulation = 0.4,
         WindResistance = 0.3,
-        WaterResistance = 0.4,
+        WaterResistance = 1,
         Weight = 1,
         FabricType = Cotton,
         WorldStaticModel = JacketCoat_Ground,
@@ -238,7 +284,7 @@ module SMUIClothing
         BulletDefense = 100,
         Insulation = 0.4,
         WindResistance = 0.3,
-        WaterResistance = 0.4,
+        WaterResistance = 1,
         Weight = 1,
         FabricType = Cotton,
         Tooltip = Tooltip_Rolled,
@@ -262,7 +308,7 @@ module SMUIClothing
         ClothingItemExtraOption = TuckIn,
         ClothingExtraSubmenu = TuckOut,
         WindResistance = 0.3,
-        WaterResistance = 0.4,
+        WaterResistance = 1,
         FabricType = Cotton,
         WorldStaticModel = Trousers_Ground,
     }
@@ -284,7 +330,7 @@ module SMUIClothing
         ClothingItemExtraOption = TuckOut,
         ClothingExtraSubmenu = TuckIn,
         WindResistance = 0.3,
-        WaterResistance = 0.4,
+        WaterResistance = 1,
         FabricType = Cotton,
         Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
