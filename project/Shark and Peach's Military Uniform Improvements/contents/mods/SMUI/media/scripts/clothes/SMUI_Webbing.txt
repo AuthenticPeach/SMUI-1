@@ -196,7 +196,6 @@ module SMUIClothing
 	{
 		DisplayCategory = Webbing,
 		Type = Container,
-		DisplayName = LBV-88 Webbing w/ Buttpack,
 		ClothingItem = LBV88WebbingBag,
 		BodyLocation = SMUIWebbingPlus,
 		CanBeEquipped = SMUIWebbingPlus,
@@ -215,7 +214,6 @@ module SMUIClothing
 	{
 		DisplayCategory = Webbing,
 		Type = Container,
-		DisplayName = LBV-88 Webbing w/ Buttpack (Tightened),
 		ClothingItem = LBV88WebbingBagTightened,
 		BodyLocation = SMUIWebbingPlus,
 		CanBeEquipped = SMUIWebbingPlus,

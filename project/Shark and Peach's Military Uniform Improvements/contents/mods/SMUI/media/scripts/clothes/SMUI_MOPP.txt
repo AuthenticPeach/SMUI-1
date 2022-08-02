@@ -117,7 +117,7 @@ module SMUIClothing
 	Type = Clothing,
 	DisplayName = NBC Gloves,
 	ClothingItem = Gloves_HazmatGloves,
-    BodyLocation = SMUIHazmatGloves,
+    BodyLocation = Hands,
 	BloodLocation = Hands,
 	Icon = HazmatGloves,
 	ScratchDefense = 40,
