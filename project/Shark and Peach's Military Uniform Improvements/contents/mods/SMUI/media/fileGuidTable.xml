@@ -1136,6 +1136,46 @@
 	<guid>c1de3be1-2854-447f-afd0-5e2e45827329</guid>
 	</files>
 
+	<files>
+	<path>media/clothing/clothingItems/Jacket_Hawaiian.xml</path>
+	<guid>e82721f2-f563-4081-89eb-2412d2baf087</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Jacket_HawaiianRolled.xml</path>
+	<guid>a3dafebf-6c99-4f11-ae41-61bd2365b1f0</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Trousers_Hawaiian.xml</path>
+	<guid>52be3b2a-abba-414b-85a0-fa0fa9efd1d2</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Trousers_HawaiianTucked.xml</path>
+	<guid>89a38fc3-5e69-46f9-ac88-3fc0562c88b7</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Jacket_SharkCamo.xml</path>
+	<guid>20a995a5-2a58-4b3f-b420-f3ffe5390e84</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Jacket_SharkCamoRolled.xml</path>
+	<guid>f9e630ff-fa5b-42b6-98a7-0135e9e8f01b</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Trousers_SharkCamo.xml</path>
+	<guid>85a01975-315b-4499-9f9f-d6b5c70ea9e6</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Trousers_SharkCamoTucked.xml</path>
+	<guid>afdf07c9-e638-4435-9938-ef98a8cfffed</guid>
+	</files>
+
 	<!-- Vanilla Clothing -->
 	
 	<files>
