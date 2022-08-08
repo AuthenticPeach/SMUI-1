@@ -18,6 +18,7 @@ module SMUIClothing
 		Insulation = 0.75,
         WindResistance = 0.45,
 		RunSpeedModifier = 1,
+		Tags = Military,
         WorldStaticModel = M69Vest_WorldItem,
 	}
 
@@ -35,6 +36,7 @@ module SMUIClothing
 		Insulation = 0.75,
         WindResistance = 0.45,
 		Icon = RangerBodyArmorWoodland,
+		Tags = Military,
 		WorldStaticModel = MilitaryTacticalVest_WorldItem,
 	}
 
@@ -52,6 +54,7 @@ module SMUIClothing
 		Insulation = 0.75,
         WindResistance = 0.45,
 		Icon = RangerBodyArmorDesert,
+		Tags = Military,
 		WorldStaticModel = MilitaryTacticalVest_WorldItem,
 	}
 
@@ -70,6 +73,7 @@ module SMUIClothing
         WindResistance = 0.45,
 		WeightReduction	=	65,
 		Icon = MilitaryTacticalVest,
+		Tags = Military,
 		WorldStaticModel = MilitaryTacticalVest_WorldItem,
 	}
 
@@ -87,6 +91,7 @@ module SMUIClothing
 		Insulation = 0.75,
         WindResistance = 0.30,
 		Icon = MilitaryTankerVest,
+		Tags = Military,
 		WorldStaticModel = MilitaryTankerVest_WorldItem,
 	}
 
@@ -106,7 +111,8 @@ module SMUIClothing
 		Insulation = 0.75,
         WindResistance = 0.45,
 		RunSpeedModifier = 1,
-        WorldStaticModel = PASGTDesert_WorldItem,
+		Tags = Military,
+        WorldStaticModel = PASGTVestDesert_WorldItem,
 	}
 
 		item Vest_PASGTDesertCombat
@@ -125,7 +131,8 @@ module SMUIClothing
 		Insulation = 0.75,
         WindResistance = 0.45,
 		RunSpeedModifier = 1,
-        WorldStaticModel = PASGTDesertCombat_WorldItem,
+		Tags = Military,
+        WorldStaticModel = PASGTVestDesertCombat_WorldItem,
 	}
 
 		item Vest_PASGTOD
@@ -144,6 +151,7 @@ module SMUIClothing
 		Insulation = 0.75,
         WindResistance = 0.45,
 		RunSpeedModifier = 1,
-        WorldStaticModel = PASGTOD_WorldItem,
+		Tags = Military,
+        WorldStaticModel = PASGTVestOD_WorldItem,
 	}
 }

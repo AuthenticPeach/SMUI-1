@@ -22,7 +22,7 @@ module SMUIClothing
 		ClothingExtraSubmenu = FlipUp,
 		ChanceToFall = 0,
         Weight = 1.7,
-		WorldStaticModel = MilitaryHelmetNVGUP_WorldItem,
+		WorldStaticModel = PASGTNVGUP_WorldItem,
     }
 
 		item Hat_MilitaryHelmetNVGDOWN
@@ -45,7 +45,7 @@ module SMUIClothing
 		ClothingExtraSubmenu = FlipDown,
 		ChanceToFall = 0,
         Weight = 1.7,
-		WorldStaticModel = MilitaryHelmetNVGUP_WorldItem,
+		WorldStaticModel = PASGTNVGUP_WorldItem,
 		Tags = NVGchucked,
     }
 	
@@ -70,7 +70,7 @@ module SMUIClothing
 		ClothingExtraSubmenu = FlipUp,
 		ChanceToFall = 0,
         Weight = 1.7,
-		WorldStaticModel = MilitaryHelmetDesertNVGUP_WorldItem,
+		WorldStaticModel = PASGTHelmetDesertNVGUP_WorldItem,
     }
 
 		item Hat_MilitaryHelmetDesertNVGDOWN
@@ -93,7 +93,7 @@ module SMUIClothing
 		ClothingExtraSubmenu = FlipDown,
 		ChanceToFall = 0,
         Weight = 1.7,
-		WorldStaticModel = MilitaryHelmetDesertNVGUP_WorldItem,
+		WorldStaticModel = PASGTHelmetDesertNVGUP_WorldItem,
 		Tags = NVGchucked,
     }
 
@@ -118,7 +118,7 @@ module SMUIClothing
 		ClothingExtraSubmenu = FlipUp,
 		ChanceToFall = 0,
         Weight = 1.7,
-		WorldStaticModel = MilitaryHelmetDesertNVGUP_WorldItem,
+		WorldStaticModel = PASGTHelmetDesertCombatNVGUP_WorldItem,
     }
 
 		item Hat_MilitaryHelmetDesertCombatNVGDOWN
@@ -141,7 +141,7 @@ module SMUIClothing
 		ClothingExtraSubmenu = FlipDown,
 		ChanceToFall = 0,
         Weight = 1.7,
-		WorldStaticModel = MilitaryHelmetDesertNVGUP_WorldItem,
+		WorldStaticModel = PASGTDesertCombatNVGUP_WorldItem,
 		Tags = NVGchucked,
     }
 }

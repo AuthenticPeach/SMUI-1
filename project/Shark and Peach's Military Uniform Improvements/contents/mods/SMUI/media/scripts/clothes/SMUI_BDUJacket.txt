@@ -23,6 +23,7 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1,
         FabricType = Cotton,
+        Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
         
     }
@@ -50,6 +51,7 @@ module SMUIClothing
         Weight = 1,
         FabricType = Cotton,
         Tooltip = Tooltip_Rolled,
+        Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
 
     }
@@ -75,6 +77,7 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1,
         FabricType = Cotton,
+        Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
         
     }
@@ -102,6 +105,7 @@ module SMUIClothing
         Weight = 1,
         FabricType = Cotton,
         Tooltip = Tooltip_Rolled,
+        Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
 
     }
@@ -127,6 +131,7 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1,
         FabricType = Cotton,
+        Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
         
     }
@@ -154,6 +159,7 @@ module SMUIClothing
         Weight = 1,
         FabricType = Cotton,
         Tooltip = Tooltip_Rolled,
+        Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
 
     }
@@ -179,6 +185,7 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1,
         FabricType = Cotton,
+        Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
     }
 
@@ -205,6 +212,7 @@ module SMUIClothing
         Weight = 1,
         FabricType = Cotton,
         Tooltip = Tooltip_Rolled,
+        Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
 
     }
@@ -231,6 +239,7 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1,
         FabricType = Cotton,
+        Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
     }
 
@@ -257,6 +266,7 @@ module SMUIClothing
         Weight = 1,
         FabricType = Cotton,
         Tooltip = Tooltip_Rolled,
+        Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
     }
 
@@ -282,6 +292,7 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1,
         FabricType = Cotton,
+        Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
     }
 
@@ -308,6 +319,7 @@ module SMUIClothing
         Weight = 1,
         FabricType = Cotton,
         Tooltip = Tooltip_Rolled,
+        Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
     }
 
@@ -333,6 +345,7 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1,
         FabricType = Cotton,
+        Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
         
     }
@@ -360,6 +373,7 @@ module SMUIClothing
         Weight = 1,
         FabricType = Cotton,
         Tooltip = Tooltip_Rolled,
+        Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
 
     }
@@ -386,6 +400,7 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1,
         FabricType = Cotton,
+        Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
         
     }
@@ -413,6 +428,7 @@ module SMUIClothing
         Weight = 1,
         FabricType = Cotton,
         Tooltip = Tooltip_Rolled,
+        Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
 
     }

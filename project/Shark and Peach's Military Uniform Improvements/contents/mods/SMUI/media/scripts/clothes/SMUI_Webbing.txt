@@ -17,6 +17,7 @@ module SMUIClothing
         ClothingItemExtraOption = Fasten,
 		ClothingExtraSubmenu = Unfasten,
 		Icon = MilitaryWebbing,
+		Tags = Military,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
@@ -36,6 +37,7 @@ module SMUIClothing
         ClothingItemExtraOption = Unfasten,
 		ClothingExtraSubmenu = Fasten,
 		Icon = MilitaryWebbing,
+		Tags = Military,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
@@ -54,7 +56,8 @@ module SMUIClothing
 		ClothingItemExtra = SMUIClothing.MilitaryWebbingBagTightened,
         ClothingItemExtraOption = Fasten,
         ClothingExtraSubmenu = Unfasten,
-		Icon = MilitaryWebbingBag, 
+		Icon = MilitaryWebbingBag,
+		Tags = Military,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,	
 	}
@@ -74,6 +77,7 @@ module SMUIClothing
         ClothingItemExtraOption = Unfasten,
 		ClothingExtraSubmenu = Fasten,
 		Icon = MilitaryWebbingBag,
+		Tags = Military,
 		WorldStaticModel = MilitaryWebbing_WorldItem,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
@@ -169,6 +173,7 @@ module SMUIClothing
         ClothingItemExtraOption = Unfasten,
 		ClothingExtraSubmenu = Fasten,
 		Icon = LBV88,
+		Tags = Military,
 		WorldStaticModel = LBV88_WorldItem,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
@@ -188,6 +193,7 @@ module SMUIClothing
         ClothingItemExtraOption = Unfasten,
 		ClothingExtraSubmenu = Fasten,
 		Icon = LBV88,
+		Tags = Military,
 		WorldStaticModel = LBV88_WorldItem,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
@@ -206,6 +212,7 @@ module SMUIClothing
         ClothingItemExtraOption = Unfasten,
 		ClothingExtraSubmenu = Fasten,
 		Icon = LBV88Bag,
+		Tags = Military,
 		WorldStaticModel = LBV88_WorldItem,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}
@@ -224,6 +231,7 @@ module SMUIClothing
         ClothingItemExtraOption = Unfasten,
 		ClothingExtraSubmenu = Fasten,
 		Icon = LBV88Bag,
+		Tags = Military,
 		WorldStaticModel = LBV88_WorldItem,
 		AttachmentsProvided  	= 	SMUIWebbingLeft;SMUIWebbingRight,
 	}

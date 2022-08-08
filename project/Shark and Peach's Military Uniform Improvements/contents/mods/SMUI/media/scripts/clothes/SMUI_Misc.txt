@@ -1,7 +1,6 @@
 module SMUIClothing 
 {
     
-
         item Hat_DH132
 	{
 	    DisplayCategory = Helmet,
@@ -17,6 +16,7 @@ module SMUIClothing
 		BulletDefense = 100,
 		Insulation = 0.45,
 		WaterResistance = 0.4,
+        Tags = Military,
 		WorldStaticModel = DH132_WorldItem,
 	}
 
@@ -35,8 +35,47 @@ module SMUIClothing
 		BulletDefense = 100,
 		Insulation = 0.45,
 		WaterResistance = 0.4,
+        Tags = Military,
 		WorldStaticModel = DH132Goggles_WorldItem,
 	}
+
+        item Hat_MilitaryTacticalHelmet
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Bump Helmet,
+        ClothingItem = Hat_MilitaryTacticalHelmet,
+        BodyLocation = Hat,
+        Icon = MilitaryTacticalHelmet,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        CanHaveHoles = false,
+        Insulation = 0.5,
+        WaterResistance = 0.4,
+        Weight = 0.3,
+        Tags = Military,
+        WorldStaticModel = MilitaryTacticalHelmet_WorldItem,
+    }
+
+        item Hat_MilitaryTacticalHelmetGoggles
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Bump Helmet w/ Goggles,
+        ClothingItem = Hat_MilitaryTacticalHelmetGoggles,
+        BodyLocation = Hat,
+        Icon = MilitaryTacticalHelmetGoggles,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        CanHaveHoles = false,
+        Insulation = 0.5,
+        WaterResistance = 0.4,
+        Weight = 0.3,
+        Tags = Military,
+        WorldStaticModel = MilitaryTacticalHelmetGoggles_WorldItem,
+    }
     
         item Hat_M17
     {
@@ -56,7 +95,7 @@ module SMUIClothing
 		AttachmentType  = GasMask,	
 		StaticModel 	= GasMaskM17NotWorn,
         WorldStaticModel = M17_WorldItem,
-		Tags 			= GasMask,			
+		Tags 			= Military;GasMask,			
     }
 
         item Hat_M40
@@ -77,7 +116,7 @@ module SMUIClothing
 		AttachmentType  = GasMask,	
 		StaticModel 	= GasMaskM17NotWorn,
         WorldStaticModel = M40_WorldItem,
-		Tags 			= GasMask,			
+		Tags 			= Military;GasMask,			
     }
 
         item Hat_Shemagh
@@ -132,6 +171,7 @@ module SMUIClothing
 		Icon= MilitaryGoggles,
 		Weight = 0.1,
 		Cosmetic = TRUE,
+        Tags = Military,
         WorldStaticModel = MilitaryGoggles_WorldItem,
 	}
 
@@ -228,6 +268,7 @@ module SMUIClothing
         WindResistance = 0.20,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = CavalryHat_WorldItem,
     }
 
@@ -242,7 +283,8 @@ module SMUIClothing
         CanHaveHoles = false,
         ChanceToFall = 80,
         Insulation = 0.10,
-        Weight = 0.5,
+        Tags = Military,	
+        Weight = 0.1,
     }
 
     	item Bag_MilitaryMedicalBag
@@ -263,6 +305,7 @@ module SMUIClothing
         AttachmentReplacement = Bag,
         ReplaceInSecondHand = Bag_MilitaryMedicalBag_LHand holdingbagleft,
         ReplaceInPrimaryHand = Bag_MilitaryMedicalBag_RHand holdingbagright,
+        Tags = Military,	
         WorldStaticModel = MilitaryMedicalBag_WorldItem,
     }
 
@@ -284,6 +327,7 @@ module SMUIClothing
         AttachmentReplacement = Bag,
         ReplaceInSecondHand = Bag_CFP90PatrolPack_LHand holdingbagleft,
         ReplaceInPrimaryHand = Bag_CFP90PatrolPack_RHand holdingbagright,
+        Tags = Military,	
         WorldStaticModel = PatrolPack_WorldItem,
     }
 
@@ -305,6 +349,7 @@ module SMUIClothing
         ClothingItem = GasMaskBag,
         BloodLocation = Bag,
         BodyLocation = SMUITorsoRigPlus,
+        Tags 			= Military,
         WorldStaticModel = GasMaskBag_WorldItem,
     }
 
@@ -322,6 +367,7 @@ module SMUIClothing
 		Icon = MPBrassard,
 		CanHaveHoles = false,
         Tooltip = Tooltip_Right,
+        Tags = Military,	
 		WorldStaticModel = MPBrassard_WorldItem,
 	}
 
@@ -339,6 +385,7 @@ module SMUIClothing
 		Icon = MPBrassard,
 		CanHaveHoles = false,
         Tooltip = Tooltip_Left,
+        Tags = Military,	
 		WorldStaticModel = MPBrassard_WorldItem,
 	}
 
@@ -402,6 +449,7 @@ module SMUIClothing
 		Icon= GarrisonCap,
         ChanceToFall = 70,
 		Weight = 0.1,
+        Tags = Military,	
         WorldStaticModel = GarrisonCap_WorldItem,
 	}
 
@@ -423,6 +471,7 @@ module SMUIClothing
         Insulation = 0.9,
         WindResistance = 0.65,
         WaterResistance = 0.80,
+        Tags = Military,	
         WorldStaticModel = Boots_Ground,
 	}
 
@@ -523,7 +572,6 @@ module SMUIClothing
         WorldStaticModel = M65Jacket_WorldItem,
     }
 
-
         item Jacket_M65FieldJacketWoodland
     {
         DisplayCategory = Clothing,
@@ -542,6 +590,7 @@ module SMUIClothing
         WaterResistance = 0.6,
         Weight = 1,
         FabricType = Cotton,
+        Tags = Military,	
         WorldStaticModel = M65JacketWoodland_WorldItem,
     }
 
@@ -675,6 +724,7 @@ module SMUIClothing
         AttachmentReplacement = Bag,
         ReplaceInSecondHand = Bag_ALICEpack_LHand holdingbagleft,
         ReplaceInPrimaryHand = Bag_ALICEpack_RHand holdingbagright,
+        Tags = Military,	
         WorldStaticModel = LargeALICEGreen_WorldItem,
     }
 
@@ -698,6 +748,7 @@ module SMUIClothing
         AttachmentReplacement = Bag,
         ReplaceInSecondHand = Bag_ALICEpack_LHand holdingbagleft,
         ReplaceInPrimaryHand = Bag_ALICEpack_RHand holdingbagright,
+        Tags = Military,	
         WorldStaticModel = LargeALICEWoodland_WorldItem,
     }
     

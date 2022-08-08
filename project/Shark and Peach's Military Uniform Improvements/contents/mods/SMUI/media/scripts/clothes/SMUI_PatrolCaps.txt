@@ -17,7 +17,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
-        WorldStaticModel = PatrolCapOG107_WorldItem,
+        WorldStaticModel = OG106Cap_WorldItem,
     }
 
         item Hat_OG106CapReversed
@@ -35,7 +35,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
-        WorldStaticModel = PatrolCapOG107_WorldItem,
+        WorldStaticModel = PatrolCapOG106_WorldItem,
     }
 
         item Hat_PatrolCapOG107
@@ -143,6 +143,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapWoodland_WorldItem,
     }
 
@@ -161,6 +162,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapWoodland_WorldItem,
     }
 
@@ -215,6 +217,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapERDL_WorldItem,
     }
 
@@ -233,6 +236,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapERDL_WorldItem,
     }
 
@@ -251,6 +255,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapERDL_WorldItem,
     }
 
@@ -269,6 +274,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapWoodland_WorldItem,
     }
 
@@ -287,6 +293,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapERDLBrown_WorldItem,
     }
 
@@ -323,6 +330,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapERDLBrown_WorldItem,
     }
 
@@ -341,6 +349,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapDesert_WorldItem,
     }
 
@@ -359,6 +368,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapDesert_WorldItem,
     }
 
@@ -377,6 +387,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapDesert_WorldItem,
     }
 
@@ -395,6 +406,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapDesert_WorldItem,
     }
 
@@ -413,6 +425,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapDesertCombat_WorldItem,
     }
 
@@ -431,6 +444,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapDesertCombat_WorldItem,
     }
 
@@ -449,6 +463,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapDesert_WorldItem,
     }
 
@@ -467,6 +482,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapDesert_WorldItem,
     }
 
@@ -485,6 +501,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapUrban_WorldItem,
     }
 
@@ -503,6 +520,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapUrban_WorldItem,
     }
 
@@ -521,6 +539,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapUrban_WorldItem,
     }
 
@@ -539,6 +558,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapUrban_WorldItem,
     }
 
@@ -555,6 +575,7 @@ module SMUIClothing
         Insulation = 0.60,
         WindResistance = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapWoodland_WorldItem,
     }
 
@@ -571,6 +592,7 @@ module SMUIClothing
         Insulation = 0.60,
         WindResistance = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = PatrolCapDesert_WorldItem,
     }
 

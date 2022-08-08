@@ -16,6 +16,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = BoonieHatWoodland_WorldItem,
     }
 
@@ -34,6 +35,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = BoonieHatWoodland_WorldItem,
     }
 
@@ -52,6 +54,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = BoonieHatSixColor_WorldItem,
     }
 
@@ -70,6 +73,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = BoonieHatSixColor_WorldItem,
     }
 
@@ -88,6 +92,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = BoonieHatThreeColor_WorldItem,
     }
 
@@ -106,6 +111,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = BoonieHatThreeColor_WorldItem,
     }
 
@@ -124,6 +130,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = BoonieHatERDL_WorldItem,
     }
 
@@ -142,6 +149,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
+        Tags = Military,
         WorldStaticModel = BoonieHatERDL_WorldItem,
     }
 

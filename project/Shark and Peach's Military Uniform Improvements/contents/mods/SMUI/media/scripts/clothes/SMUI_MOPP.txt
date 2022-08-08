@@ -21,6 +21,7 @@ module SMUIClothing
     ClothingItemExtraOption = UpHoodie,
     ClothingExtraSubmenu = DownHoodie,
     WindResistance = 0.90,
+    Tags = Military,
     WorldStaticModel = Jumper_Ground,
     }
 
@@ -45,6 +46,7 @@ module SMUIClothing
     ClothingExtraSubmenu = UpHoodie,
     WindResistance = 0.90,
     RemoveOnBroken = true,
+    Tags = Military,
     WorldStaticModel = Hoodie_Ground,
     }
 
@@ -67,6 +69,7 @@ module SMUIClothing
     WindResistance = 0.65,
     WaterResistance = 1.0,
     RemoveOnBroken = true,
+    Tags = Military,
     WorldStaticModel = Trousers_Ground,
     }
 
@@ -87,6 +90,7 @@ module SMUIClothing
     Insulation = 0.90,
     WindResistance = 0.65,
     WaterResistance = 1.0,
+    Tags = Military,
     WorldStaticModel = M17Doff_WorldItem,
     }
 
@@ -107,6 +111,7 @@ module SMUIClothing
     Insulation = 0.90,
     WindResistance = 0.65,
     WaterResistance = 1.0,
+    Tags = Military,
     WorldStaticModel = M40Doff_WorldItem,
     }
 
@@ -125,6 +130,7 @@ module SMUIClothing
     Weight = 0.1,
     Insulation = 0.75,
     WindResistance = 0.75,
+    Tags = Military,
     WorldStaticModel = GlovesLong_Ground,
 	}
 
@@ -165,6 +171,7 @@ module SMUIClothing
     Insulation = 0.3,
     WindResistance = 1,
     WaterResistance = 1,
+    Tags = Military,
     WorldStaticModel = HazmatBoots_WorldItem,
 	}
 
