@@ -1,1 +1,1 @@
-Events.OnGameBoot.Add(print("SMUI - Complete overhaul"))
+Events.OnGameBoot.Add(print("SMUI - Fixes"))
