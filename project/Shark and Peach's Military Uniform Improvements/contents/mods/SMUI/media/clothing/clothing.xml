@@ -1278,7 +1278,7 @@
 		</m_items>	
 	</m_MaleOutfits>
 
-	<!-- Civilians, Bandits, and Hunters -->
+	<!-- Survivors, Bandits, and Hunters -->
 	
 	<m_MaleOutfits>
 		<m_Name>SharkHunter</m_Name>
@@ -1374,6 +1374,48 @@
 		</m_items>
 	</m_MaleOutfits>
 
+	<m_MaleOutfits>
+		<m_Name>SharkBandit</m_Name>
+		<m_Guid>c7c7db1f-a783-4c67-a904-7713f985631c</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
+		<m_items> <!-- Face Paint -->
+			<itemGUID>c1de3be1-2854-447f-afd0-5e2e45827329</itemGUID>
+		</m_items>
+		<m_items> <!-- Tigerstripe Beret-->
+			<itemGUID>93563768-750f-4d77-99d9-9df0f575db6b</itemGUID>
+		</m_items>
+		<m_items> <!-- ERDL Beret-->
+		<probability>0.5</probability>
+			<itemGUID>fe7f38b5-d967-43a7-ba7e-07fb1e4a194a</itemGUID>
+		</m_items>
+		<m_items> <!-- Aviators-->
+			<itemGUID>6b01e5b3-860d-4361-b43f-7b8ea152f1bf</itemGUID>
+		</m_items>
+		<m_items> <!-- M-1956 Webbing -->
+			<itemGUID>09c71cc7-b135-4308-bce0-2454b6d2da2e</itemGUID>
+		</m_items>
+		<m_items> <!-- Ammostrap Bullets -->
+			<itemGUID>15514b21-1567-4a0b-a171-9740ee9b7b3a</itemGUID>
+		</m_items>
+		<m_items> <!-- Army Boots -->
+			<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID>
+		</m_items>
+		<m_items> <!-- Gulf War Novelty T-Shirt -->
+			<itemGUID>3fb729e9-4ec9-4a7c-bb77-d5abdbff7699</itemGUID>
+		</m_items>
+		<m_items> <!-- Highland ERDL Pants (Tucked) -->
+			<itemGUID>499513c5-8d3a-40ad-85a6-9adc64bffd78</itemGUID>
+		</m_items>
+		<m_items> <!-- Tigerstripe Pants (Tucked) -->
+		<probability>0.5</probability>
+			<itemGUID>85e403e5-62c1-4249-b950-1ea7816498d3</itemGUID>
+		</m_items>
+	</m_MaleOutfits>
+	
 	<!--Expanded Helicopter Events Integration-->
 
 	<m_MaleOutfits>
