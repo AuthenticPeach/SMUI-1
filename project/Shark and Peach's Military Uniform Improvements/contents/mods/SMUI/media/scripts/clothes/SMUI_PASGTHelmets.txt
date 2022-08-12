@@ -206,7 +206,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName =  Desert Battle PASGT Helmet (Strapless),
+        DisplayName =  Desert Combat PASGT Helmet (Strapless),
         ClothingItem = Hat_MilitaryHelmetDesertStrapless,
         BodyLocation = Hat,
         Icon = DesertMilitaryHelmetStrapless,
