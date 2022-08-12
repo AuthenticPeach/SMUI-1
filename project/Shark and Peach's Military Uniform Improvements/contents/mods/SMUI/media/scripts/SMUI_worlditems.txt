@@ -292,18 +292,18 @@ module Base
 		model DesertPASGTHelmetGoggles_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmetGoggles_WorldItem,
-		texture = WorldItems/MilitaryHelmetDesertGoggles,
+		texture = WorldItems/DesertPASGTHelmetGoggles,
 		scale = 0.5,
 	}
 
 		model DesertCombatPASGTHelmetGoggles_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmetGoggles_WorldItem,
-		texture = WorldItems/MilitaryHelmetDesertCombatGoggles,
+		texture = WorldItems/DesertCombatPASGTHelmetGoggles,
 		scale = 0.5,
 	}
 
-		model WoodlandPASGTRiot_WorldItem
+		model WoodlandPASGTHelmetRiot_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmetRiot_WorldItem,
 		texture = WorldItems/WoodlandPASGTHelmetRiot,
