@@ -20,7 +20,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = PASGTWoodland_WorldItem,
+		WorldStaticModel = WoodlandPASGTHelmet_WorldItem,
     }
 
         item Hat_MilitaryHelmetRagtopStrapless
@@ -43,7 +43,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = PASGTWoodland_WorldItem,
+		WorldStaticModel = WoodlandPASGTHelmet_WorldItem,
     }
 
         item Hat_MilitaryHelmet
@@ -65,7 +65,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = PASGTWoodland_WorldItem,
+		WorldStaticModel = WoodlandPASGTHelmet_WorldItem,
     }
 
         item Hat_MilitaryHelmetStrapless
@@ -88,7 +88,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = PASGTWoodland_WorldItem,
+		WorldStaticModel = WoodlandPASGTHelmet_WorldItem,
     }
 
 	    item Hat_MilitaryHelmetGoggles
@@ -110,7 +110,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
         Tags = Military,
-        WorldStaticModel = PASGTWoodlandGoggles_WorldItem,
+        WorldStaticModel = WoodlandPASGTHelmetGoggles_WorldItem,
     }
 
         item Hat_MilitaryHelmetGogglesStrapless
@@ -133,7 +133,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = PASGTWoodlandGoggles_WorldItem,
+		WorldStaticModel = WoodlandPASGTHelmetGoggles_WorldItem,
     }
 
 	    item Hat_MilitaryHelmetNVGMount
@@ -154,7 +154,7 @@ module SMUIClothing
 		Insulation = 0.25,
 		WaterResistance = 0.2,
         Weight = 1,
-		WorldStaticModel = PASGTNVGMount_WorldItem,
+		WorldStaticModel = WoodlandPASGTHelmetPVS7_WorldItem,
 	}
 
         item Hat_MilitaryHelmetDesert
@@ -176,7 +176,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = PASGTDesert_WorldItem,
+		WorldStaticModel = DesertPASGTHelmet_WorldItem,
     }
 
         item Hat_MilitaryHelmetDesertCombat
@@ -198,7 +198,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = PASGTDesertCombat_WorldItem,
+		WorldStaticModel = DesertCombatPASGTHelmet_WorldItem,,
     }
 
 
@@ -222,7 +222,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = PASGTDesert_WorldItem,
+		WorldStaticModel = DesertCombatPASGTHelmet_WorldItem,,
     }
 
         item Hat_MilitaryHelmetDesertCombatStrapless
@@ -245,7 +245,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = PASGTDesertCombat_WorldItem,
+		WorldStaticModel = DesertCombatPASGTHelmet_WorldItem,_WorldItem,
     }
 
 	    item Hat_MilitaryHelmetDesertGoggles
@@ -267,7 +267,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = PASGTDesertGoggles_WorldItem,
+		WorldStaticModel = DesertPASGTHelmetGoggles_WorldItem,_WorldItem,
     }
 
 	    item Hat_MilitaryHelmetDesertCombatGoggles
@@ -289,7 +289,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = MilitaryHelmetDesertGoggles_WorldItem,
+		WorldStaticModel = DesertCombatPASGTHelmet_WorldItem,
     }
 
         item Hat_MilitaryHelmetDesertGogglesStrapless
@@ -312,7 +312,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = MilitaryHelmetDesertGoggles_WorldItem,
+		WorldStaticModel = DesertPASGTHelmetGoggles_WorldItem,
     }
 
         item Hat_MilitaryHelmetDesertCombatGogglesStrapless
@@ -335,7 +335,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = MilitaryHelmetDesertCombatGoggles_WorldItem,
+		WorldStaticModel = DesertCombatPASGTHelmetGoggles_WorldItem,
     }
 
     	item Hat_MilitaryHelmetDesertNVGMount
@@ -357,7 +357,7 @@ module SMUIClothing
 		WaterResistance = 0.2,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = MilitaryHelmetDesertNVGMount_WorldItem,
+		WorldStaticModel = DesertPASGTHelmetNVGMount_WorldItem,
 	}
 
         item Hat_MilitaryHelmetDesertCombatNVGMount
@@ -379,7 +379,7 @@ module SMUIClothing
 		WaterResistance = 0.2,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = MilitaryHelmetDesertCombatNVGMount_WorldItem,
+		WorldStaticModel = DesertCombatPASGTHelmetNVGMount_WorldItem,
 	}
 
         item Hat_MilitaryHelmetRiot
@@ -402,7 +402,7 @@ module SMUIClothing
         WaterResistance = 0.2,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = MilitaryHelmetRiot_WorldItem,
+		WorldStaticModel = WoodlandPASGTHelmetRiot_WorldItem,
     }
 
         item Hat_MilitaryHelmetRiotUP
@@ -425,6 +425,6 @@ module SMUIClothing
         WaterResistance = 0.2,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = MilitaryHelmetRiot_WorldItem,
+		WorldStaticModel = WoodlandPASGTHelmetRiot_WorldItem,
     }
 }
