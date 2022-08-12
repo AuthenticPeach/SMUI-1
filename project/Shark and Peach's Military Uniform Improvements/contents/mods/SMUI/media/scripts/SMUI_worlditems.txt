@@ -275,38 +275,38 @@ module Base
 		scale = 0.5,
 	}
 	
-		model MilitaryGoggles_WorldItem
+		model WoodlandPASGTHelmetGoggles_WorldItem
 	{
 		mesh = WorldItems/MilitaryGoggles_WorldItem,
-		texture = WorldItems/MilitaryGoggles,
+		texture = WorldItems/WoodlandPASGTHelmetGoggles,
 		scale = 0.5,
 	}
 
-		model MilitaryHelmetGoggles_WorldItem
+		model WoodlandPASGTHelmetGoggles_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmetGoggles_WorldItem,
-		texture = WorldItems/MilitaryHelmetGoggles,
+		texture = WorldItems/WoodlandPASGTHelmetGoggles,
 		scale = 0.5,
 	}
 
-		model MilitaryHelmetDesertGoggles_WorldItem
+		model PASGTHelmetDesertGoggles_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmetGoggles_WorldItem,
 		texture = WorldItems/MilitaryHelmetDesertGoggles,
 		scale = 0.5,
 	}
 
-		model MilitaryHelmetDesertCombatGoggles_WorldItem
+		model DesertCombatPASGTHelmetGoggles_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmetGoggles_WorldItem,
 		texture = WorldItems/MilitaryHelmetDesertCombatGoggles,
 		scale = 0.5,
 	}
 
-		model MilitaryHelmetRiot_WorldItem
+		model WoodlandPASGTRiot_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmetRiot_WorldItem,
-		texture = WorldItems/MilitaryHelmetRiot,
+		texture = WorldItems/WoodlandPASGTHelmetRiot,
 		scale = 0.5,
 	}
 
