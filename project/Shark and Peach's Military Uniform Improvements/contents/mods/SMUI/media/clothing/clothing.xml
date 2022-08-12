@@ -1277,7 +1277,103 @@
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
 		</m_items>	
 	</m_MaleOutfits>
+
+	<!-- Civilians, Bandits, and Hunters -->
 	
+	<m_MaleOutfits>
+		<m_Name>SharkHunter</m_Name>
+		<m_Guid>b6735673-456b-4d0f-b361-6a090705eab9</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
+			<m_items> <!-- Face Paint -->
+		<probability>0.5</probability>
+			<itemGUID>c1de3be1-2854-447f-afd0-5e2e45827329</itemGUID>
+		</m_items>
+		<m_items> <!-- Watch Cap -->
+		<probability>0.3</probability>
+			<itemGUID>e5cc2ab2-7ef5-446a-9089-017361485d88</itemGUID>
+		</m_items>
+		<m_items> <!-- Hunting Vest -->
+			<itemGUID>b0d9f681-08f3-4e05-913e-75909a2203ce</itemGUID>
+		</m_items>	
+		<m_items> <!-- Army Boots -->
+			<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID>
+		</m_items>
+		<m_items> <!-- Riding Boots -->
+		<probability>0.5</probability>
+			<itemGUID>09bc4da2-6038-4575-985b-c27b8dbfef6c</itemGUID>
+		</m_items>
+		<m_items> <!-- T-Shirt -->
+			<itemGUID>19af00e4-ed4d-49bc-a893-a4a3376fe6da</itemGUID>
+		</m_items>
+		<m_items> <!-- Duckhunter Pants -->
+			<itemGUID>426bd1a9-ff7b-42c2-a96b-67ff4c001b92</itemGUID>
+		</m_items>
+		<m_items> <!-- Duckhunter Jacket -->
+			<itemGUID>b637652c-0e59-4aad-b40e-03c160cf2e15</itemGUID>
+		</m_items>
+		<m_items> <!-- Frogskin Jacket -->
+		<probability>0.5</probability>
+			<itemGUID>bd04935d-05cb-4b68-a2fc-f4b8dfb2f0c3</itemGUID>
+		</m_items>
+		<m_items> <!-- Frogskin Trousers -->
+		<probability>0.5</probability>
+			<itemGUID>7ede982e-8982-4ffb-8433-9710f156eab3</itemGUID>
+		</m_items>
+	</m_MaleOutfits>
+
+	<m_MaleOutfits>
+		<m_Name>SharkPreparedSurvivor</m_Name>
+		<m_Guid>c0df1352-dce9-453d-99c5-6a8f22e46ffd</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
+			<m_items> <!-- Face Paint -->
+		<probability>0.5</probability>
+			<itemGUID>c1de3be1-2854-447f-afd0-5e2e45827329</itemGUID>
+		</m_items>
+		<m_items> <!-- M1 Helmet (Strapless) -->
+		<probability>0.5</probability>
+			<itemGUID>63276add-e9c1-46fe-97be-dc7fd55bd315</itemGUID>
+		</m_items>
+		<m_items> <!-- M17 Gas Mask -->
+		<probability>0.5</probability>
+			<itemGUID>2d32997a-b8e5-463d-b718-06fcf2a73437</itemGUID>
+		</m_items>
+		<m_items> <!-- M-1956 Webbing -->
+			<itemGUID>5deec6a0-e624-40f5-a88c-b5970bd041f5</itemGUID>
+		</m_items>
+		<m_items> <!-- Army Boots -->
+			<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID>
+		</m_items>
+		<m_items> <!-- Riding Boots -->
+		<probability>0.5</probability>
+			<itemGUID>09bc4da2-6038-4575-985b-c27b8dbfef6c</itemGUID>
+		</m_items>
+		<m_items> <!-- T-Shirt -->
+			<itemGUID>19af00e4-ed4d-49bc-a893-a4a3376fe6da</itemGUID>
+		</m_items>
+		<m_items> <!-- Highland ERDL Pants (Tucked) -->
+			<itemGUID>499513c5-8d3a-40ad-85a6-9adc64bffd78</itemGUID>
+		</m_items>
+		<m_items> <!-- Lowland ERDL Jacket -->
+			<itemGUID>ffed1370-8170-48c9-b48a-046436673492</itemGUID>
+		</m_items>
+		<m_items> <!-- Mitchell Pattern M65 Jacket -->
+		<probability>0.5</probability>
+			<itemGUID>1fd8b936-ab26-412a-905d-1e65ac11fee9</itemGUID>
+		</m_items>
+		<m_items> <!-- OG-107 Utility Pants (Tucked) -->
+		<probability>0.5</probability>
+			<itemGUID>d0365fa3-bf46-42f1-95ae-cef7144924d7</itemGUID>
+		</m_items>
+	</m_MaleOutfits>
+
 	<!--Expanded Helicopter Events Integration-->
 
 	<m_MaleOutfits>
