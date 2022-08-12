@@ -194,6 +194,65 @@ ZombiesZoneDefinition.TrailerPark = {
 		name="SharkHunter",
 		chance=3,
 	},
+	
+	SharkVeteran = {
+		name="SharkHunter",
+		chance=3,
+	},
+}
+
+ZombiesZoneDefinition.StreetPoor = {
+	Hobbo = {
+		name="Hobbo",
+		chance=15,
+		beardStyles="Long:15;Moustache:15;Full:15;BeardOnly:15",
+	},
+	Punk = {
+		name="Punk",
+		chance=15,
+		beardStyles="null:90",
+	},
+	Biker = {
+		name="Biker",
+		chance=15,
+		beardStyles="Long:10;Chops:10;Goatee:10;Moustache:10;Full:10;BeardOnly:10",
+	},
+	Bandit = {
+		name="Bandit",
+		chance=5,
+	},
+	
+	SharkVeteran = {
+		name="SharkHunter",
+		chance=3,
+	},
+}
+
+ZombiesZoneDefinition.Bar = {
+	Hobbo = {
+		name="Hobbo",
+		chance=15,
+		beardStyles="Long:15;Moustache:15;Full:15;BeardOnly:15",
+	},
+	Punk = {
+		name="Punk",
+		chance=15,
+		beardStyles="null:90",
+	},
+	Biker = {
+		name="Biker",
+		chance=15,
+		beardStyles="Long:10;Chops:10;Goatee:10;Moustache:10;Full:10;BeardOnly:10",
+	},
+	Bandit = {
+		name="Bandit",
+		chance=5,
+	},
+	
+	SharkVeteran = {
+		name="SharkHunter",
+		chance=3,
+	},
 }
 
 -- total chance can be over 100% we don't care as we'll roll on the totalChance and not a 100 (unlike the specific outfits on top of this)
@@ -205,5 +264,6 @@ table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkArmyCamoGreenReserv
 table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkArmyInstructor", chance=0.01});
 table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkTankCrewman", chance=0.01});
 table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkMilitaryPolice", chance=0.01});
+table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkVeteran", chance=0.01});
 table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkBandit", chance=0.01});
 table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkPreparedSurvivor", chance=0.01});

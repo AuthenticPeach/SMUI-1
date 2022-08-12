@@ -1280,6 +1280,40 @@
 
 	<!-- Survivors, Bandits, and Hunters -->
 	
+		<m_MaleOutfits>
+		<m_Name>SharkVeteran</m_Name>
+		<m_Guid>6d857b63-2d22-4ca7-9c7f-b73bf61f1112</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
+		<m_items> <!-- M65 Jacket -->
+			<itemGUID>58f60ce0-5fa6-4a4b-91de-5cc1af6bd3e3</itemGUID>
+		</m_items>
+		<m_items> <!-- Mitchell Pattern M65 Jacket -->
+		<probability>0.5</probability>
+			<itemGUID>1fd8b936-ab26-412a-905d-1e65ac11fee9</itemGUID>
+		</m_items>
+		<m_items> <!-- Dog-Tags -->
+		<probability>0.5</probability>
+			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
+		</m_items>
+		<m_items> <!-- Black Combat Boots -->
+			<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID>
+		</m_items>
+		<m_items> <!-- Black Boots -->
+		<probability>0.5</probability>
+			<itemGUID>2717dfdb-49ef-401a-9715-c4487ce6abea</itemGUID>
+		</m_items>
+		<m_items> <!-- T-Shirt -->
+			<itemGUID>19af00e4-ed4d-49bc-a893-a4a3376fe6da</itemGUID>
+		</m_items>
+		<m_items> <!-- Jeans -->
+			<itemGUID>06b8adc1-ef58-4545-a30a-6ca9920c1b82</itemGUID>
+		</m_items>
+	</m_MaleOutfits>
+
 	<m_MaleOutfits>
 		<m_Name>SharkHunter</m_Name>
 		<m_Guid>b6735673-456b-4d0f-b361-6a090705eab9</m_Guid>
