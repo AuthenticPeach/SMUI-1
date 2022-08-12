@@ -177,59 +177,59 @@ module Base
 		scale = 0.5,
 	}
 
-		model MilitaryHelmetNVGMount_WorldItem
+		model WoodlandPASGTHelmetNVGMount_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmetNVGMount_WorldItem,
-		texture = WorldItems/MilitaryHelmetNVG,
+		texture = WorldItems/WoodlandPASGTHelmetPVS7,
 		scale = 0.5,
 	}
 
-		model MilitaryHelmetNVGUP_WorldItem
+		model WoodlandPASGTHelmetPVS7_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmetNVGUP_WorldItem,
-		texture = WorldItems/MilitaryHelmetNVG,
+		texture = WorldItems/WoodlandPASGTHelmetPVS7,
 		scale = 0.5,
 	}
 
-		model MilitaryHelmetDesert_WorldItem
+		model DesertPASGTHelmet_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmet_WorldItem,
-		texture = WorldItems/MilitaryHelmetDesert,
+		texture = WorldItems/DesertPASGTHelmet,
 		scale = 0.5,
 	}
 
 		model MilitaryHelmetDesertCombat_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmet_WorldItem,
-		texture = WorldItems/MilitaryHelmetDesertCombat,
+		texture = WorldItems/DesertCombatPASGTHelmet,
 		scale = 0.5,
 	}
 
-		model MilitaryHelmetDesertNVGMount_WorldItem
+		model DesertPASGTHelmetNVGMount_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmetNVGMount_WorldItem,
-		texture = WorldItems/MilitaryHelmetDesertNVG,
+		texture = WorldItems/DesertPASGTHelmetPVS7,
 		scale = 0.5,
 	}
 
-		model MilitaryHelmetDesertCombatNVGMount_WorldItem
+		model DesertCombatPASGTHelmetNVGMount_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmetNVGMount_WorldItem,
 		texture = WorldItems/MilitaryHelmetDesertCombatNVG,
 		scale = 0.5,
 	}
 
-		model MilitaryHelmetDesertNVGUP_WorldItem
+		model DesertPASGTHelmetPVS7_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmetNVGUP_WorldItem,
-		texture = WorldItems/MilitaryHelmetDesertNVG,
+		texture = WorldItems/DesertPASGTHelmetPVS7,
 		scale = 0.5,
 	}
 
-		model MilitaryHelmetDesertCombatNVGUP_WorldItem
+		model DesertCombatPASGTHelmetPVS7_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmetNVGUP_WorldItem,
-		texture = WorldItems/MilitaryHelmetDesertCombatNVG,
+		texture = WorldItems/DesertCombatPASGTHelmetPVS7,
 		scale = 0.5,
 	}
 
