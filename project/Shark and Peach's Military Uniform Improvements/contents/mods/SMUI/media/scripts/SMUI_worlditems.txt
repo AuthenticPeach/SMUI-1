@@ -215,7 +215,7 @@ module Base
 		model DesertCombatPASGTHelmetNVGMount_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmetNVGMount_WorldItem,
-		texture = WorldItems/MilitaryHelmetDesertCombatNVG,
+		texture = WorldItems/DesertCombatPASGTHelmetPVS7,
 		scale = 0.5,
 	}
 
