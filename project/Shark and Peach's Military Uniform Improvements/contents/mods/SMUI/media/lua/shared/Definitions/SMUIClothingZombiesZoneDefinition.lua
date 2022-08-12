@@ -145,6 +145,29 @@ SMUIZombiesZoneDefinition.SecretBase = {
 	},
 }
 
+ZombiesZoneDefinition.Survivalist = {
+	Survivalist = {
+		name="Survivalist",
+		chance=10,
+	},
+
+	SharkPreparedSurivor = {
+		name="SharkPreparedSurvivor",
+		chance=10,
+	},
+
+	SharkHunter = {
+		name="SharkHunter",
+		chance=10,
+	},
+
+	Hunter = {
+		name="Hunter",
+		chance=10,
+		beardStyles="Long:10;Chops:10;Goatee:10;Moustache:10;Full:10;BeardOnly:10",
+	},
+}
+
 -- total chance can be over 100% we don't care as we'll roll on the totalChance and not a 100 (unlike the specific outfits on top of this)
 SMUIZombiesZoneDefinition.Default = ZombiesZoneDefinition.Default or {};
 
