@@ -289,7 +289,7 @@ module Base
 		scale = 0.5,
 	}
 
-		model PASGTHelmetDesertGoggles_WorldItem
+		model DesertPASGTHelmetGoggles_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmetGoggles_WorldItem,
 		texture = WorldItems/MilitaryHelmetDesertGoggles,
