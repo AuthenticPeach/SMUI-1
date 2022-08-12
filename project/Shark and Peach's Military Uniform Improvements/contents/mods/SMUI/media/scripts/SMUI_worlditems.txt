@@ -142,10 +142,10 @@ module Base
 		scale = 0.5,
 	}
 
-		model MilitaryHelmet_WorldItem
+		model WoodlandPASGTHelmet_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmet_WorldItem,
-		texture = WorldItems/MilitaryHelmet,
+		texture = WorldItems/WoodlandPASGTHelmet,
 		scale = 0.5,
 	}
 
