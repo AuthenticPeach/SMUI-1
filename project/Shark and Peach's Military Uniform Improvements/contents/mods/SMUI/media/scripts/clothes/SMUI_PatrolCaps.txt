@@ -97,7 +97,7 @@ module SMUIClothing
         DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName =  Rolled OG-107 Patrol Cap (Reversed),
-        ClothingItem = Hat_PatrolCapOG107Rolled,
+        ClothingItem = Hat_PatrolCapOG107RolledReversed,
         BodyLocation = Hat,
         Icon = PatrolCapOG107,
         CanHaveHoles = false,
