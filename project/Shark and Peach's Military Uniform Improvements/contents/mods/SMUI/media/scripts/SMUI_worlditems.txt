@@ -85,6 +85,18 @@ module Base
 		texture = WorldItems/MilitaryTacticalVest,
 		scale = 0.5,
 	}
+	    model RangerBodyArmor_WorldItem
+	{
+		mesh = WorldItems/MilitaryTacticalVest_WorldItem,
+		texture = clothes/vest/Vest_RangerBodyArmor,
+		scale = 0.5,
+	}
+	    model RangerBodyArmorDesert_WorldItem
+	{
+		mesh = WorldItems/MilitaryTacticalVest_WorldItem,
+		texture = clothes/vest/Vest_RangerBodyArmorDesert,
+		scale = 0.5,
+	}
 
 		model M17_WorldItem
 	{
