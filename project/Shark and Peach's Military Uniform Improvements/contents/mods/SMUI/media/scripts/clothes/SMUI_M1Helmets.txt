@@ -574,7 +574,7 @@ module SMUIClothing
         DisplayName = Strapless Lowland ERDL M1 Steel Helmet w/ Goggles,
         ClothingItem = Hat_M1HelmetERDLGogglesStrapless,
         BodyLocation = Hat,
-        Icon = M1HelmetERDLGogglesStrapless,
+        Icon = M1HelmetERDLStraplessGoggles,
 		BloodLocation = Head,
         BiteDefense = 100,
 		ScratchDefense = 100,
