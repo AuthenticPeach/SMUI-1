@@ -520,12 +520,21 @@ table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.T
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 3);
 
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Mask_ExtremeColdWeather");
-table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 0.2);
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 1);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Mask_ExtremeColdWeather");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3);
 table.insert(ProceduralDistributions.list.CampingStoreClothes.items, "SMUIClothing.Mask_ExtremeColdWeather");
 table.insert(ProceduralDistributions.list.CampingStoreClothes.items, 3);
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Mask_ExtremeColdWeather");
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Trousers_Mitchell");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 1);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Trousers_Mitchell");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3);
+table.insert(ProceduralDistributions.list.CampingStoreClothes.items, "SMUIClothing.Trousers_Mitchell");
+table.insert(ProceduralDistributions.list.CampingStoreClothes.items, 3);
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Trousers_Mitchell");
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
 
 

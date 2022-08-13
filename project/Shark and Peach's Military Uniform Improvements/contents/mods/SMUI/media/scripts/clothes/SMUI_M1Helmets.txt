@@ -392,7 +392,7 @@ module SMUIClothing
         DisplayCategory = Helmet,
         Type = Clothing,
         DisplayName = Strapless Autumn Mitchell M1 Steel Helmet w/ Goggles,
-        ClothingItem = Hat_M1HelmetMitchellGogglesStrapless,
+        ClothingItem = Hat_M1HelmetAutumnMitchellGogglesStrapless,
         BodyLocation = Hat,
         Icon = M1HelmetMitchellGogglesStrapless,
 		BloodLocation = Head,
@@ -407,7 +407,7 @@ module SMUIClothing
         Insulation = 0.10,
         WaterResistance = 0.2,
         Weight = 0.5,
-		WorldStaticModel = M1HelmetMitchellGoggles_WorldItem,
+		WorldStaticModel = M1HelmetAutumnMitchellGoggles_WorldItem,
     }
 
         item Hat_M1HelmetThreeColor
@@ -507,7 +507,7 @@ module SMUIClothing
         DisplayName =  Lowland ERDL M1 Steel Helmet,
         ClothingItem = Hat_M1HelmetERDL,
         BodyLocation = Hat,
-        Icon = M1ERDLHelmet,
+        Icon = M1HelmetERDL,
 		BloodLocation = Head,
         BiteDefense = 100,
 		ScratchDefense = 100,

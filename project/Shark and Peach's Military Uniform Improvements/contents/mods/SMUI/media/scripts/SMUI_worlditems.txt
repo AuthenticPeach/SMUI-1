@@ -198,7 +198,7 @@ module Base
 		scale = 0.5,
 	}
 
-		model MilitaryHelmetDesertCombat_WorldItem
+		model DesertCombatPASGTHelmet_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmet_WorldItem,
 		texture = WorldItems/DesertCombatPASGTHelmet,
@@ -380,6 +380,13 @@ module Base
 		scale = 0.5,
 	}
 
+		model M1HelmetWoodland_WorldItem
+	{
+		mesh = WorldItems/M1Helmet_WorldItem,
+		texture = WorldItems/M1HelmetWoodland,
+		scale = 0.5,
+	}
+
 		model M1HelmetWoodlandGoggles_WorldItem
 	{
 		mesh = WorldItems/M1HelmetGoggles_WorldItem,
@@ -401,10 +408,31 @@ module Base
 		scale = 0.5,
 	}
 
+		model M1HelmetMitchell_WorldItem
+	{
+		mesh = WorldItems/M1Helmet_WorldItem,
+		texture = WorldItems/M1HelmetMitchell,
+		scale = 0.5,
+	}
+
 		model M1HelmetMitchellGoggles_WorldItem
 	{
 		mesh = WorldItems/M1HelmetGoggles_WorldItem,
 		texture = WorldItems/M1HelmetMitchellGoggles,
+		scale = 0.5,
+	}
+
+		model M1HelmetAutumnMitchell_WorldItem
+	{
+		mesh = WorldItems/M1Helmet_WorldItem,
+		texture = WorldItems/M1HelmetAutumnMitchell,
+		scale = 0.5,
+	}
+
+		model M1HelmetAutumnMitchellGoggles_WorldItem
+	{
+		mesh = WorldItems/M1HelmetGoggles_WorldItem,
+		texture = WorldItems/M1HelmetAutumnMitchellGoggles,
 		scale = 0.5,
 	}
 

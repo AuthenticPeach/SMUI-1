@@ -145,7 +145,7 @@ module SMUIClothing
 		ClothingExtraSubmenu = FlipDown,
 		ChanceToFall = 0,
         Weight = 1.7,
-		WorldStaticModel = PASGTDesertCombatNVGUP_WorldItem,
+		WorldStaticModel = DesertCombatPASGTHelmetPVS7_WorldItem,
 	    Tags = Military;NVGchucked,
     }
 }

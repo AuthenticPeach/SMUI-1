@@ -183,7 +183,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Desert Battle PASGT Helmet,
+        DisplayName = Desert Combat PASGT Helmet,
         ClothingItem = Hat_MilitaryHelmetDesertCombat,
         BodyLocation = Hat,
         Icon = DesertMilitaryHelmet,
@@ -198,7 +198,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = DesertCombatPASGTHelmet_WorldItem,,
+		WorldStaticModel = DesertCombatPASGTHelmet_WorldItem,
     }
 
 
@@ -206,7 +206,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName =  Desert Combat PASGT Helmet (Strapless),
+        DisplayName =  Desert Battle PASGT Helmet (Strapless),
         ClothingItem = Hat_MilitaryHelmetDesertStrapless,
         BodyLocation = Hat,
         Icon = DesertMilitaryHelmetStrapless,
@@ -222,7 +222,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = DesertCombatPASGTHelmet_WorldItem,,
+		WorldStaticModel = DesertPASGTHelmet_WorldItem,
     }
 
         item Hat_MilitaryHelmetDesertCombatStrapless
@@ -245,7 +245,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = DesertCombatPASGTHelmet_WorldItem,_WorldItem,
+		WorldStaticModel = DesertCombatPASGTHelmet_WorldItem,
     }
 
 	    item Hat_MilitaryHelmetDesertGoggles
@@ -267,7 +267,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = DesertPASGTHelmetGoggles_WorldItem,_WorldItem,
+		WorldStaticModel = DesertPASGTHelmetGoggles_WorldItem,
     }
 
 	    item Hat_MilitaryHelmetDesertCombatGoggles
