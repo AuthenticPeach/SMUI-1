@@ -199,7 +199,7 @@ module SMUIClothing
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
-        WorldStaticModel = PatrolCapWoodland_WorldItem,
+        WorldStaticModel = PatrolCapERDL_WorldItem,
     }
 
         item Hat_PatrolCapERDLReversed
@@ -275,7 +275,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 0.1,
         Tags = Military,
-        WorldStaticModel = PatrolCapWoodland_WorldItem,
+        WorldStaticModel = PatrolCapERDLBrown_WorldItem,
     }
 
         item Hat_PatrolCapERDLBrownReversed
