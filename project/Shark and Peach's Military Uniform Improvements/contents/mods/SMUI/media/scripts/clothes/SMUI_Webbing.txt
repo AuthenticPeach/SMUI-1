@@ -167,7 +167,7 @@ module SMUIClothing
 		BodyLocation = SMUIWebbingPlus,
 		CanBeEquipped = SMUIWebbingPlus,
 		Capacity = 6,
-		WeightReduction	=	9,
+		WeightReduction	=	90,
 		RunSpeedModifier = 1.2,
 		ClothingItemExtra = SMUIClothing.LBV88WebbingTightened,
         ClothingItemExtraOption = Unfasten,
