@@ -17,5 +17,5 @@ group:getOrCreateLocation("SMUICosmeticOne")
 group:getOrCreateLocation("SMUICosmeticTwo")
 group:getOrCreateLocation("SMUICosmeticThree")
 
-group:getOrCreateLocation("SMUIHazmatGloves")
-group:getOrCreateLocation("SMUIHazmatBoots")
+group:getOrCreateLocation("SMUIGlovesPlus")
+group:getOrCreateLocation("SMUIBootsPlus")
