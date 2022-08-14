@@ -5,42 +5,49 @@ module Base
 	    model PatrolCapOG107_WorldItem
 	{
 		mesh = WorldItems/PatrolCap_WorldItem,
-		texture = WorldItems/PatrolCapOG107,
+	    texture = clothes/hat/Hat_PatrolCapOG107,
 		scale = 0.5,
 	}
 
 	    model PatrolCapWoodland_WorldItem
 	{
 		mesh = WorldItems/PatrolCap_WorldItem,
-		texture = WorldItems/PatrolCapWoodland,
+	    texture = clothes/hat/Hat_PatrolCapWoodland,
 		scale = 0.5,
 	}
 
 	    model PatrolCapERDL_WorldItem
 	{
 		mesh = WorldItems/PatrolCap_WorldItem,
-		texture = WorldItems/PatrolCapERDL,
+	    texture = clothes/hat/Hat_PatrolCapERDL,
+		scale = 0.5,
+	}
+
+		model PatrolCapERDLBrown_WorldItem
+	{
+		mesh = WorldItems/PatrolCap_WorldItem,
+	    texture = clothes/hat/Hat_PatrolCapERDLBrown,
 		scale = 0.5,
 	}
 
 		model PatrolCapDesert_WorldItem
 	{
 		mesh = WorldItems/PatrolCap_WorldItem,
-		texture = WorldItems/PatrolCapDesert,
+	    texture = clothes/hat/Hat_PatrolCapDesert,
 		scale = 0.5,
 	}
 
 		model PatrolCapDesertCombat_WorldItem
 	{
 		mesh = WorldItems/PatrolCap_WorldItem,
-		texture = WorldItems/PatrolCapDesertCombat,
+	    texture = clothes/hat/Hat_PatrolCapDesertCombat,
 		scale = 0.5,
 	}
 
 		model PatrolCapUrban_WorldItem
 	{
 		mesh = WorldItems/PatrolCap_WorldItem,
-		texture = WorldItems/PatrolCapUrban,
+	    texture = clothes/hat/Hat_PatrolCapUrban,
 		scale = 0.5,
 	}
 
@@ -75,14 +82,14 @@ module Base
 		model MilitaryTankerVest_WorldItem
 	{
 		mesh = WorldItems/TankerVest_WorldItem,
-		texture = WorldItems/MilitaryTankerVest,
+	    texture = clothes/vest/Vest_MilitaryTankerVest,
 		scale = 0.5,
 	}
 
 	    model MilitaryTacticalVest_WorldItem
 	{
 		mesh = WorldItems/MilitaryTacticalVest_WorldItem,
-		texture = WorldItems/MilitaryTacticalVest,
+	    texture = clothes/vest/Vest_MilitaryTacticalVest,
 		scale = 0.5,
 	}
 	    model RangerBodyArmor_WorldItem
@@ -101,42 +108,42 @@ module Base
 		model M17_WorldItem
 	{
 		mesh = WorldItems/M17_WorldItem,
-		texture = WorldItems/M17,
+	    texture = clothes/hat/Hat_M17,
 		scale = 0.5,
 	}
 
 		model M17Doff_WorldItem
 	{
 		mesh = WorldItems/M17Doff_WorldItem,
-		texture = WorldItems/M17Doff,
+	    texture = clothes/hat/Hat_M17Doff,
 		scale = 0.5,
 	}
 	
 		model M17Hood_WorldItem
 	{
 		mesh = WorldItems/M17Hood_WorldItem,
-		texture = WorldItems/M17Doff,
+	    texture = clothes/hat/Hat_M17Doff,
 		scale = 0.5,
 	}
 
 		model M40_WorldItem
 	{
 		mesh = WorldItems/M40_WorldItem,
-		texture = WorldItems/M40,
+		texture = clothes/hat/Hat_M40,
 		scale = 0.5,
 	}
 	
 		model M40Doff_WorldItem
 	{
 		mesh = WorldItems/M40Doff_WorldItem,
-		texture = WorldItems/M40Doff,
+		texture = clothes/hat/Hat_M40Doff,
 		scale = 0.5,
 	}
 
 		model M40Hood_WorldItem
 	{
 		mesh = WorldItems/M40Hood_WorldItem,
-		texture = WorldItems/M40Doff,
+		texture = clothes/hat/Hat_M40Doff,
 		scale = 0.5,
 	}
 
@@ -500,35 +507,35 @@ module Base
 		model PASGTWoodland_WorldItem
 	{
 		mesh = WorldItems/PASGTVest_WorldItem,
-		texture = WorldItems/PASGTWoodland,
+		texture = clothes/vest/Vest_PASGTWoodland,
 		scale = 0.5,
 	}
 	
         model PASGTDesert_WorldItem
 	{
 		mesh = WorldItems/PASGTVest_WorldItem,
-		texture = WorldItems/PASGTDesert,
+	    texture = clothes/vest/Vest_PASGTDesert,
 		scale = 0.5,
 	}
 
 	    model PASGTDesertCombat_WorldItem
 	{
 		mesh = WorldItems/PASGTVest_WorldItem,
-		texture = WorldItems/PASGTDesertCombat,
+	    texture = clothes/vest/Vest_PASGTDesertCombat,
 		scale = 0.5,
 	}
 	
 		model PASGTOD_WorldItem
 	{
 		mesh = WorldItems/PASGTVest_WorldItem,
-		texture = WorldItems/PASGTOD,
+	    texture = clothes/vest/Vest_PASGTOD,
 		scale = 0.5,
 	}
 
 		model M69Vest_WorldItem
 	{
 		mesh = WorldItems/M69Vest_WorldItem,
-		texture = WorldItems/M69Vest,
+	    texture = clothes/vest/Vest_M69Vest,
 		scale = 0.5,
 	}
 
