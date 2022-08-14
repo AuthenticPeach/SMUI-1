@@ -131,6 +131,7 @@ module SMUIClothing
     Insulation = 0.75,
     WindResistance = 0.75,
     Tags = Military,
+    Tooltip = Tooltip_NBCGloves,
     WorldStaticModel = GlovesLong_Ground,
 	}
 
@@ -143,7 +144,7 @@ module SMUIClothing
 	ClothingItem = Gloves_GloveLiner,
     BodyLocation = Hands,
 	BloodLocation = Hands,
-	Icon = HazmatGloves,
+	Icon = GloveLiner,
 	ScratchDefense = 40,
     BiteDefense = 10,
     Weight = 0.1,
@@ -172,6 +173,7 @@ module SMUIClothing
     WindResistance = 1,
     WaterResistance = 1,
     Tags = Military,
+    Tooltip = Tooltip_NBCBoots,
     WorldStaticModel = HazmatBoots_WorldItem,
 	}
 
