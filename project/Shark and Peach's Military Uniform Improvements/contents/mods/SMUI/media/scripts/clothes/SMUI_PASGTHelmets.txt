@@ -1,7 +1,7 @@
 module SMUIClothing 
 {
 
-         item Hat_MilitaryHelmetRagtop
+    item Hat_MilitaryHelmetRagtop
     {
         DisplayCategory = Helmet,
         Type = Clothing,
@@ -23,7 +23,7 @@ module SMUIClothing
 		WorldStaticModel = WoodlandPASGTHelmet_WorldItem,
     }
 
-        item Hat_MilitaryHelmetRagtopStrapless
+    item Hat_MilitaryHelmetRagtopStrapless
     {
         DisplayCategory = Helmet,
         Type = Clothing,
@@ -46,7 +46,7 @@ module SMUIClothing
 		WorldStaticModel = WoodlandPASGTHelmet_WorldItem,
     }
 
-        item Hat_MilitaryHelmet
+    item Hat_MilitaryHelmet
     {
         DisplayCategory = Helmet,
         Type = Clothing,
@@ -68,7 +68,7 @@ module SMUIClothing
 		WorldStaticModel = WoodlandPASGTHelmet_WorldItem,
     }
 
-        item Hat_MilitaryHelmetStrapless
+    item Hat_MilitaryHelmetStrapless
     {
         DisplayCategory = Helmet,
         Type = Clothing,
@@ -91,7 +91,7 @@ module SMUIClothing
 		WorldStaticModel = WoodlandPASGTHelmet_WorldItem,
     }
 
-	    item Hat_MilitaryHelmetGoggles
+	item Hat_MilitaryHelmetGoggles
     {
         DisplayCategory = Helmet,
         Type = Clothing,
@@ -113,7 +113,7 @@ module SMUIClothing
         WorldStaticModel = WoodlandPASGTHelmetGoggles_WorldItem,
     }
 
-        item Hat_MilitaryHelmetGogglesStrapless
+    item Hat_MilitaryHelmetGogglesStrapless
     {
         DisplayCategory = Helmet,
         Type = Clothing,
@@ -136,7 +136,7 @@ module SMUIClothing
 		WorldStaticModel = WoodlandPASGTHelmetGoggles_WorldItem,
     }
 
-	    item Hat_MilitaryHelmetNVGMount
+	item Hat_MilitaryHelmetNVGMount
 	{
         DisplayCategory = Helmet,
 		Type = Clothing,
@@ -157,7 +157,7 @@ module SMUIClothing
 		WorldStaticModel = WoodlandPASGTHelmetPVS7_WorldItem,
 	}
 
-        item Hat_MilitaryHelmetDesert
+    item Hat_MilitaryHelmetDesert
     {
         DisplayCategory = Helmet,
         Type = Clothing,
@@ -179,7 +179,7 @@ module SMUIClothing
 		WorldStaticModel = DesertPASGTHelmet_WorldItem,
     }
 
-        item Hat_MilitaryHelmetDesertCombat
+    item Hat_MilitaryHelmetDesertCombat
     {
         DisplayCategory = Helmet,
         Type = Clothing,
@@ -202,7 +202,7 @@ module SMUIClothing
     }
 
 
-        item Hat_MilitaryHelmetDesertStrapless
+    item Hat_MilitaryHelmetDesertStrapless
     {
         DisplayCategory = Helmet,
         Type = Clothing,
@@ -225,7 +225,7 @@ module SMUIClothing
 		WorldStaticModel = DesertPASGTHelmet_WorldItem,
     }
 
-        item Hat_MilitaryHelmetDesertCombatStrapless
+    item Hat_MilitaryHelmetDesertCombatStrapless
     {
         DisplayCategory = Helmet,
         Type = Clothing,
@@ -248,7 +248,7 @@ module SMUIClothing
 		WorldStaticModel = DesertCombatPASGTHelmet_WorldItem,
     }
 
-	    item Hat_MilitaryHelmetDesertGoggles
+	item Hat_MilitaryHelmetDesertGoggles
     {
         DisplayCategory = Helmet,
         Type = Clothing,
@@ -270,7 +270,7 @@ module SMUIClothing
 		WorldStaticModel = DesertPASGTHelmetGoggles_WorldItem,
     }
 
-	    item Hat_MilitaryHelmetDesertCombatGoggles
+	item Hat_MilitaryHelmetDesertCombatGoggles
     {
         DisplayCategory = Helmet,
         Type = Clothing,
@@ -292,7 +292,7 @@ module SMUIClothing
 		WorldStaticModel = DesertCombatPASGTHelmet_WorldItem,
     }
 
-        item Hat_MilitaryHelmetDesertGogglesStrapless
+    item Hat_MilitaryHelmetDesertGogglesStrapless
     {
         DisplayCategory = Helmet,
         Type = Clothing,
@@ -315,7 +315,7 @@ module SMUIClothing
 		WorldStaticModel = DesertPASGTHelmetGoggles_WorldItem,
     }
 
-        item Hat_MilitaryHelmetDesertCombatGogglesStrapless
+    item Hat_MilitaryHelmetDesertCombatGogglesStrapless
     {
         DisplayCategory = Helmet,
         Type = Clothing,
@@ -338,7 +338,7 @@ module SMUIClothing
 		WorldStaticModel = DesertCombatPASGTHelmetGoggles_WorldItem,
     }
 
-    	item Hat_MilitaryHelmetDesertNVGMount
+	item Hat_MilitaryHelmetDesertNVGMount
 	{
         DisplayCategory = Helmet,
 		Type = Clothing,
@@ -360,7 +360,7 @@ module SMUIClothing
 		WorldStaticModel = DesertPASGTHelmetNVGMount_WorldItem,
 	}
 
-        item Hat_MilitaryHelmetDesertCombatNVGMount
+    item Hat_MilitaryHelmetDesertCombatNVGMount
 	{
         DisplayCategory = Helmet,
 		Type = Clothing,
@@ -382,7 +382,7 @@ module SMUIClothing
 		WorldStaticModel = DesertCombatPASGTHelmetNVGMount_WorldItem,
 	}
 
-        item Hat_MilitaryHelmetRiot
+    item Hat_MilitaryHelmetRiot
     {
         DisplayCategory = Helmet,
         Type = Clothing,
@@ -405,7 +405,7 @@ module SMUIClothing
 		WorldStaticModel = WoodlandPASGTHelmetRiot_WorldItem,
     }
 
-        item Hat_MilitaryHelmetRiotUP
+    item Hat_MilitaryHelmetRiotUP
     {
         DisplayCategory = Helmet,
         Type = Clothing,

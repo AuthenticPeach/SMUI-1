@@ -1,8 +1,7 @@
 module SMUIClothing
 {
 
-        item SMUI_MaleHeadStubble
-
+    item SMUI_MaleHeadStubble
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -14,9 +13,7 @@ module SMUIClothing
         CanHaveHoles = false,
     }
 
-    
-        item SMUI_Facepaint
-
+    item SMUI_Facepaint
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -27,6 +24,5 @@ module SMUIClothing
         RunSpeedModifier = 1,
         CanHaveHoles = false,
     }
-
-
+	
 }

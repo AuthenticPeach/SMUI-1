@@ -1,8 +1,7 @@
 module SMUIClothing
 {
 
-		item Hat_MilitaryHelmetNVGUP
-
+	item Hat_MilitaryHelmetNVGUP
 	{
 		DisplayCategory = Helmet,
 		Type = Clothing,
@@ -26,8 +25,7 @@ module SMUIClothing
 		WorldStaticModel = WoodlandPASGTHelmetPVS7_WorldItem,
     }
 
-		item Hat_MilitaryHelmetNVGDOWN
-
+	item Hat_MilitaryHelmetNVGDOWN
 	{
 		DisplayCategory = Helmet,
 		Type = Clothing,
@@ -51,8 +49,7 @@ module SMUIClothing
 
     }
 	
-		item Hat_MilitaryHelmetDesertNVGUP
-
+	item Hat_MilitaryHelmetDesertNVGUP
 	{
 		DisplayCategory = Helmet,
 		Type = Clothing,
@@ -76,8 +73,7 @@ module SMUIClothing
 		WorldStaticModel = DesertPASGTHelmetPVS7_WorldItem,
     }
 
-		item Hat_MilitaryHelmetDesertNVGDOWN
-
+	item Hat_MilitaryHelmetDesertNVGDOWN
 	{
 		DisplayCategory = Helmet,
 		Type = Clothing,
@@ -100,8 +96,7 @@ module SMUIClothing
 	    Tags = Military;NVGchucked,
     }
 
-		item Hat_MilitaryHelmetDesertCombatNVGUP
-
+	item Hat_MilitaryHelmetDesertCombatNVGUP
 	{
 		DisplayCategory = Helmet,
 		Type = Clothing,
@@ -125,8 +120,7 @@ module SMUIClothing
 		Tags = Military,
     }
 
-		item Hat_MilitaryHelmetDesertCombatNVGDOWN
-
+	item Hat_MilitaryHelmetDesertCombatNVGDOWN
 	{
 		DisplayCategory = Helmet,
 		Type = Clothing,

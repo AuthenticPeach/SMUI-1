@@ -40,6 +40,7 @@ module SMUIClothing
         ClothingExtraSubmenu = TuckIn,
         WindResistance = 0.3,
         WaterResistance = 0.4,
+        FabricType = Cotton, 		
         Tags = Military,
         Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
@@ -105,6 +106,7 @@ module SMUIClothing
         ClothingExtraSubmenu = TuckOut,
         WindResistance = 0.3,
         WaterResistance = 0.4,
+        FabricType = Cotton, 		
         Tags = Military,
         WorldStaticModel = Trousers_Ground,
     }
@@ -126,6 +128,7 @@ module SMUIClothing
         ClothingExtraSubmenu = TuckIn,
         WindResistance = 0.3,
         WaterResistance = 0.4,
+        FabricType = Cotton, 		
         Tags = Military,
         Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,

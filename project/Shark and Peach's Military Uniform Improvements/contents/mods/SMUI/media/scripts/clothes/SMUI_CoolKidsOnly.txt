@@ -2,7 +2,7 @@ module SMUIClothing
 {
 
 
-   item Hat_MilitaryHelmetShark
+    item Hat_MilitaryHelmetShark
     {
         DisplayCategory = Helmet,
         Type = Clothing,
@@ -24,7 +24,7 @@ module SMUIClothing
 		WorldStaticModel = MilitaryHelmet_WorldItem,
     }
 
-        item Hat_MilitaryHelmetSharkStrapless
+    item Hat_MilitaryHelmetSharkStrapless
     {
         DisplayCategory = Helmet,
         Type = Clothing,
@@ -69,7 +69,7 @@ module SMUIClothing
 		WorldStaticModel = MilitaryHelmet_WorldItem,
     }
 
-        item Hat_MilitaryHelmetHawaiianStrapless
+    item Hat_MilitaryHelmetHawaiianStrapless
     {
         DisplayCategory = Helmet,
         Type = Clothing,
@@ -92,7 +92,7 @@ module SMUIClothing
 		WorldStaticModel = MilitaryHelmet_WorldItem,
     }
 
-        item Hat_M1HelmetHawaiian
+    item Hat_M1HelmetHawaiian
     {
         DisplayCategory = Helmet,
         Type = Clothing,
@@ -115,7 +115,7 @@ module SMUIClothing
 		WorldStaticModel = M1Helmet_WorldItem,
     }
 
-        item Hat_M1HelmetHawaiianStrapless
+    item Hat_M1HelmetHawaiianStrapless
     {
         DisplayCategory = Helmet,
         Type = Clothing,
@@ -139,7 +139,7 @@ module SMUIClothing
 		WorldStaticModel = M1Helmet_WorldItem,
     }
 
-        item Jacket_Hawaiian   
+    item Jacket_Hawaiian   
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -161,11 +161,10 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1,
         FabricType = Cotton,
-        WorldStaticModel = JacketCoat_Ground,
-        
+        WorldStaticModel = JacketCoat_Ground,  
     }
 
-        item Jacket_HawaiianRolled
+    item Jacket_HawaiianRolled
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -192,7 +191,7 @@ module SMUIClothing
         WorldStaticModel = JacketCoat_Ground,
     }
 
-        item Trousers_Hawaiian
+    item Trousers_Hawaiian
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -214,7 +213,7 @@ module SMUIClothing
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_HawaiianTucked
+    item Trousers_HawaiianTucked
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -238,7 +237,7 @@ module SMUIClothing
     }
 
 
-        item Jacket_SharkCamo
+    item Jacket_SharkCamo
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -264,7 +263,7 @@ module SMUIClothing
         
     }
 
-        item Jacket_SharkCamoRolled
+    item Jacket_SharkCamoRolled
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -291,7 +290,7 @@ module SMUIClothing
         WorldStaticModel = JacketCoat_Ground,
     }
 
-        item Trousers_SharkCamo
+    item Trousers_SharkCamo
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -313,7 +312,7 @@ module SMUIClothing
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_SharkCamoTucked
+    item Trousers_SharkCamoTucked
     {
         DisplayCategory = Clothing,
         Type = Clothing,
