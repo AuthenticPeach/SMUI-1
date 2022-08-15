@@ -1,7 +1,6 @@
 module SMUIClothing 
 {
-
-        item Trousers_CamoGreen
+    item Trousers_CamoGreen
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -23,7 +22,7 @@ module SMUIClothing
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_CamoGreenTucked
+    item Trousers_CamoGreenTucked
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -46,7 +45,7 @@ module SMUIClothing
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_ERDL
+    item Trousers_ERDL
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -63,11 +62,12 @@ module SMUIClothing
         ClothingExtraSubmenu = TuckOut,
         WindResistance = 0.3,
         WaterResistance = 0.4,
+        FabricType = Cotton,		
         Tags = Military,
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_ERDLTucked
+    item Trousers_ERDLTucked
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -84,12 +84,13 @@ module SMUIClothing
         ClothingExtraSubmenu = TuckIn,
         WindResistance = 0.3,
         WaterResistance = 0.4,
+        FabricType = Cotton,		
         Tags = Military,
         Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_ERDLBrown
+    item Trousers_ERDLBrown
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -111,7 +112,7 @@ module SMUIClothing
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_ERDLBrownTucked
+    item Trousers_ERDLBrownTucked
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -135,7 +136,7 @@ module SMUIClothing
     }
 
 
-        item Trousers_TigerStripe
+    item Trousers_TigerStripe
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -150,13 +151,14 @@ module SMUIClothing
         ClothingItemExtra = SMUIClothing.Trousers_TigerStripeTucked,
         ClothingItemExtraOption = TuckIn,
         ClothingExtraSubmenu = TuckOut,
+        FabricType = Cotton,		
         WindResistance = 0.3,
         WaterResistance = 0.4,
         Tags = Military,
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_TigerStripeTucked
+    item Trousers_TigerStripeTucked
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -173,12 +175,13 @@ module SMUIClothing
         ClothingExtraSubmenu = TuckIn,
         WindResistance = 0.3,
         WaterResistance = 0.4,
+        FabricType = Cotton,		
         Tags = Military,
         Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_DuckHunter
+    item Trousers_DuckHunter
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -193,13 +196,14 @@ module SMUIClothing
         ClothingItemExtra = SMUIClothing.Trousers_DuckHunterTucked,
         ClothingItemExtraOption = TuckIn,
         ClothingExtraSubmenu = TuckOut,
+        FabricType = Cotton,		
         WindResistance = 0.3,
         WaterResistance = 0.4,
         Tags = Military,
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_DuckHunterTucked
+    item Trousers_DuckHunterTucked
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -216,12 +220,13 @@ module SMUIClothing
         ClothingExtraSubmenu = TuckIn,
         WindResistance = 0.3,
         WaterResistance = 0.4,
+        FabricType = Cotton,		
         Tags = Military,
         Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_FrogSkin
+    item Trousers_FrogSkin
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -238,11 +243,12 @@ module SMUIClothing
         ClothingExtraSubmenu = TuckOut,
         WindResistance = 0.3,
         WaterResistance = 0.4,
+        FabricType = Cotton,		
         Tags = Military,
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_FrogSkinTucked
+    item Trousers_FrogSkinTucked
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -259,13 +265,13 @@ module SMUIClothing
         ClothingExtraSubmenu = TuckIn,
         WindResistance = 0.3,
         WaterResistance = 0.4,
+        FabricType = Cotton,		
         Tags = Military,
         Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 
-    
-        item Trousers_Mitchell
+    item Trousers_Mitchell
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -282,11 +288,12 @@ module SMUIClothing
         ClothingExtraSubmenu = TuckOut,
         WindResistance = 0.3,
         WaterResistance = 0.4,
+        FabricType = Cotton,		
         Tags = Military,
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_MitchellTucked
+	item Trousers_MitchellTucked
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -303,12 +310,13 @@ module SMUIClothing
         ClothingExtraSubmenu = TuckIn,
         WindResistance = 0.3,
         WaterResistance = 0.4,
+        FabricType = Cotton,		
         Tags = Military,
         Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_CamoDesert
+    item Trousers_CamoDesert
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -323,13 +331,14 @@ module SMUIClothing
         ClothingItemExtra = SMUIClothing.Trousers_CamoDesertTucked,
         ClothingItemExtraOption = TuckIn,
         ClothingExtraSubmenu = TuckOut,
+        FabricType = Cotton,		
         WindResistance = 0.3,
         WaterResistance = 0.4,
         Tags = Military,
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_CamoDesertTucked
+    item Trousers_CamoDesertTucked
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -344,6 +353,7 @@ module SMUIClothing
         ClothingItemExtra = SMUIClothing.Trousers_CamoDesert,
         ClothingItemExtraOption = TuckOut,
         ClothingExtraSubmenu = TuckIn,
+        FabricType = Cotton,		
         Insulation = 0.4,
         WindResistance = 0.3,
         WaterResistance = 0.4,
@@ -352,7 +362,7 @@ module SMUIClothing
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_DesertCombat
+    item Trousers_DesertCombat
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -367,13 +377,14 @@ module SMUIClothing
         ClothingItemExtra = SMUIClothing.Trousers_DesertCombatTucked,
         ClothingItemExtraOption = TuckIn,
         ClothingExtraSubmenu = TuckOut,
+        FabricType = Cotton,		
         WindResistance = 0.3,
         WaterResistance = 0.4,
         Tags = Military,
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_DesertCombatTucked
+    item Trousers_DesertCombatTucked
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -391,13 +402,13 @@ module SMUIClothing
         Insulation = 0.4,
         WindResistance = 0.3,
         WaterResistance = 0.4,
+        FabricType = Cotton,		
         Tags = Military,
         Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 
-         item Trousers_CamoUrban
-    
+    item Trousers_CamoUrban
     {   
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -416,11 +427,12 @@ module SMUIClothing
         ClothingExtraSubmenu = TuckOut,
         WindResistance = 0.3,
         WaterResistance = 0.4,
+        FabricType = Cotton,		
         Tags = Military,
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_CamoUrbanTucked
+    item Trousers_CamoUrbanTucked
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -437,13 +449,13 @@ module SMUIClothing
         ClothingExtraSubmenu = TuckIn,
         WindResistance = 0.3,
         WaterResistance = 0.4,
+        FabricType = Cotton,		
         Tags = Military,
         Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 
-         item Trousers_TPattern
-    
+    item Trousers_TPattern
     {   
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -462,11 +474,12 @@ module SMUIClothing
         ClothingExtraSubmenu = TuckOut,
         WindResistance = 0.3,
         WaterResistance = 0.4,
+        FabricType = Cotton,		
         Tags = Military,
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_TPatternTucked
+    item Trousers_TPatternTucked
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -483,13 +496,13 @@ module SMUIClothing
         ClothingExtraSubmenu = TuckIn,
         WindResistance = 0.3,
         WaterResistance = 0.4,
+        FabricType = Cotton,		
         Tags = Military,
         Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_ODGreen
-    
+    item Trousers_ODGreen
     {   
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -508,10 +521,11 @@ module SMUIClothing
         ClothingExtraSubmenu = TuckOut,
         WindResistance = 0.3,
         WaterResistance = 0.4,
+        FabricType = Cotton,		
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_ODGreenTucked
+    item Trousers_ODGreenTucked
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -528,12 +542,12 @@ module SMUIClothing
         ClothingExtraSubmenu = TuckIn,
         WindResistance = 0.3,
         WaterResistance = 0.4,
+        FabricType = Cotton,		
         Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_OG107Utility
-    
+	item Trousers_OG107Utility
     {   
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -552,10 +566,11 @@ module SMUIClothing
         ClothingExtraSubmenu = TuckOut,
         WindResistance = 0.3,
         WaterResistance = 0.4,
+        FabricType = Cotton,		
         WorldStaticModel = Trousers_Ground,
     }
 
-        item Trousers_OG107UtilityTucked
+    item Trousers_OG107UtilityTucked
     {
         DisplayCategory = Clothing,
         Type = Clothing,
@@ -572,6 +587,7 @@ module SMUIClothing
         ClothingExtraSubmenu = TuckIn,
         WindResistance = 0.3,
         WaterResistance = 0.4,
+        FabricType = Cotton,		
         Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
