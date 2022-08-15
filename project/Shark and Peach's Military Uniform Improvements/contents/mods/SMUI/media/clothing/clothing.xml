@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <outfitManager>
 
-	<m_MaleOutfits>
-		<m_Name>SharkArmyCamoDesertMale</m_Name>
+	<m_MaleOutfits><m_Name>SharkArmyCamoDesertMale</m_Name>
 		<m_Guid>50ef789b-54a6-4021-b817-78e1e417bd91</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -76,8 +75,7 @@
 		</m_items>	
 	</m_MaleOutfits>
 
-		<m_MaleOutfits>
-		<m_Name>SharkArmyCamoDesertMaleDCU</m_Name>
+	<m_MaleOutfits><m_Name>SharkArmyCamoDesertMaleDCU</m_Name>
 		<m_Guid>405a5872-1b3f-43b0-95b7-f579cd37b009</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -152,8 +150,7 @@
 		</m_items>	
 	</m_MaleOutfits>
 
-	<m_FemaleOutfits>
-		<m_Name>SharkArmyCamoDesertFemale</m_Name>
+	<m_FemaleOutfits><m_Name>SharkArmyCamoDesertFemale</m_Name>
 		<m_Guid>7eeaeb0d-5d86-4ac1-8f2f-bd30604f143c</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -221,8 +218,7 @@
 		</m_items>		
 	</m_FemaleOutfits>
 
-	<m_MaleOutfits>
-		<m_Name>SharkArmyCamoGreenMale</m_Name>
+	<m_MaleOutfits><m_Name>SharkArmyCamoGreenMale</m_Name>
 		<m_Guid>af2c54a5-570c-46c4-937c-cb6bc4dfa796</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -289,8 +285,7 @@
 		</m_items>	
 	</m_MaleOutfits>
 
-	<m_FemaleOutfits>
-		<m_Name>SharkArmyCamoGreenFemale</m_Name>
+	<m_FemaleOutfits><m_Name>SharkArmyCamoGreenFemale</m_Name>
 		<m_Guid>efd07ac2-19a8-4ccb-ad3c-fca3de758d8d</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -354,8 +349,7 @@
 		</m_items>	
 	</m_FemaleOutfits>
 
-	<m_MaleOutfits>
-		<m_Name>SharkArmyCamoGreenNVGMale</m_Name>
+	<m_MaleOutfits><m_Name>SharkArmyCamoGreenNVGMale</m_Name>
 		<m_Guid>e36aac7d-537f-4ee7-9456-c11e341d2dcf</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -426,8 +420,7 @@
 		</m_items>	
 	</m_MaleOutfits>
 
-	<m_FemaleOutfits>
-		<m_Name>SharkArmyCamoGreenNVGFemale</m_Name>
+	<m_FemaleOutfits><m_Name>SharkArmyCamoGreenNVGFemale</m_Name>
 		<m_Guid>6b2f366e-4e7f-4332-bf42-c3a25a1927ba</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -495,8 +488,7 @@
 		</m_items>	
 	</m_FemaleOutfits>
 
-	<m_MaleOutfits>
-		<m_Name>SharkMOPPSuitOD</m_Name>
+	<m_MaleOutfits><m_Name>SharkMOPPSuitOD</m_Name>
 		<m_Guid>b20ad277-6914-4f5f-aef7-4512dc96f285</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -566,8 +558,7 @@
 		</m_items>	
 	</m_MaleOutfits>
 
-	<m_MaleOutfits>
-		<m_Name>SharkArmyCamoGreenMaleGasMask</m_Name>
+	<m_MaleOutfits><m_Name>SharkArmyCamoGreenMaleGasMask</m_Name>
 		<m_Guid>b20ad277-6914-4f5f-aef7-4512dc96f285</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -635,8 +626,7 @@
 		</m_items>	
 	</m_MaleOutfits>
 
-	<m_FemaleOutfits>
-		<m_Name>SharkArmyCamoGreenFemaleGasMask</m_Name>
+	<m_FemaleOutfits><m_Name>SharkArmyCamoGreenFemaleGasMask</m_Name>
 		<m_Guid>6eb34103-4a5e-4d80-a568-402383dbe47c</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -701,8 +691,7 @@
 		</m_items>	
 	</m_FemaleOutfits>
 
-	<m_MaleOutfits>
-		<m_Name>SharkArmyInstructor</m_Name>
+	<m_MaleOutfits><m_Name>SharkArmyInstructor</m_Name>
 		<m_Guid>82c517ea-2efd-4742-b465-f9abf4c214f1</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -748,8 +737,7 @@
 		</m_items>	
 	</m_MaleOutfits>
 
-	<m_MaleOutfits>
-		<m_Name>SharkArmyCamoGreenReservist</m_Name>
+	<m_MaleOutfits><m_Name>SharkArmyCamoGreenReservist</m_Name>
 		<m_Guid>09eafd79-c81e-4b76-9691-f7603652d5c6</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -819,8 +807,7 @@
 		</m_items>	
 	</m_MaleOutfits>
 
-	<m_MaleOutfits>
-		<m_Name>SharkMilitaryPolice</m_Name>
+	<m_MaleOutfits><m_Name>SharkMilitaryPolice</m_Name>
 		<m_Guid>32a6ac0f-ee36-441a-ab4b-cfbba54128af</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -889,8 +876,7 @@
 		</m_items>	
 	</m_MaleOutfits>
 	
-	<m_MaleOutfits>
-		<m_Name>SharkTankCrewman</m_Name>
+	<m_MaleOutfits><m_Name>SharkTankCrewman</m_Name>
 		<m_Guid>09eafd79-c81e-4b76-9691-f7603652d5c6</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -938,8 +924,7 @@
 		</m_items>	
 	</m_MaleOutfits>
 	
-	<m_MaleOutfits>
-		<m_Name>SharkArmyCavalry</m_Name>
+	<m_MaleOutfits><m_Name>SharkArmyCavalry</m_Name>
 		<m_Guid>a3ec3ed3-481b-494b-82cb-6281b818b230</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -981,8 +966,7 @@
 		</m_items>	
 	</m_MaleOutfits>
 
-		<m_MaleOutfits>
-		<m_Name>SharkArmyRanger</m_Name>
+	<m_MaleOutfits><m_Name>SharkArmyRanger</m_Name>
 		<m_Guid>613295c7-7743-4b51-82be-56393848491b</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -1031,8 +1015,7 @@
 		</m_items>
 	</m_MaleOutfits>
 
-		<m_MaleOutfits>
-		<m_Name>SharkSpecialForces</m_Name>
+	<m_MaleOutfits><m_Name>SharkSpecialForces</m_Name>
 		<m_Guid>aeabd0c5-5bbc-4165-a5d7-5cbdef0e3b4e</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -1078,8 +1061,7 @@
 		</m_items>
 	</m_MaleOutfits>
 
-	<m_MaleOutfits>
-		<m_Name>SharkCleanUpCrew</m_Name>
+	<m_MaleOutfits><m_Name>SharkCleanUpCrew</m_Name>
 		<m_Guid>a975fd61-fc49-47f0-9519-22a5eb62c8dd</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -1138,8 +1120,7 @@
 		</m_items>		
 	</m_MaleOutfits>
 
-	<m_MaleOutfits>
-		<m_Name>SharkArmyCamoUrbanMale</m_Name>
+	<m_MaleOutfits><m_Name>SharkArmyCamoUrbanMale</m_Name>
 		<m_Guid>a975fd61-fc49-47f0-9519-22a5eb62c8dd</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -1182,8 +1163,7 @@
 		</m_items>	
 	</m_MaleOutfits>
 
-		<m_FemaleOutfits>
-		<m_Name>SharkArmyCamoUrbanFemale</m_Name>
+	<m_FemaleOutfits><m_Name>SharkArmyCamoUrbanFemale</m_Name>
 		<m_Guid>c8e321d3-4ff6-4eb4-9fe6-46c1d5fa3cfe</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -1223,9 +1203,7 @@
 		</m_items>
 	</m_FemaleOutfits>
 
-
-	<m_MaleOutfits>
-		<m_Name>SharkArmyCamoUrbanGearedMale</m_Name>
+	<m_MaleOutfits><m_Name>SharkArmyCamoUrbanGearedMale</m_Name>
 		<m_Guid>ef5c55c2-648d-4f4d-baed-2e533af4c845</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -1286,8 +1264,7 @@
 
 	<!-- Survivors, Bandits, and Hunters -->
 	
-		<m_MaleOutfits>
-		<m_Name>SharkVeteran</m_Name>
+	<m_MaleOutfits><m_Name>SharkVeteran</m_Name>
 		<m_Guid>6d857b63-2d22-4ca7-9c7f-b73bf61f1112</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -1320,8 +1297,7 @@
 		</m_items>
 	</m_MaleOutfits>
 
-	<m_MaleOutfits>
-		<m_Name>SharkHunter</m_Name>
+	<m_MaleOutfits><m_Name>SharkHunter</m_Name>
 		<m_Guid>b6735673-456b-4d0f-b361-6a090705eab9</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -1365,8 +1341,7 @@
 		</m_items>
 	</m_MaleOutfits>
 
-	<m_MaleOutfits>
-		<m_Name>SharkPreparedSurvivor</m_Name>
+	<m_MaleOutfits><m_Name>SharkPreparedSurvivor</m_Name>
 		<m_Guid>c0df1352-dce9-453d-99c5-6a8f22e46ffd</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -1414,8 +1389,7 @@
 		</m_items>
 	</m_MaleOutfits>
 
-	<m_MaleOutfits>
-		<m_Name>SharkBandit</m_Name>
+	<m_MaleOutfits><m_Name>SharkBandit</m_Name>
 		<m_Guid>c7c7db1f-a783-4c67-a904-7713f985631c</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -1458,8 +1432,7 @@
 	
 	<!--Expanded Helicopter Events Integration-->
 
-	<m_MaleOutfits>
-		<m_Name>EHESoldier</m_Name>
+	<m_MaleOutfits><m_Name>EHESoldier</m_Name>
 		<m_Guid>cc072be0-b9d0-43d4-894e-58f31bfe7c03</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
@@ -1512,8 +1485,7 @@
 		</m_items>	
 	</m_MaleOutfits>
 
-	<m_FemaleOutfits>
-		<m_Name>EHESoldier</m_Name>
+	<m_FemaleOutfits><m_Name>EHESoldier</m_Name>
 		<m_Guid>cc072be0-b9d0-43d4-894e-58f31bfe7c03</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>

@@ -48,7 +48,7 @@ SMUIZombiesZoneDefinition.Army = {
 	SharkArmyCamoDesertFemale = {
 		name="SharkArmyCamoDesertFemale",
 		chance=1,
-		gender="male",
+		gender="female",
 	},	
 	ArmyCamoGreen = {
 		name="ArmyCamoGreen",
@@ -57,42 +57,52 @@ SMUIZombiesZoneDefinition.Army = {
 	SharkArmyCamoGreenMale = {
 		name="SharkArmyCamoGreenMale",
 		chance=22,
+		gender="male",		
 	},
 	SharkArmyCamoGreenFemale = {
 		name="SharkArmyCamoGreenFemale",
 		chance=22,
+		gender="female",			
 	},
 	SharkArmyCamoGreenNVGMale = {
 		name="SharkArmyCamoGreenNVGMale",
 		chance=1,
+		gender="male",			
 	},
 	SharkArmyCamoGreenNVGFemale = {
 		name="SharkArmyCamoGreenNVGFemale",
 		chance=1,
+		gender="female",			
 	},
 	SharkTankCrewman = {
 		name="SharkTankCrewman",
 		chance=5,
+		gender="male",			
 	},
 	SharkMOPPSuitOD = {
 		name="SharkMOPPSuitOD",
 		chance=2,
+		gender="male",			
 	},
 	SharkArmyCamoUrbanGearedMale = {
 		name="SharkArmyCamoUrbanGearedMale",
 		chance=1,
+		gender="male",			
 	},
 	SharkArmyCamoUrbanMale = {
 		name="SharkArmyCamoUrbanMale",
 		chance=1,
+		gender="male",			
 	},
 	SharkArmyCamoUrbanFemale = {
 		name="SharkArmyCamoUrbanFemale",
 		chance=1,
+		gender="female",		
 	},
 	SharkMilitaryPolice = {
 		name="SharkArmyCamoUrbanFemale",
 		chance=10,
+		gender="female",		
 	},
 	
 	
@@ -132,10 +142,12 @@ SMUIZombiesZoneDefinition.SecretBase = {
 	},
 	SharkArmyCamoUrbanGearedMale = {
 		name="SharkArmyCamoUrbanGearedMale",
+		gender="male",			
 		chance=15,
 	},
 	SharkCleanUpCrew = {
 		name="SharkArmyCamoUrbanMale",
+		gender="male",			
 		toSpawn=10,
 		chance=30,
 	},
@@ -145,115 +157,35 @@ SMUIZombiesZoneDefinition.SecretBase = {
 	},
 }
 
-ZombiesZoneDefinition.Survivalist = {
-	Survivalist = {
-		name="Survivalist",
-		chance=10,
-	},
-
-	SharkPreparedSurivor = {
+local SharkPreparedSurvivor = {
 		name="SharkPreparedSurvivor",
+		gender="male",		
 		chance=10,
-	},
+	};
+ZombiesZoneDefinition.Survivalist[SharkPreparedSurvivor] = SharkPreparedSurvivor;
 
-	SharkHunter = {
+local SharkHunter = {
 		name="SharkHunter",
+		gender="male",		
+		chance=3,
+	};
+ZombiesZoneDefinition.TrailerPark[SharkHunter] = SharkHunter;
+
+local SharkHunter2 = {
+		name="SharkHunter",
+		gender="male",		
 		chance=10,
-	},
+	};
+ZombiesZoneDefinition.Survivalist[SharkHunter2] = SharkHunte2r;
 
-	Hunter = {
-		name="Hunter",
-		chance=10,
-		beardStyles="Long:10;Chops:10;Goatee:10;Moustache:10;Full:10;BeardOnly:10",
-	},
-}
-
-ZombiesZoneDefinition.TrailerPark = {
-	Veteran = {
-		name="Veteran",
-		chance=10,
-		gender="male",
-		maleHairStyles="CrewCut:20",
-		beardStyles="Long:15;Chops:17;Goatee:17;Moustache:17",
-	},
-	Redneck = {
-		name="Redneck",
-		chance=65,
-		maleHairStyles="Mullet:30;Metal:15;Cornrows:5;MohawkShort:5",
-		femaleHairStyles="CrewCut:10;Cornrows:5;MohawkShort:5",
-		beardStyles="Long:13;Chops:13;Goatee:13;Moustache:13",
-	},
-	Thug = {
-		name="Thug",
-		chance=15,
-		gender="male",
-		maleHairStyles="Mullet:30;Metal:15",
-		beardStyles="Long:13;Chops:13;Goatee:13;Moustache:13",
-	},
-	SharkHunter = {
-		name="SharkHunter",
+local SharkVeteran = {
+		name="SharkVeteran",
+		gender="male",		
 		chance=3,
-	},
-	
-	SharkVeteran = {
-		name="SharkHunter",
-		chance=3,
-	},
-}
-
-ZombiesZoneDefinition.StreetPoor = {
-	Hobbo = {
-		name="Hobbo",
-		chance=15,
-		beardStyles="Long:15;Moustache:15;Full:15;BeardOnly:15",
-	},
-	Punk = {
-		name="Punk",
-		chance=15,
-		beardStyles="null:90",
-	},
-	Biker = {
-		name="Biker",
-		chance=15,
-		beardStyles="Long:10;Chops:10;Goatee:10;Moustache:10;Full:10;BeardOnly:10",
-	},
-	Bandit = {
-		name="Bandit",
-		chance=5,
-	},
-	
-	SharkVeteran = {
-		name="SharkHunter",
-		chance=3,
-	},
-}
-
-ZombiesZoneDefinition.Bar = {
-	Hobbo = {
-		name="Hobbo",
-		chance=15,
-		beardStyles="Long:15;Moustache:15;Full:15;BeardOnly:15",
-	},
-	Punk = {
-		name="Punk",
-		chance=15,
-		beardStyles="null:90",
-	},
-	Biker = {
-		name="Biker",
-		chance=15,
-		beardStyles="Long:10;Chops:10;Goatee:10;Moustache:10;Full:10;BeardOnly:10",
-	},
-	Bandit = {
-		name="Bandit",
-		chance=5,
-	},
-	
-	SharkVeteran = {
-		name="SharkHunter",
-		chance=3,
-	},
-}
+	};
+ZombiesZoneDefinition.Bar[SharkVeteran] = SharkVeteran;
+ZombiesZoneDefinition.StreetPoor[SharkVeteran] = SharkVeteran;
+ZombiesZoneDefinition.TrailerPark[SharkVeteran] = SharkVeteran;
 
 -- total chance can be over 100% we don't care as we'll roll on the totalChance and not a 100 (unlike the specific outfits on top of this)
 SMUIZombiesZoneDefinition.Default = ZombiesZoneDefinition.Default or {};

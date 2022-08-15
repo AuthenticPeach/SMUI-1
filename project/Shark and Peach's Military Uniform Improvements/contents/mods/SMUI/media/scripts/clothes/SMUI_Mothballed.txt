@@ -8,8 +8,8 @@
 		BodyLocation = Hat,
 		Icon = MilitaryHelmet,
 		BloodLocation = Head,
-        Obsolete = TRUE,
 		WorldStaticModel = MilitaryHelmet_WorldItem,
+        Obsolete = TRUE,		
 	}
 
         item Hat_ArmyHelmetStrapless
@@ -19,36 +19,8 @@
 		BodyLocation = Hat,
 		Icon = MilitaryHelmet,
 		BloodLocation = Head,
-        Obsolete = TRUE,
 		WorldStaticModel = MilitaryHelmet_WorldItem,
-	}
-
-		item PistolBeltPouches
-	{
-		DisplayCategory = Webbing,
-		Type = Container,
-		ClothingItem = PistolBeltPouches,
-		BodyLocation = SMUIWebbingPlus,
-		CanBeEquipped = SMUIWebbingPlus,
-		Capacity = 8,
-		WeightReduction	=	30,
-		RunSpeedModifier = 1.2,
-		Icon = PistolBelt, 
-		WorldStaticModel = WebbingBelt_WorldItem,
-	}
-
-		item PistolBeltBag
-	{
-		DisplayCategory = Webbing,
-		Type = Container,
-		ClothingItem = PistolBeltBag,
-		BodyLocation = SMUIWebbingPlus,
-		CanBeEquipped = SMUIWebbingPlus,
-		Capacity = 8,
-		WeightReduction	=	30,
-		RunSpeedModifier = 1.2,
-		Icon = PistolBelt,
-		WorldStaticModel = WebbingBelt_WorldItem,
+        Obsolete = TRUE,		
 	}
 
 }
