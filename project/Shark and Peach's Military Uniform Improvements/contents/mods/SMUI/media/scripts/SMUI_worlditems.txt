@@ -605,7 +605,21 @@ module Base
 		model M65Jacket_WorldItem
 	{
 		mesh = WorldItems/M65Jacket_WorldItem,
-		texture = WorldItems/M65Jacket,
+		texture = Clothes/Jacket/Jacket_M65,
+		scale = 0.5,
+	}
+
+		model M65JacketWoodland_WorldItem
+	{
+		mesh = WorldItems/M65Jacket_WorldItem,
+	    texture = Clothes/Jacket/M65M81,
+		scale = 0.5,
+	}
+
+		model M65JacketMitchell_WorldItem
+	{
+		mesh = WorldItems/M65Jacket_WorldItem,
+	    texture = Clothes/Jacket/M65Mitchell,
 		scale = 0.5,
 	}
 
