@@ -728,12 +728,236 @@ recipe Unseal package
 	   Time:60,
   	}
 
-recipe Unseal package
+recipe Make helmet rags
   	{
-   	   MOPPPackageBottom,
-	   OnCreate: SMUI_Recipe.MOPPBOTTOM,
-   	   Result:MOPPPackageWrapper,
+   	   RippedSheets,
+   	   Result:HelmetRags,
 	   Time:60,
   	}
 
+recipe Add helmet rags
+  	{
+   	   Hat_M1Helmet,
+	   HelmetRags,
+   	   Result:Hat_M1HelmetRagtop,
+	   Time:60,
+  	}
+
+recipe Add helmet rags
+  	{
+   	   Hat_M1HelmetStrapless,
+	   HelmetRags,
+   	   Result:Hat_M1HelmetRagtop,
+	   Time:60,
+  	}
+}	
+
+recipe Add helmet rags
+  	{
+   	   Hat_M1Helmet,
+	   HelmetRags,
+   	   Result:Hat_M1HelmetRagtop,
+	   Time:60,
+  	}
+
+recipe Add helmet rags
+  	{
+   	   Hat_M1HelmetWoodland,
+	   HelmetRags,
+   	   Result:Hat_M1HelmetRagtop,
+	   Time:60,
+  	}
+}
+
+recipe Add helmet rags
+  	{
+   	   Hat_M1HelmetWoodlandStrapless,
+	   HelmetRags,
+   	   Result:Hat_M1HelmetRagtop,
+	   Time:60,
+  	}
+}	
+
+recipe Add helmet rags
+  	{
+   	   Hat_M1HelmetThreeColor,
+	   HelmetRags,
+   	   Result:Hat_M1HelmetRagtop,
+	   Time:60,
+  	}
+}
+
+recipe Add helmet rags
+  	{
+   	   Hat_M1HelmetThreeColorStrapless,
+	   HelmetRags,
+   	   Result:Hat_M1HelmetRagtop,
+	   Time:60,
+  	}
+}	
+
+recipe Add helmet rags
+  	{
+   	   Hat_M1HelmetERDL,
+	   HelmetRags,
+   	   Result:Hat_M1HelmetRagtop,
+	   Time:60,
+  	}
+}
+
+recipe Add helmet rags
+  	{
+   	   Hat_M1HelmetERDLStrapless,
+	   HelmetRags,
+   	   Result:Hat_M1HelmetRagtop,
+	   Time:60,
+  	}
+}	
+
+recipe Add helmet rags
+  	{
+   	   Hat_M1HelmetMitchell,
+	   HelmetRags,
+   	   Result:Hat_M1HelmetRagtop,
+	   Time:60,
+  	}
+}
+
+recipe Add helmet rags
+  	{
+   	   Hat_M1HelmetMitchellStrapless,
+	   HelmetRags,
+   	   Result:Hat_M1HelmetRagtop,
+	   Time:60,
+  	}
+}	
+
+recipe Add helmet rags
+  	{
+   	   Hat_M1HelmetAutumnMitchell,
+	   HelmetRags,
+   	   Result:Hat_M1HelmetRagtop,
+	   Time:60,
+  	}
+}
+
+recipe Add helmet rags
+  	{
+   	   Hat_M1HelmetAutumnMitchellStrapless,
+	   HelmetRags,
+   	   Result:Hat_M1HelmetRagtop,
+	   Time:60,
+  	}
+}	
+
+recipe Add helmet rags
+  	{
+   	   Hat_M1HelmetMilitaryPolice,
+	   HelmetRags,
+   	   Result:Hat_M1HelmetRagtop,
+	   Time:60,
+  	}
+}
+
+recipe Add helmet rags
+  	{
+   	   Hat_PoliceHelmet
+	   HelmetRags,
+   	   Result:Hat_MilitaryHelmetRagtop,
+	   Time:60,
+  	}
+}	
+
+recipe Add helmet rags
+  	{
+   	   Hat_PoliceHelmetStrapless
+	   HelmetRags,
+   	   Result:Hat_MilitaryHelmetRagtop,
+	   Time:60,
+  	}
+}	
+
+recipe Add helmet rags
+  	{
+   	   Hat_PoliceHelmetGreen
+	   HelmetRags,
+   	   Result:Hat_MilitaryHelmetRagtop,
+	   Time:60,
+  	}
+}	
+
+recipe Add helmet rags
+  	{
+   	   Hat_PoliceHelmetGreenStrapless
+	   HelmetRags,
+   	   Result:Hat_MilitaryHelmetRagtop,
+	   Time:60,
+  	}
+}	
+
+recipe Add helmet rags
+  	{
+   	   Hat_MilitaryHelmet,
+	   HelmetRags,
+   	   Result:Hat_MilitaryHelmetRagtop,
+	   Time:60,
+  	}
+
+
+recipe Add helmet rags
+  	{
+   	   Hat_M1HelmetMilitaryPoliceStrapless,
+	   HelmetRags,
+   	   Result:Hat_M1HelmetRagtop,
+	   Time:60,
+  	}
+}	
+
+recipe Add helmet rags
+  	{
+   	   Hat_MilitaryHelmet,
+	   HelmetRags,
+   	   Result:Hat_MilitaryHelmetRagtop,
+	   Time:60,
+  	}
+
+recipe Add helmet rags
+  	{
+   	   Hat_MilitaryHelmetStrapless,
+	   HelmetRags,
+   	   Result:Hat_MilitaryHelmetRagtop,
+	   Time:60,
+  	}
+
+recipe Add helmet rags
+  	{
+   	   Hat_MilitaryHelmetDesert,
+	   HelmetRags,
+   	   Result:Hat_MilitaryHelmetRagtop,
+	   Time:60,
+  	}
+
+recipe Add helmet rags
+  	{
+   	   Hat_MilitaryHelmetDesertStrapless,
+	   HelmetRags,
+   	   Result:Hat_MilitaryHelmetRagtop,
+	   Time:60,
+  	}
+
+recipe Add helmet rags
+  	{
+   	   Hat_MilitaryHelmetDesertCombat,
+	   HelmetRags,
+   	   Result:Hat_MilitaryHelmetRagtop,
+	   Time:60,
+  	}
+
+recipe Add helmet rags
+  	{
+   	   Hat_MilitaryHelmetDesertCombatStrapless,
+	   HelmetRags,
+   	   Result:Hat_MilitaryHelmetRagtop,
+	   Time:60,
+  	}
 }		
