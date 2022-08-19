@@ -1,11 +1,10 @@
 module Base
 {
 
-
 	    model PatrolCapOG107_WorldItem
 	{
 		mesh = WorldItems/PatrolCap_WorldItem,
-	    texture = clothes/hat/Hat_PatrolCapOG107,
+	    texture = clothes/hat/Hat_OG107,
 		scale = 0.5,
 	}
 
@@ -678,4 +677,26 @@ module Base
 		texture = WorldItems/LBV88,
 		scale = 0.5,
 	}
+
+		model HelmetRags_WorldItem
+	{
+		mesh = WorldItems/HelmetRags_WorldItem,
+        texture = clothes/hat/Hat_M1HelmetRag,
+		scale = 0.5,
+	}
+
+		model M1HelmetRagtop_WorldItem
+	{
+		mesh = WorldItems/M1HelmetRagtop_WorldItem,
+        texture = clothes/hat/Hat_M1HelmetRag,
+		scale = 0.5,
+	}
+
+		model PASGTRagtop_WorldItem
+	{
+		mesh = WorldItems/MilitaryHelmetRagtop_WorldItem,
+        texture = clothes/hat/Hat_MilitaryHelmetRag,
+		scale = 0.5,
+	}
+	
 }

@@ -23,6 +23,28 @@ module SMUIClothing
 		WorldStaticModel = M1Helmet_WorldItem,
     }
 
+        item Hat_M1HelmetRagtop
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Ragtop M1 Steel Helmet,
+        ClothingItem = Hat_M1HelmetRagtop,
+        BodyLocation = Hat,
+        Icon = M1HelmetRagtop,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        BulletDefense = 20,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_M1HelmetRagtopStrapless,
+        ClothingItemExtraOption = Unstrap,
+        ClothingExtraSubmenu = Strap,
+        Insulation = 0.10,
+        WaterResistance = 0.2,
+        Weight = 0.5,
+		WorldStaticModel = M1HelmetRagtop_WorldItem,
+    }
+    
         item Hat_M1HelmetRagtopStrapless
     {
         DisplayCategory = Helmet,
@@ -30,7 +52,7 @@ module SMUIClothing
         DisplayName = Strapless Ragtop M1 Steel Helmet,
         ClothingItem = Hat_M1HelmetRagtopStrapless,
         BodyLocation = Hat,
-        Icon = M1HelmetStrapless,
+        Icon = M1HelmetRagtopStrapless,
 		BloodLocation = Head,
         BiteDefense = 100,
 		ScratchDefense = 100,
@@ -43,30 +65,9 @@ module SMUIClothing
         Insulation = 0.10,
         WaterResistance = 0.2,
         Weight = 0.5,
-		WorldStaticModel = M1Helmet_WorldItem,
+		WorldStaticModel = M1HelmetRagtop_WorldItem,
     }
 
-        item Hat_M1HelmetRagtop
-    {
-        DisplayCategory = Helmet,
-        Type = Clothing,
-        DisplayName = Ragtop M1 Steel Helmet,
-        ClothingItem = Hat_M1HelmetRagtop,
-        BodyLocation = Hat,
-        Icon = M1Helmet,
-		BloodLocation = Head,
-        BiteDefense = 100,
-		ScratchDefense = 100,
-        BulletDefense = 20,
-        CanHaveHoles = false,
-        ClothingItemExtra = SMUIClothing.Hat_M1HelmetRagtopStrapless,
-        ClothingItemExtraOption = Unstrap,
-        ClothingExtraSubmenu = Strap,
-        Insulation = 0.10,
-        WaterResistance = 0.2,
-        Weight = 0.5,
-		WorldStaticModel = M1Helmet_WorldItem,
-    }
 
         item Hat_M1HelmetStrapless
     {

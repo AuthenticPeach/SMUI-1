@@ -11,6 +11,7 @@ Tooltip_EN = {
     Tooltip_NBCBoots = "Can be worn over shoes and boots",
     Tooltip_NightVisionGoggles = "Must be attached to a mount for use",
     Tooltip_NVGMount = "Used to mount night vision onto helmets",
+    Tooltip_HelmetRags = "Can be added to M1 and PASGT helmets",
     Tooltip_WebbingSuspenders = "Used in conjunction wth pistol belts for load bearing webbing",
     Tooltip_CoolKids = "Only cool kids who use debug can use this",
     

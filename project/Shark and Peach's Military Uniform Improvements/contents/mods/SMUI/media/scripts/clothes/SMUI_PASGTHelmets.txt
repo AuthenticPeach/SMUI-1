@@ -8,7 +8,7 @@ module SMUIClothing
         DisplayName = Ragtop PASGT Helmet,
         ClothingItem = Hat_MilitaryHelmetRagtop,
         BodyLocation = Hat,
-        Icon = MilitaryHelmet,
+        Icon = MilitaryHelmetRagtop,
 		BloodLocation = Head,
         BiteDefense = 100,
 		ScratchDefense = 100,
@@ -20,7 +20,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = WoodlandPASGTHelmet_WorldItem,
+		WorldStaticModel = PASGTRagtop_WorldItem,
     }
 
     item Hat_MilitaryHelmetRagtopStrapless
@@ -30,7 +30,7 @@ module SMUIClothing
         DisplayName = Ragtop PASGT Helmet,
         ClothingItem = Hat_MilitaryHelmetRagtopStrapless,
         BodyLocation = Hat,
-        Icon = MilitaryHelmetStrapless,
+        Icon = MilitaryHelmetRagtopStrapless,
 		BloodLocation = Head,
         BiteDefense = 100,
 		ScratchDefense = 100,
@@ -43,7 +43,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1,
         Tags = Military,
-		WorldStaticModel = WoodlandPASGTHelmet_WorldItem,
+		WorldStaticModel = PASGTRagtop_WorldItem,
     }
 
     item Hat_MilitaryHelmet

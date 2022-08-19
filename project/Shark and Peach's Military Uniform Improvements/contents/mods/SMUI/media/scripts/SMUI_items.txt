@@ -92,8 +92,8 @@ module SMUIClothing
 		Weight = 0.1,
 		Type = Normal,
 		DisplayName = Helmet Rags,
-		Icon = MOPPPackage,
-		WorldStaticModel = MOPPPackageTop_WorldItem,
+		Icon = HelmetRags,
+		Tooltip = Tooltip_HelmetRags,
+		WorldStaticModel = HelmetRags_WorldItem,
 	}
-
 }
