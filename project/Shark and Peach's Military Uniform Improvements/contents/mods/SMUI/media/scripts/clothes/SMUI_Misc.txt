@@ -312,9 +312,9 @@ module SMUIClothing
     	item Bag_CFP90PatrolPack
     {
         Type	=	Container,
-        WeightReduction	=	75,
+        WeightReduction	=	40,
         Weight	=	0.5,
-        Capacity	=	17,
+        Capacity	=	15,
         DisplayName	= CFP-90 Patrol Pack,
         Icon = PatrolPack,
         CanBeEquipped = Back,
