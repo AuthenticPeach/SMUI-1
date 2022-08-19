@@ -4,6 +4,11 @@
 	<!-- Shark's Military Uniform Improvements -->
 
 	<files>
+	<path>media/clothing/clothingItems/Shorts_CamoDesertLong.xml</path>
+	<guid>cba80dee-69a8-4b63-acf9-b6bb06f2a862</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Shoes_MickeyMouse.xml</path>
 	<guid>d52eede5-6426-4eef-ba0c-18d66b72ccc4</guid>
 	</files>

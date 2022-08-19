@@ -752,6 +752,22 @@ module SMUIClothing
         WorldStaticModel = LargeALICEWoodland_WorldItem,
     }
     
+        item Shorts_CamoDesertLong
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Desert Battle Shorts,
+        ClothingItem = Shorts_CamoGreenLong,
+        BodyLocation = Pants,
+        Icon = TrousersCamoSand,
+        BloodLocation = Trousers,
+        Insulation = 0.5,
+        WindResistance = 0.3,
+        WaterResistance = 0.3,
+        FabricType = Cotton,
+        WorldStaticModel = LongShorts_Ground,
+    }
+
         item Shoes_MickeyMouse
 	{   
 
