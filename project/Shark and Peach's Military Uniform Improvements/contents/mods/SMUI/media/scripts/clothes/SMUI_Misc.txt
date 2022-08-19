@@ -757,7 +757,7 @@ module SMUIClothing
         DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = Desert Battle Shorts,
-        ClothingItem = Shorts_CamoGreenLong,
+        ClothingItem = Shorts_CamoDesertLong,
         BodyLocation = Pants,
         Icon = TrousersCamoSand,
         BloodLocation = Trousers,
