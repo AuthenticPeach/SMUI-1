@@ -142,4 +142,49 @@ module SMUIClothing
 		WorldStaticModel = DesertCombatPASGTHelmetPVS7_WorldItem,
 	    Tags = Military;NVGchucked,
     }
+
+
+        item Hat_MilitaryTacticalHelmetNVGUP
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Bump Helmet w/ AN/PVS-7 (Up),
+        ClothingItem = Hat_MilitaryTacticalHelmetNVGDOWN,
+        BodyLocation = Hat,
+        Icon = MilitaryTacticalHelmetGoggles,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        CanHaveHoles = false,
+		ClothingItemExtra = SMUIClothing.Hat_MilitaryTacticalHelmetNVGDOWN,
+        ClothingItemExtraOption = FlipUp,
+		ClothingExtraSubmenu = FlipDown,
+        Insulation = 0.5,
+        WaterResistance = 0.4,
+        Weight = 1,
+        Tags = Military,
+        WorldStaticModel = MilitaryTacticalHelmetGoggles_WorldItem,
+    }
+
+        item Hat_MilitaryTacticalHelmetNVGDOWN
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Bump Helmet w/ AN/PVS-7 (Down),
+        ClothingItem = Hat_MilitaryTacticalHelmetNVGDOWN,
+        BodyLocation = Hat,
+        Icon = MilitaryTacticalHelmetGoggles,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        CanHaveHoles = false,
+		ClothingItemExtra = SMUIClothing.Hat_MilitaryTacticalHelmetNVGUP,
+        ClothingItemExtraOption = FlipDown,
+		ClothingExtraSubmenu = FlipUp,
+        Insulation = 0.5,
+        WaterResistance = 0.4,
+        Weight = 1,
+        Tags = Military;NVGchucked,
+        WorldStaticModel = MilitaryTacticalHelmetGoggles_WorldItem,
+    }
 }

@@ -76,6 +76,25 @@ module SMUIClothing
         Tags = Military,
         WorldStaticModel = MilitaryTacticalHelmetGoggles_WorldItem,
     }
+
+        item Hat_MilitaryTacticalHelmetNVGMount
+    {
+        DisplayCategory = Helmet,
+        Type = Clothing,
+        DisplayName = Bump Helmet /w NVG Mount,
+        ClothingItem = Hat_MilitaryTacticalHelmetNVGMount,
+        BodyLocation = Hat,
+        Icon = MilitaryTacticalHelmet,
+		BloodLocation = Head,
+        BiteDefense = 100,
+		ScratchDefense = 100,
+        CanHaveHoles = false,
+        Insulation = 0.5,
+        WaterResistance = 0.4,
+        Weight = 0.3,
+        Tags = Military,
+        WorldStaticModel = MilitaryTacticalHelmet_WorldItem,
+    }
     
         item Hat_M17
     {

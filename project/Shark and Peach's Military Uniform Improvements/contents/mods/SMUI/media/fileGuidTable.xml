@@ -199,6 +199,21 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryTacticalHelmetNVGMount.xml</path>
+	<guid>2e2389b1-64ca-4c48-92a7-c055183021a0</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryTacticalHelmetNVGUP.xml</path>
+	<guid>9cfddf5c-5397-47b7-8c89-a87f8cef9dee</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_MilitaryTacticalHelmetNVGDOWN.xml</path>
+	<guid>ef789b89-034a-42aa-8725-4c4ac86eef73</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Bag_CFP90PatrolPack.xml</path>
 	<guid>80c41e56-7aeb-48ee-a1a7-c75be8cd80cc</guid>
 	</files>
