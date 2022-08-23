@@ -258,6 +258,15 @@ recipe Attach Night Vision
 	   Time:60,
   	}
 
+recipe Attach NVG mount
+  	{
+   	   Hat_MilitaryTacticalHelmet,
+	   NightVisionMount,
+
+   	   Result:Hat_MilitaryTacticalHelmetNVGMount,
+	   Time:60,
+  	}
+	
  recipe Attach Night Vision
   	{
    	   Hat_MilitaryHelmetDesertNVGMount,
@@ -282,6 +291,15 @@ recipe Attach Night Vision
 	   NightVisionGoggles,
 
    	   Result:Hat_MilitaryHelmetDesertNVGUP,
+	   Time:60,
+  	}
+
+ recipe Attach Night Vision
+  	{
+   	   Hat_MilitaryTacticalHelmetNVGMount,
+	   NightVisionGoggles,
+
+   	   Result:Hat_MilitaryTacticalHelmetNVGUP,
 	   Time:60,
   	}
 

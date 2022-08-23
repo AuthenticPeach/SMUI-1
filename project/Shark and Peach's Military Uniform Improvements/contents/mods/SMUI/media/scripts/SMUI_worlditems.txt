@@ -341,6 +341,20 @@ module Base
 		texture = WorldItems/MilitaryTacticalHelmetGoggles,
 		scale = 0.5,
 	}
+	
+	    model MilitaryTacticalHelmetNVGMount_WorldItem
+	{
+		mesh = WorldItems/MilitaryTacticalHelmetNVGMount_WorldItem,
+		texture = clothes/hat/Hat_BumpHelmetNVG,
+		scale = 0.5,
+	}
+
+		model MilitaryTacticalHelmetNVG_WorldItem
+	{
+		mesh = WorldItems/MilitaryTacticalHelmetNVG_WorldItem,
+	    texture = clothes/hat/Hat_BumpHelmetNVG,
+		scale = 0.5,
+	}
 
 		model DH132_WorldItem
 	{

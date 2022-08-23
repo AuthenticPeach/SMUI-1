@@ -93,7 +93,7 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 0.3,
         Tags = Military,
-        WorldStaticModel = MilitaryTacticalHelmet_WorldItem,
+        WorldStaticModel = MilitaryTacticalHelmetNVGMount_WorldItem,
     }
     
         item Hat_M17
