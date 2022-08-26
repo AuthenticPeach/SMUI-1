@@ -1,1 +1,1 @@
-Events.OnGameBoot.Add(print("SMUI - Ragtop and Bump Helmet NVG's - AUG23"))
+Events.OnGameBoot.Add(print("SMUI - Duckhunter fix and adjustments - AUG26"))
