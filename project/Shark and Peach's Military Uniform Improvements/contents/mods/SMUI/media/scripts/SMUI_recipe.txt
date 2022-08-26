@@ -133,7 +133,6 @@ recipe Unroll patrol cap
 	   Time:60,
   	}
 
-
 recipe Roll patrol cap
   	{
    	   Hat_PatrolCapDesert,
@@ -528,15 +527,6 @@ recipe Attach doff hood
 	   Time:60,
   	}
 
-recipe Attach doff hood
-  	{
-   	   Hat_PoliceM17,
-	   M17Hood,
-
-   	   Result:Hat_M17Doff,
-	   Time:60,
-  	}
-
 recipe Remove doff hood
   	{
    	   Hat_M17Doff,
@@ -749,6 +739,8 @@ recipe Unseal package
 recipe Make helmet rags
   	{
    	   RippedSheets,
+	   PaintGreen,
+	   keep Paintbrush,
    	   Result:HelmetRags,
 	   Time:60,
   	}
@@ -770,177 +762,7 @@ recipe Add helmet rags
    	   Result:Hat_M1HelmetRagtop,
 	   Time:60,
   	}
-}	
-
-recipe Add helmet rags
-  	{
-   	   Hat_M1HelmetWoodland,
-	   HelmetRags,
-	   Tooltip:Tooltip_Irreversible,
-   	   Result:Hat_M1HelmetRagtop,
-	   Time:60,
-  	}
-}
-
-recipe Add helmet rags
-  	{
-   	   Hat_M1HelmetWoodlandStrapless,
-	   HelmetRags,
-	   Tooltip:Tooltip_Irreversible,
-   	   Result:Hat_M1HelmetRagtop,
-	   Time:60,
-  	}
-}	
-
-recipe Add helmet rags
-  	{
-   	   Hat_M1HelmetThreeColor,
-	   HelmetRags,
-	   Tooltip:Tooltip_Irreversible,
-   	   Result:Hat_M1HelmetRagtop,
-	   Time:60,
-  	}
-}
-
-recipe Add helmet rags
-  	{
-   	   Hat_M1HelmetThreeColorStrapless,
-	   HelmetRags,
-	   Tooltip:Tooltip_Irreversible,
-   	   Result:Hat_M1HelmetRagtop,
-	   Time:60,
-  	}
-}	
-
-recipe Add helmet rags
-  	{
-   	   Hat_M1HelmetERDL,
-	   HelmetRags,
-	   Tooltip:Tooltip_Irreversible,
-   	   Result:Hat_M1HelmetRagtop,
-	   Time:60,
-  	}
-}
-
-recipe Add helmet rags
-  	{
-   	   Hat_M1HelmetERDLStrapless,
-	   HelmetRags,
-	   Tooltip:Tooltip_Irreversible,
-   	   Result:Hat_M1HelmetRagtop,
-	   Time:60,
-  	}
-}	
-
-recipe Add helmet rags
-  	{
-   	   Hat_M1HelmetMitchell,
-	   HelmetRags,
-	   Tooltip:Tooltip_Irreversible,
-   	   Result:Hat_M1HelmetRagtop,
-	   Time:60,
-  	}
-}
-
-recipe Add helmet rags
-  	{
-   	   Hat_M1HelmetMitchellStrapless,
-	   HelmetRags,
-   	   Result:Hat_M1HelmetRagtop,
-	   Time:60,
-  	}
-}	
-
-recipe Add helmet rags
-  	{
-   	   Hat_M1HelmetAutumnMitchell,
-	   HelmetRags,
-	   Tooltip:Tooltip_Irreversible,
-   	   Result:Hat_M1HelmetRagtop,
-	   Time:60,
-  	}
-}
-
-recipe Add helmet rags
-  	{
-   	   Hat_M1HelmetAutumnMitchellStrapless,
-	   HelmetRags,
-	   Tooltip:Tooltip_Irreversible,
-   	   Result:Hat_M1HelmetRagtop,
-	   Time:60,
-  	}
-}	
-
-recipe Add helmet rags
-  	{
-   	   Hat_M1HelmetMilitaryPolice,
-	   HelmetRags,
-	   Tooltip:Tooltip_Irreversible,
-   	   Result:Hat_M1HelmetRagtop,
-	   Time:60,
-  	}
-}
-
-recipe Add helmet rags
-  	{
-   	   Hat_PoliceHelmet
-	   HelmetRags,
-	   Tooltip:Tooltip_Irreversible,
-   	   Result:Hat_MilitaryHelmetRagtop,
-	   Time:60,
-  	}
-}	
-
-recipe Add helmet rags
-  	{
-   	   Hat_PoliceHelmetStrapless
-	   HelmetRags,
-	   Tooltip:Tooltip_Irreversible,
-   	   Result:Hat_MilitaryHelmetRagtop,
-	   Time:60,
-  	}
-}	
-
-recipe Add helmet rags
-  	{
-   	   Hat_PoliceHelmetGreen
-	   HelmetRags,
-	   Tooltip:Tooltip_Irreversible,
-   	   Result:Hat_MilitaryHelmetRagtop,
-	   Time:60,
-  	}
-}	
-
-recipe Add helmet rags
-  	{
-   	   Hat_PoliceHelmetGreenStrapless
-	   HelmetRags,
-	   Tooltip:Tooltip_Irreversible,
-   	   Result:Hat_MilitaryHelmetRagtop,
-	   Time:60,
-  	}
-}	
-
-recipe Add helmet rags
-  	{
-   	   Hat_MilitaryHelmet,
-	   HelmetRags,
-	   Tooltip:Tooltip_Irreversible,
-   	   Result:Hat_MilitaryHelmetRagtop,
-	   Time:60,
-  	}
-
-
-recipe Add helmet rags
-  	{
-   	   Hat_M1HelmetMilitaryPoliceStrapless,
-	   HelmetRags,
-	   Tooltip:Tooltip_Irreversible,
-   	   Result:Hat_M1HelmetRagtop,
-	   Time:60,
-  	}
-}	
-
+	
 recipe Add helmet rags
   	{
    	   Hat_MilitaryHelmet,
@@ -953,42 +775,6 @@ recipe Add helmet rags
 recipe Add helmet rags
   	{
    	   Hat_MilitaryHelmetStrapless,
-	   HelmetRags,
-	   Tooltip:Tooltip_Irreversible,
-   	   Result:Hat_MilitaryHelmetRagtop,
-	   Time:60,
-  	}
-
-recipe Add helmet rags
-  	{
-   	   Hat_MilitaryHelmetDesert,
-	   HelmetRags,
-	   Tooltip:Tooltip_Irreversible,
-   	   Result:Hat_MilitaryHelmetRagtop,
-	   Time:60,
-  	}
-
-recipe Add helmet rags
-  	{
-   	   Hat_MilitaryHelmetDesertStrapless,
-	   HelmetRags,
-	   Tooltip:Tooltip_Irreversible,
-   	   Result:Hat_MilitaryHelmetRagtop,
-	   Time:60,
-  	}
-
-recipe Add helmet rags
-  	{
-   	   Hat_MilitaryHelmetDesertCombat,
-	   HelmetRags,
-	   Tooltip:Tooltip_Irreversible,
-   	   Result:Hat_MilitaryHelmetRagtop,
-	   Time:60,
-  	}
-
-recipe Add helmet rags
-  	{
-   	   Hat_MilitaryHelmetDesertCombatStrapless,
 	   HelmetRags,
 	   Tooltip:Tooltip_Irreversible,
    	   Result:Hat_MilitaryHelmetRagtop,

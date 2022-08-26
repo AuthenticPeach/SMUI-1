@@ -546,7 +546,13 @@ table.insert(ProceduralDistributions.list.CampingStoreClothes.items, 3);
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Shorts_CamoDesertLong");
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
 
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.NightVisionGoggles");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
 
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.NightVisionMount");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 10);
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.NightVisionMount");
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 10);
 
 
 
