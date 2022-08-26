@@ -7,7 +7,11 @@ description= Consider supporting our modding efforts:
 description= [url=https://ko-fi.com/sharkmods]Shark[/url]
 description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
-description= [h1][b]NEW: Mitchell Pattern Pants[/b][/h1]
+description= [url=https://github.com/sharkster91/SMUI/issues]If you need to report a bug, click here to report it on GitHub. Be as detailed as possible.[/url]
+description=
+description= [h1][b]NEW: Bump Helmet w/ AN/PVS-7 + Mount[/b][/h1]
+description= [h1][b]NEW: Desert Battle Shorts
+description= [h1][b]NEW: Experimental ragtop helmets (Can be applied to plain M1 helmets and Woodland PASGT)
 description=
 description= [h2][b]This mod entirely redoes military zombies and adds in military equipment both from the 1990's and later which is inline with the universe of Project Zomboid.[/b][/h2]
 description=
@@ -28,7 +32,7 @@ description=[h2]Helmets[/h2]
 description=[*] PASGT Helmets (Woodland, Desert Battle, and Desert Combat + can be strapped/unstrapped + Riot Version + Night Vision with AN/PVS-7)
 description=[*] M1 Steel Helmets (Coverless, Woodland, Desert, ERDL, and Mitchell + Autumn Mitchell and  can be strapped/unstrapped + can have goggles attached)
 description=[*] DH-132 Crewman Helmet
-description=[*] Military Tactical Helmet (Modified Protec Full-Cut Helmet w/ Comms Set)
+description=[*] Bump Helmet (Modified Protec Full-Cut Helmet w/ Comms Set + Night Vision version)
 description=[/list]
 description=
 description=[h2]Body Armor[/h2]
@@ -39,7 +43,7 @@ description=[*]Military Tactical Vest
 description=[/list]
 description=
 description=[h2]Uniforms[/h2]
-description=[*]M81 Woodland 
+description=[*]M81 Woodland
 description=[*]M81 Urban
 description=[*]Desert Battle Uniform (Six-Color)
 description=[*]Desert Combat Uniform (Three-Color)
@@ -54,7 +58,7 @@ description=[/list]
 description=
 description=[h2]Webbing & Bags[/h2]
 description=[*]ALICE Webbing
-description=[*]LBV-88 
+description=[*]LBV-88
 description=[*]M-1956 Webbing
 description=[*]CFP-90 Patrol Pack
 description=[*]Large ALICE Pack
@@ -91,10 +95,5 @@ description=[*]M65 Field Jacket (OG-107, Woodland, and Mitchell Pattern)
 description=[*]Military Police Brassard
 description=[*]GI Socks
 description=[/list]
-description=
-description=[h2]Special mentions:
-description=[list]
-description=[h2]The code that makes night vision possible is originally by Eris from her [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1793461606]Night Vision Goggles[/url] mod.[/h2]
-description=[h2]Certain functions that allow more certain clothing to transition seamlessly is from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2688737276]Dislaik's Clothing Pack.[/url]
 tags=Build 41;Clothing/Armor;Military;Models;Realistic;Weapons
 visibility=public
