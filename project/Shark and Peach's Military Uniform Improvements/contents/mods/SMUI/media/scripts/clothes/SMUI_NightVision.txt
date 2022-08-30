@@ -143,7 +143,6 @@ module SMUIClothing
 	    Tags = Military;NVGchucked,
     }
 
-
         item Hat_MilitaryTacticalHelmetNVGUP
     {
         DisplayCategory = Helmet,
@@ -161,7 +160,7 @@ module SMUIClothing
 		ClothingExtraSubmenu = FlipUp,
         Insulation = 0.5,
         WaterResistance = 0.4,
-        Weight = 1,
+        Weight = 1.5,
         Tags = Military,
         WorldStaticModel = MilitaryTacticalHelmetNVG_WorldItem,
     }
@@ -183,7 +182,7 @@ module SMUIClothing
 		ClothingExtraSubmenu = FlipDown,
         Insulation = 0.5,
         WaterResistance = 0.4,
-        Weight = 1,
+        Weight = 1.5,
         Tags = Military;NVGchucked,
         WorldStaticModel = MilitaryTacticalHelmetNVG_WorldItem,
     }
