@@ -350,7 +350,7 @@ module Base
         DisplayName = Medium ALICE Pack,
         ClothingItem = Bag_SurvivorBag,
         CanBeEquipped = Back,
-        WeightReduction	=	75,
+        WeightReduction	=	85,
         Weight	=	2,
         Capacity	=	27,
         Icon	=	AliceBag,
@@ -363,7 +363,7 @@ module Base
         AttachmentReplacement = Bag,
         ReplaceInSecondHand = Bag_ALICEpack_LHand holdingbagleft,
         ReplaceInPrimaryHand = Bag_ALICEpack_RHand holdingbagright,
-        WorldStaticModel = ALICE_Pack_Ground,
+        WorldStaticModel = MediumALICEGreen_WorldItem,
     }
 
         item Bag_ALICEpack
@@ -374,7 +374,7 @@ module Base
         DisplayName = Medium ALICE Pack,
         ClothingItem = Bag_ALICEpack,
         CanBeEquipped = Back,
-        WeightReduction	=	75,
+        WeightReduction	=	85,
         Weight	=	2,
         Capacity	=	27,
         Icon	=	GreenALICEPack,
@@ -398,7 +398,7 @@ module Base
         DisplayName = Medium Woodland ALICE Pack,
         ClothingItem = Bag_ALICEpack_Army,
         CanBeEquipped = Back,
-        WeightReduction	=	75,
+        WeightReduction	=	85,
         Weight	=	2,
         Capacity	=	27,
         Icon	=	WoodlandALICEPack,
