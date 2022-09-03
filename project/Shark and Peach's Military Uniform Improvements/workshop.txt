@@ -7,7 +7,7 @@ description= Consider supporting our modding efforts:
 description= [url=https://ko-fi.com/sharkmods]Shark[/url]
 description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
-description= [url=https://github.com/sharkster91/SMUI/issues]If you need to report a bug, click here to report it on GitHub. Be as detailed as possible.[/url]
+description= [url=https://github.com/sharkster91/SMUI][img]https://i.imgur.com/nPaP9sc.png[/img][/url]
 description=
 description= [h1][b]NEW: Bump Helmet w/ AN/PVS-7 + Mount[/b][/h1]
 description= [h1][b]NEW: Desert Battle Shorts
