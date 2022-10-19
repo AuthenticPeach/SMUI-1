@@ -105,7 +105,7 @@ module Base
 	    DisplayCategory = Accessory,
 		Type = Clothing,
 		DisplayName = M17 w/ Doff Hood,
-		ClothingItem = Hat_NBCmask,
+		ClothingItem = Hat_M17Doff,
         BodyLocation = MaskEyes,
         BloodLocation = Head,
         Icon = M17Doff,
