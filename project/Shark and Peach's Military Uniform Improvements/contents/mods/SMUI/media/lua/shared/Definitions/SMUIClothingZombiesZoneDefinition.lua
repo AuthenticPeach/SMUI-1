@@ -176,13 +176,14 @@ local SharkHunter2 = {
 		gender="male",		
 		chance=10,
 	};
-ZombiesZoneDefinition.Survivalist[SharkHunter2] = SharkHunte2r;
+ZombiesZoneDefinition.Survivalist[SharkHunter2] = SharkHunter2;
 
 local SharkVeteran = {
 		name="SharkVeteran",
 		gender="male",		
 		chance=3,
 	};
+	
 ZombiesZoneDefinition.Bar[SharkVeteran] = SharkVeteran;
 ZombiesZoneDefinition.StreetPoor[SharkVeteran] = SharkVeteran;
 ZombiesZoneDefinition.TrailerPark[SharkVeteran] = SharkVeteran;
