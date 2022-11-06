@@ -4,8 +4,13 @@
 	<!-- Shark's Military Uniform Improvements -->
 
 	<files>
-	<path>media/clothing/clothingItems/Hat_PVS5.xml</path>
+	<path>media/clothing/clothingItems/Hat_PVS5Green.xml</path>
 	<guid>a7815ca5-8df2-4754-871a-ca9324a504e8</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_PVS5Black.xml</path>
+	<guid>13d0cbae-a577-459e-8631-d75490b52c0d</guid>
 	</files>
 
 	<files>

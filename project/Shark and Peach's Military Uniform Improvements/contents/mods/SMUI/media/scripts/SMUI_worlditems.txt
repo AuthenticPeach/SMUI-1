@@ -1,6 +1,20 @@
 module Base
 {
 
+		model PVS5Green_WorldItem
+	{
+		mesh = WorldItems/PVS5_WorldItem,
+	    texture = clothes/hat/Hat_PVS5Green,
+		scale = 0.5,
+	}
+
+		model PVS5Black_WorldItem
+	{
+		mesh = WorldItems/PVS5_WorldItem,
+	    texture = clothes/hat/Hat_PVS5Black,
+		scale = 0.5,
+	}
+
 	    model PatrolCapOG107_WorldItem
 	{
 		mesh = WorldItems/PatrolCap_WorldItem,

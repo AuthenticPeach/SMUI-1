@@ -1,19 +1,38 @@
 module SMUIClothing
 {
 
-        item Hat_PVS5
+    item Hat_PVS5Green
     {
         DisplayCategory = Accessory,
         Type = Clothing,
-        DisplayName = AN/PVS-5,
-        ClothingItem = Hat_PVS5,
-        BodyLocation = Hat,
-        Icon = MilitaryTacticalHelmetNVG,
+        DisplayName = Green AN/PVS-5,
+        ClothingItem = Hat_PVS5Green,
+        BodyLocation = MaskEyes,
+        Icon = PVS5Green,
 		BloodLocation = Head,
         CanHaveHoles = false,
+		ChanceToFall = 0,
         Weight = 0.7,
         Tags = Military;NVGchucked,
-        WorldStaticModel = MilitaryTacticalHelmetNVG_WorldItem,
+		Tooltip = Tooltip_NVGKey,
+        WorldStaticModel = PVS5Green_WorldItem,
+    }
+
+    item Hat_PVS5Black
+    {
+        DisplayCategory = Accessory,
+        Type = Clothing,
+        DisplayName = Black AN/PVS-5,
+        ClothingItem = Hat_PVS5Black,
+        BodyLocation = MaskEyes,
+        Icon = PVS5Black,
+		BloodLocation = Head,
+        CanHaveHoles = false,
+		ChanceToFall = 0,
+        Weight = 0.7,
+        Tags = Military;NVGchucked,
+		Tooltip = Tooltip_NVGKey,
+        WorldStaticModel = PVS5Black_WorldItem,
     }
 
 	item Hat_MilitaryHelmetNVGUP
@@ -37,6 +56,7 @@ module SMUIClothing
 		ChanceToFall = 0,
         Weight = 1.7,
 		Tags = Military,
+		Tooltip = Tooltip_NVGFlip,
 		WorldStaticModel = WoodlandPASGTHelmetPVS7_WorldItem,
     }
 
@@ -60,6 +80,7 @@ module SMUIClothing
 		ChanceToFall = 0,
         Weight = 1.7,		
 		Tags = Military;NVGchucked,
+		Tooltip = Tooltip_NVGKey,
 		WorldStaticModel = WoodlandPASGTHelmetPVS7_WorldItem,
 
     }
@@ -85,6 +106,7 @@ module SMUIClothing
 		ChanceToFall = 0,
         Weight = 1.7,
 		Tags = Military,
+		Tooltip = Tooltip_NVGFlip,
 		WorldStaticModel = DesertPASGTHelmetPVS7_WorldItem,
     }
 
@@ -108,6 +130,7 @@ module SMUIClothing
 		ChanceToFall = 0,
         Weight = 1.7,
 		WorldStaticModel = DesertPASGTHelmetPVS7_WorldItem,
+		Tooltip = Tooltip_NVGKey,
 	    Tags = Military;NVGchucked,
     }
 
@@ -131,6 +154,7 @@ module SMUIClothing
 		ClothingExtraSubmenu = FlipUp,
 		ChanceToFall = 0,
         Weight = 1.7,
+		Tooltip = Tooltip_NVGFlip,
 		WorldStaticModel = DesertCombatPASGTHelmetPVS7_WorldItem,
 		Tags = Military,
     }
@@ -154,6 +178,7 @@ module SMUIClothing
 		ClothingExtraSubmenu = FlipDown,
 		ChanceToFall = 0,
         Weight = 1.7,
+		Tooltip = Tooltip_NVGKey,
 		WorldStaticModel = DesertCombatPASGTHelmetPVS7_WorldItem,
 	    Tags = Military;NVGchucked,
     }
@@ -177,6 +202,7 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1.5,
         Tags = Military,
+		Tooltip = Tooltip_NVGFlip,
         WorldStaticModel = MilitaryTacticalHelmetNVG_WorldItem,
     }
 
@@ -199,6 +225,7 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1.5,
         Tags = Military;NVGchucked,
+		Tooltip = Tooltip_NVGKey,
         WorldStaticModel = MilitaryTacticalHelmetNVG_WorldItem,
     }
 }

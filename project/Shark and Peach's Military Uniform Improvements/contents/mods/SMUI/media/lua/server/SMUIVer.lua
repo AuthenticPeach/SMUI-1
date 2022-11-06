@@ -1,1 +1,1 @@
-Events.OnGameBoot.Add(print("SMUI - Duckhunter fix and adjustments - AUG26"))
+Events.OnGameBoot.Add(print("SMUI - AN/PVS-5 and NVG tooltips - NOV6"))

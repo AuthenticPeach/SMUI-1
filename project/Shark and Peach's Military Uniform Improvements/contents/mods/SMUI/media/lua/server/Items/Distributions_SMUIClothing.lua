@@ -301,6 +301,16 @@ table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 1);
 table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_BeretSpecial");
 table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 1);
 
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_PVS15Green");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_PVS15Green");
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 0.5);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_PVS15Black");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Hat_PVS15Black");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 0.5);
+
 table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_MilitaryHelmetNVGUP");
 table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 0.3);
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_MilitaryHelmetNVGUP");
