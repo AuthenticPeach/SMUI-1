@@ -1,6 +1,21 @@
 module SMUIClothing
 {
 
+        item Hat_PVS5
+    {
+        DisplayCategory = Accessory,
+        Type = Clothing,
+        DisplayName = AN/PVS-5,
+        ClothingItem = Hat_PVS5,
+        BodyLocation = Hat,
+        Icon = MilitaryTacticalHelmetNVG,
+		BloodLocation = Head,
+        CanHaveHoles = false,
+        Weight = 0.7,
+        Tags = Military;NVGchucked,
+        WorldStaticModel = MilitaryTacticalHelmetNVG_WorldItem,
+    }
+
 	item Hat_MilitaryHelmetNVGUP
 	{
 		DisplayCategory = Helmet,
