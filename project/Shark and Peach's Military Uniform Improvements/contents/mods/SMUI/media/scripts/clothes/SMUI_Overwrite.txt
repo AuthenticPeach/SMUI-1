@@ -413,4 +413,25 @@ module Base
         ReplaceInPrimaryHand = Bag_ALICEpack_Army_RHand holdingbagright,
         WorldStaticModel = MediumALICEWoodland_WorldItem,
     }
+
+        item Boilersuit_Flying
+        
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = CWU-27/P Suit,
+        ClothingItem = Boilersuit_Flying,
+        BodyLocation = Boilersuit,
+        Icon = BoilerSuitGreen,
+        BloodLocation = Trousers;Jumper,
+        RunSpeedModifier = 0.9,
+        ScratchDefense = 30,
+        BiteDefense = 10,
+        Insulation = 0.75,
+        WindResistance = 0.60,
+        WaterResistance = 0.55,
+        FabricType = Cotton,
+        Tags = Military,
+        WorldStaticModel = BoilerSuit_Ground,
+    }
 }

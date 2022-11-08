@@ -9,9 +9,7 @@ description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
 description= [url=https://github.com/sharkster91/SMUI][img]https://i.imgur.com/nPaP9sc.png[/img][/url]
 description=
-description= [h1][b]NEW: Bump Helmet w/ AN/PVS-7 + Mount[/b][/h1]
-description= [h1][b]NEW: Desert Battle Shorts
-description= [h1][b]NEW: Experimental ragtop helmets (Can be applied to plain M1 helmets and Woodland PASGT)
+description= [h1][b]NEW: Green and Black AN/PVS-5[/b][/h1]
 description=
 description= [h2][b]This mod entirely redoes military zombies and adds in military equipment both from the 1990's and later which is inline with the universe of Project Zomboid.[/b][/h2]
 description=
@@ -76,6 +74,7 @@ description=
 description=[h2]Eyewear[/h2]
 description=[*]GI Glasses (aka Birth Control Glasses)
 description=[*]Dust Goggles
+description=[*]AN/PVS-5
 description=[*]Boogie Goggles
 description=[/list]
 description=

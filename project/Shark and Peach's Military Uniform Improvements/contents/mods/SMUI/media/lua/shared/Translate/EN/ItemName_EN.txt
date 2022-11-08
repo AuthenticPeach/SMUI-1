@@ -32,6 +32,7 @@ ItemName_EN = {
     ItemName_Base.Bag_ALICEpack_Army = "Woodland ALICE Pack",
 
     ItemName_Base.Hat_NBCmask = "M17 w/ Doff Hood",
+    ItemName_Base.Boilersuit_Flying = "CWU-27/P Suit",
 
 
 }
