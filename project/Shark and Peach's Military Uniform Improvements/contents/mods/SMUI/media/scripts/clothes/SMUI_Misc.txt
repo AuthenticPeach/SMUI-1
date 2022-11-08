@@ -95,7 +95,28 @@ module SMUIClothing
         Tags = Military,
         WorldStaticModel = MilitaryTacticalHelmetNVGMount_WorldItem,
     }
-    
+
+        item Hat_M9
+    {
+        DisplayCategory = GasMask,
+        Type = Clothing,
+        DisplayName = M9 Gas Mask,
+        ClothingItem = Hat_M9,
+        BodyLocation = MaskEyes,
+        BloodLocation = Head,
+        Icon = M9,
+        CanHaveHoles = false,
+        BiteDefense = 5,
+        ScratchDefense = 10,
+        Weight = 0.2,
+        Insulation = 0.75,
+        WindResistance = 0.45,
+		AttachmentType  = GasMask,	
+		StaticModel 	= GasMaskM17NotWorn,
+        WorldStaticModel = M9GasMask_WorldItem,
+		Tags 			= GasMask,			
+    }
+
         item Hat_M17
     {
         DisplayCategory = GasMask,

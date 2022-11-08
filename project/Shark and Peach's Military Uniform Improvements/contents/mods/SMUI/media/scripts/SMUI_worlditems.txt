@@ -1,6 +1,13 @@
 module Base
 {
 
+		model M9GasMask_WorldItem
+	{
+		mesh = WorldItems/M9_WorldItem,
+	    texture = clothes/hat/Hat_M9,
+		scale = 0.5,
+	}
+
 		model PVS5Green_WorldItem
 	{
 		mesh = WorldItems/PVS5_WorldItem,
