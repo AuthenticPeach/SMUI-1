@@ -68,7 +68,6 @@ module SMUIClothing
 		WorldStaticModel = M1HelmetRagtop_WorldItem,
     }
 
-
         item Hat_M1HelmetStrapless
     {
         DisplayCategory = Helmet,
@@ -460,7 +459,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName =  Desert Combat M1 Helmet w/ Goggles,
+        DisplayName =  Desert Battle M1 Helmet w/ Goggles,
         ClothingItem = Hat_M1HelmetThreeColorGoggles,
         BodyLocation = Hat,
         Icon = M1HelmetThreeColorGoggles,
@@ -482,7 +481,7 @@ module SMUIClothing
     {
         DisplayCategory = Helmet,
         Type = Clothing,
-        DisplayName = Strapless Desert Combat M1 Steel Helmet w/ Goggles,
+        DisplayName = Strapless Desert Battle M1 Steel Helmet w/ Goggles,
         ClothingItem = Hat_M1HelmetThreeColorGogglesStrapless,
         BodyLocation = Hat,
         Icon = M1HelmetThreeColorGogglesStrapless,
