@@ -104,7 +104,7 @@ module SMUIClothing
         ClothingItem = Hat_MarkIV,
         BodyLocation = MaskEyes,
         BloodLocation = Head,
-        Icon = M9,
+        Icon = MarkIV,
         CanHaveHoles = false,
         BiteDefense = 5,
         ScratchDefense = 10,
