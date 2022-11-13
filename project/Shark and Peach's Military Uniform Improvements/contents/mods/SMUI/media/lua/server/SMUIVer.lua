@@ -1,1 +1,1 @@
-Events.OnGameBoot.Add(print("SMUI - AN/PVS-5 and NVG tooltips - NOV6"))
+Events.OnGameBoot.Add(print("SMUI - M9, Mark IV, and CWU-27P + Container Context Fix - NOV6"))
