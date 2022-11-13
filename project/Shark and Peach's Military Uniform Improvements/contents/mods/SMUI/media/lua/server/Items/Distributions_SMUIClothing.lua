@@ -372,6 +372,10 @@ table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 3);
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Hat_M9");
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 3);
 
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_MarkIV");
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 3);
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Hat_MarkIV");
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 3);
 
 table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_M1HelmetERDL");
 table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 5);
