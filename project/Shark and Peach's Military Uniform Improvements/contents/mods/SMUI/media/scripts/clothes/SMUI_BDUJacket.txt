@@ -32,8 +32,8 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Woodland Pattern Jacket,
-        ClothingItem = Jacket_ArmyCamoGreenRolled,
+        DisplayName = Woodland Pattern Jacket (Rolled),
+        ClothingItem = Jacket_ArmyCamoGreenRolled
         BodyLocation = Jacket,
         Icon = TShirtCamoGreen,
         BloodLocation = Jacket,
@@ -50,7 +50,6 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1.0,
         FabricType = Cotton,
-        Tooltip = Tooltip_Rolled,
         Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
 
@@ -86,7 +85,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Lowland ERDL Pattern Jacket,
+        DisplayName = Lowland ERDL Pattern Jacket (Rolled),
         ClothingItem = Jacket_ERDLRolled,
         BodyLocation = Jacket,
         Icon = TShirtCamoGreen,
@@ -104,7 +103,6 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1.0,
         FabricType = Cotton,
-        Tooltip = Tooltip_Rolled,
         Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
 
@@ -140,7 +138,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Highland ERDL Pattern Jacket,
+        DisplayName = Highland ERDL Pattern Jacket (Rolled),
         ClothingItem = Jacket_ERDLRolled,
         BodyLocation = Jacket,
         Icon = TShirtCamoGreen,
@@ -158,7 +156,6 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1.0,
         FabricType = Cotton,
-        Tooltip = Tooltip_Rolled,
         Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
 
@@ -193,7 +190,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Tiger Stripe Pattern Jacket,
+        DisplayName = Tiger Stripe Pattern Jacket (Rolled),
         ClothingItem = Jacket_TigerStripeRolled,
         BodyLocation = Jacket,
         Icon = TShirtCamoGreen,
@@ -211,7 +208,6 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1.0,
         FabricType = Cotton,
-        Tooltip = Tooltip_Rolled,
         Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
 
@@ -248,7 +244,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Desert Battle Jacket,
+        DisplayName = Desert Battle Jacket (Rolled),
         BodyLocation = Jacket,
         BloodLocation = Jacket,
         Icon = TShirtCamoSand,
@@ -265,7 +261,6 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1.0,
         FabricType = Cotton,
-        Tooltip = Tooltip_Rolled,
         Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
     }
@@ -301,7 +296,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Desert Combat Jacket,
+        DisplayName = Desert Combat Jacket (Rolled),
         BodyLocation = Jacket,
         BloodLocation = Jacket,
         Icon = TShirtCamoSand,
@@ -318,7 +313,6 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1.0,
         FabricType = Cotton,
-        Tooltip = Tooltip_Rolled,
         Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
     }
@@ -355,7 +349,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Urban Pattern Jacket,
+        DisplayName = Urban Pattern Jacket (Rolled),
         BodyLocation = Jacket,
         Icon = TShirtCamoGrey,
         BloodLocation = Jacket,
@@ -372,7 +366,6 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1.0,
         FabricType = Cotton,
-        Tooltip = Tooltip_Rolled,
         Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
 
@@ -410,7 +403,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = T-Pattern Jacket,
+        DisplayName = T-Pattern Jacket (Rolled),
         BodyLocation = Jacket,
         Icon = TShirtCamoGrey,
         BloodLocation = Jacket,
@@ -427,7 +420,6 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1.0,
         FabricType = Cotton,
-        Tooltip = Tooltip_Rolled,
         Tags = Military,
         WorldStaticModel = JacketCoat_Ground,
 
@@ -464,7 +456,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = OG-107 Jacket,
+        DisplayName = OG-107 Jacket (Rolled),
         BodyLocation = Jacket,
         Icon = ODGreenJacketRolled,
         BloodLocation = Jacket,
@@ -481,7 +473,6 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1.0,
         FabricType = Cotton,
-        Tooltip = Tooltip_Rolled,
         WorldStaticModel = JacketCoat_Ground,
 
     }
@@ -515,7 +506,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Duck Hunter Pattern Jacket,
+        DisplayName = Duck Hunter Pattern Jacket (Rolled),
         ClothingItem = Jacket_DuckHunterRolled,
         BodyLocation = Jacket,
         Icon = TShirtCamoGreen,
@@ -533,7 +524,6 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1.0,
         FabricType = Cotton,
-        Tooltip = Tooltip_Rolled,
         WorldStaticModel = JacketCoat_Ground,
     }
 
@@ -541,16 +531,12 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Frog Skin Pattern Jacket,
         BodyLocation = Jacket,
         Icon = ShirtCamoGreen,
         BloodLocation = Jacket,
         RunSpeedModifier = 0.94,
         CombatSpeedModifier = 0.97,
         ClothingItem = Jacket_FrogSkin,
-        ClothingItemExtra =  SMUIClothing.Jacket_FrogSkinRolled,
-        ClothingItemExtraOption = RollUp,
-        ClothingExtraSubmenu = RollDown,
         BiteDefense = 20,
         ScratchDefense = 30,
         Insulation = 0.4,
@@ -566,17 +552,12 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Frog Skin Pattern Jacket,
         ClothingItem = Jacket_FrogSkinRolled,
         BodyLocation = Jacket,
         Icon = TShirtCamoGreen,
         BloodLocation = Jacket,
         RunSpeedModifier = 0.94,
         CombatSpeedModifier = 0.97,
-        ClothingItem = Jacket_FrogSkinRolled,
-        ClothingItemExtra = SMUIClothing.Jacket_FrogSkin,
-        ClothingItemExtraOption = RollDown,
-        ClothingExtraSubmenu = RollUp,
         BiteDefense = 15,
         ScratchDefense = 20,
         Insulation = 0.4,
@@ -584,7 +565,6 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1.0,
         FabricType = Cotton,
-        Tooltip = Tooltip_Rolled,
         WorldStaticModel = JacketCoat_Ground,
 
     }

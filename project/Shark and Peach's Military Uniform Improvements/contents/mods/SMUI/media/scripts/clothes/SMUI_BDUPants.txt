@@ -27,7 +27,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Woodland Pattern Pants,
+        DisplayName = Woodland Pattern Pants (Tucked),
         BodyLocation = Pants,
         Icon = TrousersCamoGreen,
         BloodLocation = Trousers,
@@ -43,7 +43,6 @@ module SMUIClothing
         Weight = 1.0,
         FabricType = Cotton, 		
         Tags = Military,
-        Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 
@@ -74,7 +73,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Lowland ERDL Pattern Pants,
+        DisplayName = Lowland ERDL Pattern Pants (Tucked),
         BodyLocation = Pants,
         Icon = TrousersCamoGreen,
         BloodLocation = Trousers,
@@ -90,7 +89,6 @@ module SMUIClothing
         Weight = 1.0,
         FabricType = Cotton,		
         Tags = Military,
-        Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 
@@ -121,7 +119,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Highland ERDL Pattern Pants,
+        DisplayName = Highland ERDL Pattern Pants (Tucked),
         BodyLocation = Pants,
         Icon = TrousersCamoGreen,
         BloodLocation = Trousers,
@@ -137,7 +135,6 @@ module SMUIClothing
         Weight = 1.0,
         FabricType = Cotton, 		
         Tags = Military,
-        Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 
@@ -169,7 +166,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Tiger Stripe Pattern Pants,
+        DisplayName = Tiger Stripe Pattern Pants (Tucked),
         BodyLocation = Pants,
         Icon = TrousersCamoGreen,
         BloodLocation = Trousers,
@@ -185,7 +182,6 @@ module SMUIClothing
         Weight = 1.0,
         FabricType = Cotton,		
         Tags = Military,
-        Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 
@@ -216,7 +212,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Duck Hunter Pattern Pants,
+        DisplayName = Duck Hunter Pattern Pants (Tucked),
         BodyLocation = Pants,
         Icon = TrousersCamoGreen,
         BloodLocation = Trousers,
@@ -232,7 +228,6 @@ module SMUIClothing
         Weight = 1.0,
         FabricType = Cotton,		
         Tags = Military,
-        Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 
@@ -263,7 +258,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Frog Skin Pattern Pants,
+        DisplayName = Frog Skin Pattern Pants (Tucked),
         BodyLocation = Pants,
         Icon = TrousersCamoGreen,
         BloodLocation = Trousers,
@@ -279,7 +274,6 @@ module SMUIClothing
         Weight = 1.0,
         FabricType = Cotton,		
         Tags = Military,
-        Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 
@@ -310,7 +304,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Mitchell Pattern Pants,
+        DisplayName = Mitchell Pattern Pants (Tucked),
         BodyLocation = Pants,
         Icon = TrousersCamoGreen,
         BloodLocation = Trousers,
@@ -326,7 +320,6 @@ module SMUIClothing
         Weight = 1.0,
         FabricType = Cotton,		
         Tags = Military,
-        Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 
@@ -357,7 +350,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Desert Battle Pattern Pants,
+        DisplayName = Desert Battle Pattern Pants (Tucked),
         BodyLocation = Pants,
         Icon = TrousersCamoSand,
         BloodLocation = Trousers,
@@ -374,7 +367,6 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1.0,
         Tags = Military,
-        Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 
@@ -405,7 +397,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Desert Combat Pattern Pants,
+        DisplayName = Desert Combat Pattern Pants (Tucked),
         BodyLocation = Pants,
         Icon = TrousersCamoSand,
         BloodLocation = Trousers,
@@ -422,7 +414,6 @@ module SMUIClothing
         Weight = 1.0,
         FabricType = Cotton,		
         Tags = Military,
-        Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 
@@ -455,7 +446,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Urban Pattern Pants,
+        DisplayName = Urban Pattern Pants (Tucked),
         BodyLocation = Pants,
         Icon = TrousersCamoGrey,
         BloodLocation = Trousers,
@@ -471,7 +462,6 @@ module SMUIClothing
         Weight = 1.0,
         FabricType = Cotton,		
         Tags = Military,
-        Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 
@@ -504,7 +494,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = T-Pattern Pants,
+        DisplayName = T-Pattern Pants (Tucked),
         BodyLocation = Pants,
         Icon = TrousersCamoGrey,
         BloodLocation = Trousers,
@@ -520,7 +510,6 @@ module SMUIClothing
         Weight = 1.0,
         FabricType = Cotton,		
         Tags = Military,
-        Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 
@@ -552,7 +541,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = OG-107 Pants,
+        DisplayName = OG-107 Pants (Tucked),
         BodyLocation = Pants,
         Icon = ODGreenPants,
         BloodLocation = Trousers,
@@ -567,7 +556,6 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1.0,
         FabricType = Cotton,		
-        Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 
@@ -599,7 +587,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = OG-107 Utility Pants,
+        DisplayName = OG-107 Utility Pants (Tucked),
         BodyLocation = Pants,
         Icon = ODGreenPants,
         BloodLocation = Trousers,
@@ -614,7 +602,6 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1.0,
         FabricType = Cotton,		
-        Tooltip = Tooltip_Tucked,
         WorldStaticModel = Trousers_Ground,
     }
 }
