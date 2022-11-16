@@ -1102,15 +1102,9 @@
 		<probability>0.7</probability>
 			<itemGUID>80c41e56-7aeb-48ee-a1a7-c75be8cd80cc</itemGUID>
 		</m_items>
-		<m_items> <!-- T-Pattern Camo Pants (Tucked) -->
-			<itemGUID>43bbdf52-3c82-4eee-8476-e7b5af8aa242</itemGUID>
+		<m_items> <!-- CWU-27/P Flying Suit -->
+			<itemGUID>25b7d5d3-c92f-4aaa-8fe7-a8563871621c</itemGUID>
 		</m_items>
-		<m_items> <!-- T-Pattern Camo Jacket -->
-			<itemGUID>145c4b2d-b7ee-4f08-819a-28e6720fc0da</itemGUID>
-		</m_items>
-		<m_items> <!-- T-Pattern Camo Jacket (Rolled) -->
-		<probability>0.5</probability>
-			<itemGUID>af61f827-1234-48bb-bb1f-96e34aa74916</itemGUID>
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
@@ -1121,11 +1115,7 @@
 		</m_items>
 		<m_items> <!-- Flight Gloves -->
 			<itemGUID>376cd290-8fdb-4b2a-ab52-7a85b2412bd7</itemGUID>
-		</m_items>
-		<m_items> <!-- Holster -->
-		<probability>0.1</probability>
-			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
-		</m_items>		
+		</m_items>	
 	</m_MaleOutfits>
 
 	<m_MaleOutfits><m_Name>SharkArmyCamoUrbanMale</m_Name>

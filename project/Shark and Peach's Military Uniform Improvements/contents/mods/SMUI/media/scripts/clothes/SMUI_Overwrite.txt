@@ -421,7 +421,7 @@ module Base
         Type = Clothing,
         DisplayName = CWU-27/P Suit,
         ClothingItem = Boilersuit_Flying,
-        BodyLocation = Boilersuit,
+        BodyLocation = SMUIJumpsuitPlus,
         Icon = BoilerSuitGreen,
         BloodLocation = Trousers;Jumper,
         RunSpeedModifier = 0.9,
