@@ -151,6 +151,14 @@ recipe Roll patrol cap
 
 recipe Unroll patrol cap
   	{
+   	   Hat_PatrolCapDesertRolled,
+
+   	   Result:Hat_PatrolCapDesert,
+	   Time:60,
+  	}
+
+recipe Unroll patrol cap
+  	{
    	   Hat_PatrolCapDesertRolledReversed,
 
    	   Result:Hat_PatrolCapDesert,
