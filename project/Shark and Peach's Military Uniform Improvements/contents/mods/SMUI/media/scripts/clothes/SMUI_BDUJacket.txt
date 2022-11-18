@@ -33,7 +33,7 @@ module SMUIClothing
         DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = Woodland Pattern Jacket (Rolled),
-        ClothingItem = Jacket_ArmyCamoGreenRolled
+        ClothingItem = Jacket_ArmyCamoGreenRolled,
         BodyLocation = Jacket,
         Icon = TShirtCamoGreen,
         BloodLocation = Jacket,
