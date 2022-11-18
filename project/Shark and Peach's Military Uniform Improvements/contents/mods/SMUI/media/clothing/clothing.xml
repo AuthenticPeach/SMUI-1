@@ -1096,26 +1096,23 @@
 			<itemGUID>ea2e6901-f5e7-4021-87b4-c2c49f024b98</itemGUID>
 		</m_items>
 		<m_items> <!-- LBV-88 Webbing-->
-			<itemGUID>d3546a87-b4f5-4b23-be53-25c0ec7ca00b</itemGUID>
+			<itemGUID>1d9a3259-050c-4393-aad7-af424f76858b</itemGUID>
 		</m_items>
-		<m_items> <!-- CFP-90 Assault Pack -->
-		<probability>0.7</probability>
-			<itemGUID>80c41e56-7aeb-48ee-a1a7-c75be8cd80cc</itemGUID>
+		<m_items> <!-- Woodland Camo Pants (Tucked) -->
+			<itemGUID>eb8d1f35-8d0b-4c9c-a308-aba2aa085r34</itemGUID>
 		</m_items>
-		<m_items> <!-- CWU-27/P Flying Suit -->
-			<itemGUID>25b7d5d3-c92f-4aaa-8fe7-a8563871621c</itemGUID>
-		</m_items>
+		<m_items> <!-- Woodland Camo Jacket -->
+			<itemGUID>b0d642f6-eb11-456c-aeb0-1b190b29a364</itemGUID>			
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Watch (Right) -->
-		<probability>0.5</probability>
 			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
 		</m_items>
 		<m_items> <!-- Flight Gloves -->
 			<itemGUID>376cd290-8fdb-4b2a-ab52-7a85b2412bd7</itemGUID>
-		</m_items>	
+		</m_items>
 	</m_MaleOutfits>
 
 	<m_MaleOutfits><m_Name>SharkArmyCamoUrbanMale</m_Name>
