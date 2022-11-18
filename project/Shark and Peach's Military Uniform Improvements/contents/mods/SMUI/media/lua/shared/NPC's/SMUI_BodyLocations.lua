@@ -22,7 +22,6 @@ group:getOrCreateLocation("SMUIBootsPlus")
 
 group:getOrCreateLocation("SMUIJumpsuitPlus")
 
-group:setExclusive("SMUIJumpsuitPlus", "SLEOJumpsuitPlus")
 group:setExclusive("SMUIJumpsuitPlus", "Boilersuit")
 group:setExclusive("SMUIJumpsuitPlus", "Sweater")
 group:setExclusive("SMUIJumpsuitPlus", "SweaterHat")
