@@ -244,7 +244,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Desert Battle Jacket (Rolled),
+        DisplayName = Desert Battle Pattern Jacket (Rolled),
         BodyLocation = Jacket,
         BloodLocation = Jacket,
         Icon = TShirtCamoSand,
@@ -270,7 +270,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Desert Combat Jacket,
+        DisplayName = Desert Combat Pattern Jacket,
         BodyLocation = Jacket,
         BloodLocation = Jacket,
         Icon = ShirtCamoSand,
@@ -296,7 +296,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Desert Combat Jacket (Rolled),
+        DisplayName = Desert Combat Pattern Jacket (Rolled),
         BodyLocation = Jacket,
         BloodLocation = Jacket,
         Icon = TShirtCamoSand,
