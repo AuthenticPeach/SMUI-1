@@ -131,25 +131,43 @@ SMUIZombiesZoneDefinition.SecretBase = {
 	},
 	OfficeWorkerSkirt = {
 		name="OfficeWorkerSkirt",
-		chance=10,
+		chance=0,
 		gender="female",
 	},
 	OfficeWorker = {
 		name="OfficeWorker",
-		chance=10,
+		chance=0,
 		gender="male",
 		beardStyles="null:80",
 	},
 	SharkArmyCamoUrbanGearedMale = {
 		name="SharkArmyCamoUrbanGearedMale",
 		gender="male",			
-		chance=15,
+		chance=0,
+	},
+	SharkCleanUpCrew = {
+		name="SharkArmyCamoUrbanMale",
+		gender="male",			
+		toSpawn=3,
+		chance=30,
 	},
 	SharkCleanUpCrew = {
 		name="SharkArmyCamoUrbanMale",
 		gender="male",			
 		toSpawn=10,
 		chance=30,
+	},
+	SharkSecretLabSoldier = {
+		name="SharkSecretLabSoldier",
+		gender="male",			
+		toSpawn=10,
+		chance=50,
+	},
+	SharkSecretLabMP = {
+		name="SharkSecretLabMP",
+		gender="male",			
+		toSpawn=5,
+		chance=50,
 	},
 	Doctor = {
 		name="Doctor",

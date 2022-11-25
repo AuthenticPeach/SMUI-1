@@ -39,8 +39,8 @@
 		<m_items> <!-- GI Socks -->
 			<itemGUID>b496da29-e941-43f7-85dd-854b79c7b453</itemGUID>
 		</m_items>	
-		<m_items> <!-- Desert Army Boots -->
-			<itemGUID>1ed51bf2-67e5-41d9-b50d-92f42483868a</itemGUID>
+		<m_items> <!-- Army Boots -->
+			<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID>
 		</m_items>
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
@@ -182,8 +182,8 @@
 		<m_items> <!-- GI Socks -->
 			<itemGUID>b496da29-e941-43f7-85dd-854b79c7b453</itemGUID>
 		</m_items>	
-		<m_items> <!-- Desert Army Boots -->
-			<itemGUID>1ed51bf2-67e5-41d9-b50d-92f42483868a</itemGUID>
+		<m_items> <!-- Army Boots -->
+			<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID>
 		</m_items>
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
@@ -1423,6 +1423,93 @@
 		<probability>0.5</probability>
 			<itemGUID>85e403e5-62c1-4249-b950-1ea7816498d3</itemGUID>
 		</m_items>
+	</m_MaleOutfits>
+	
+	<m_MaleOutfits><m_Name>SharkSecretLabSoldier</m_Name>
+		<m_Guid>ea570754-a41e-4b4d-ac14-e2e98a7a0beb</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>
+		<m_AllowTopTint>false</m_AllowTopTint>
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
+		<m_items> <!-- OG-107 Patrol Cap -->
+			<itemGUID>1b3b888f-99b0-48ac-b755-a994624a8fa6</itemGUID>
+		</m_items>
+		<m_items> <!-- GI Socks -->
+			<itemGUID>b496da29-e941-43f7-85dd-854b79c7b453</itemGUID>
+		</m_items>	
+		<m_items> <!-- Army Boots -->
+			<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID>
+		</m_items>
+		<m_items> <!-- OD PASGT Vest -->
+			<itemGUID>bd491c9f-6fe3-48ca-bf05-04c8070cfb99</itemGUID>
+		</m_items>
+		<m_items> <!-- Army T-Shirt -->
+			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
+		</m_items>
+		<m_items> <!-- OG-107 Pants (Tucked) -->
+			<itemGUID>caaf9d9c-be1b-46ef-9a39-0686bdf2f3ac</itemGUID>
+		</m_items>
+		<m_items> <!-- OG-107 Jacket -->
+			<itemGUID>d9baa406-1095-4706-a184-4104b646be23</itemGUID>
+		</m_items>
+			<m_items> <!-- Dog-Tags -->
+			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
+		</m_items>
+		<m_items> <!-- Holster -->
+		<probability>0.1</probability>
+			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
+		</m_items>	
+	</m_MaleOutfits>
+
+	<m_MaleOutfits><m_Name>SharkSecretLabMP</m_Name>
+		<m_Guid>22d96281-b72e-4662-ba18-4b34e595c079</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>
+		<m_AllowTopTint>false</m_AllowTopTint>
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
+		<m_items> <!-- OG-107 Patrol Cap -->
+			<itemGUID>1b3b888f-99b0-48ac-b755-a994624a8fa6</itemGUID>
+		</m_items>
+		<m_items> <!-- Military Police M1 Helmet -->
+		<probability>0.5</probability>
+			<itemGUID>59dda96b-1b31-4671-94c8-475be82aa139</itemGUID>
+		</m_items>
+		<m_items> <!-- OD PASGT Vest -->
+			<itemGUID>bd491c9f-6fe3-48ca-bf05-04c8070cfb99</itemGUID>
+		</m_items>
+		<m_items> <!-- Military Police Brassard -->
+			<itemGUID>480c1126-3a95-409d-9a48-27a0787aae4a</itemGUID>
+		</m_items>
+		<m_items> <!-- GI Socks -->
+			<itemGUID>b496da29-e941-43f7-85dd-854b79c7b453</itemGUID>
+		</m_items>	
+		<m_items> <!-- Army Boots -->
+			<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID>
+		</m_items>
+		<m_items> <!-- Army T-Shirt -->
+			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
+		</m_items>
+		<m_items> <!-- OG-107 Pants (Tucked) -->
+			<itemGUID>caaf9d9c-be1b-46ef-9a39-0686bdf2f3ac</itemGUID>
+		</m_items>
+		<m_items> <!-- OG-107 Jacket -->
+			<itemGUID>d9baa406-1095-4706-a184-4104b646be23</itemGUID>
+		</m_items>
+			<m_items> <!-- Dog-Tags -->
+			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
+		</m_items>
+		<m_items> <!-- Holster -->
+		<probability>0.1</probability>
+			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
+		</m_items>	
 	</m_MaleOutfits>
 	
 	<!--Expanded Helicopter Events Integration-->
