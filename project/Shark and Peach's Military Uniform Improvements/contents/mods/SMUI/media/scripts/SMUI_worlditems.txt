@@ -1,6 +1,13 @@
 module Base
 {
 
+		model MarkIIHelmet_WorldItem
+	{
+		mesh = WorldItems/MarkIIHelmet_WorldItem,
+	    texture = clothes/hat/Hat_MarkIIHelmet,
+		scale = 0.5,
+	}
+
 		model T56Helmet_WorldItem
 	{
 		mesh = WorldItems/T56Helmet_WorldItem,

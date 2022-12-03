@@ -1,6 +1,25 @@
 module SMUIClothing 
 {
 
+        item Hat_MarkIIHelmet
+	{
+	    DisplayCategory = Helmet,
+		Type = Clothing,
+		DisplayName = Mark II Talker Helmet,
+		ClothingItem = Hat_MarkIIHelmet,
+		BodyLocation = Hat,
+		Icon = MarkIIHelmet,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+		BiteDefense = 100,
+		ScratchDefense = 100,
+		BulletDefense = 10,
+		Insulation = 0.10,
+		WaterResistance = 80,
+        Tags = Military,
+		WorldStaticModel = MarkIIHelmet_WorldItem,
+	}
+    
         item Hat_T56
 	{
 	    DisplayCategory = Helmet,

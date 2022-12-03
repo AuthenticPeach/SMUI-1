@@ -4,6 +4,11 @@
 	<!-- Shark's Military Uniform Improvements -->
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_MarkIIHelmet.xml</path>
+	<guid>0a57be67-cbba-4b5f-a9c1-aaa0b4dbab28</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_T56.xml</path>
 	<guid>41111507-d278-4107-9a16-10d1481a36c9</guid>
 	</files>

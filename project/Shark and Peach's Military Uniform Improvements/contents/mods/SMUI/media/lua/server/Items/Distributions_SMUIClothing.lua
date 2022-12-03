@@ -196,6 +196,9 @@ table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Hat_MilitaryHelmetRiot");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 1);
 
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_MarkIIHelmet");
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 10);
+
 table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_T56");
 table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 10);
 
