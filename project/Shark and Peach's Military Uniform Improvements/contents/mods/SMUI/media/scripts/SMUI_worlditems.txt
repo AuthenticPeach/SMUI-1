@@ -1,6 +1,13 @@
 module Base
 {
 
+		model T56Helmet_WorldItem
+	{
+		mesh = WorldItems/T56Helmet_WorldItem,
+	    texture = clothes/hat/Hat_T56Helmet,
+		scale = 0.5,
+	}
+
 		model M9GasMask_WorldItem
 	{
 		mesh = WorldItems/M9_WorldItem,

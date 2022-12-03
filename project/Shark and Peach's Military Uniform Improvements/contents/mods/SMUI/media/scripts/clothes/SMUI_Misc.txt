@@ -1,5 +1,24 @@
 module SMUIClothing 
 {
+
+        item Hat_T56
+	{
+	    DisplayCategory = Helmet,
+		Type = Clothing,
+		DisplayName = T-56 Helmet,
+		ClothingItem = Hat_T56,
+		BodyLocation = Hat,
+		Icon = T56Helmet,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+		BiteDefense = 100,
+		ScratchDefense = 100,
+		BulletDefense = 100,
+		Insulation = 0.45,
+		WaterResistance = 0.4,
+        Tags = Military,
+		WorldStaticModel = T56Helmet_WorldItem,
+	}
     
         item Hat_DH132
 	{
