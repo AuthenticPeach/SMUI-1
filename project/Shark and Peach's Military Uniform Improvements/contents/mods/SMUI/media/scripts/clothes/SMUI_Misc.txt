@@ -1,6 +1,44 @@
 module SMUIClothing 
 {
 
+    	item Bag_M3Holster
+    {
+        DisplayCategory = Accessory,
+        Type	=	Clothing,
+        Weight	=	0.3,
+        DisplayName	= M3 Pistol Holster,
+        Icon	=	GunHolster,
+        BodyLocation = BeltExtra,
+        ClothingItem = Holster,
+        AttachmentsProvided = HolsterRight,
+        WorldStaticModel = Holster_Ground,
+        Tags = Military,	
+        Tooltip = Tooltip_NoRevolvers,
+        WorldStaticModel = MilitaryMedicalBag_WorldItem,
+    }
+
+    	item Bag_ANPRC77
+    {
+        DisplayCategory = Accessory,
+        Type	=	Container,
+        WeightReduction	=	30,
+        Weight	=	2,
+        Capacity	=	5,
+        DisplayName	= AN/PRC-77 Radio w/ Pack,
+        Icon = MilitaryMedicalBag,
+        CanBeEquipped = Back,
+        OpenSound   =   OpenBag,
+        CloseSound   =   CloseBag,
+        PutInSound   =   PutItemInBag,
+        ClothingItem = Bag_MilitaryMedicalBag,
+        BloodLocation = Bag,
+        RunSpeedModifier = 0.96,
+        AttachmentReplacement = Bag,
+        Tags = Military,	
+        Tooltip = Tooltip_BustedRadio,
+        WorldStaticModel = MilitaryMedicalBag_WorldItem,
+    }
+
         item Hat_MarkIIHelmet
 	{
 	    DisplayCategory = Helmet,
@@ -392,7 +430,7 @@ module SMUIClothing
         WeightReduction	=	30,
         Weight	=	0.5,
         Capacity	=	14,
-        DisplayName	= Military Medical Bag,
+        DisplayName	= M5 Medical Bag,
         Icon = MilitaryMedicalBag,
         CanBeEquipped = Back,
         OpenSound   =   OpenBag,
