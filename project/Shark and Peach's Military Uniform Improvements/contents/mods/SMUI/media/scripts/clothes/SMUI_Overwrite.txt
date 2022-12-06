@@ -205,7 +205,7 @@ module Base
         Type = Clothing,
         BodyLocation = Jacket,
         Icon = ShirtCamoSand,
-        ClothingItem = Shirt_CamoGreen,
+        ClothingItem = Jacket_ArmyCamoDesert,
         ClothingItemExtra =  SMUIClothing.Jacket_ArmyCamoDesertRolled,
         ClothingItemExtraOption = RollUp,
         ClothingExtraSubmenu = RollDown,
