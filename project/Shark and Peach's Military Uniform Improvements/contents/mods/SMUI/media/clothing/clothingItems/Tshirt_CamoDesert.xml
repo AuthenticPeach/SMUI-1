@@ -6,5 +6,6 @@
 	<m_Static>false</m_Static>
 	<m_AllowRandomTint>false</m_AllowRandomTint>
 	<m_AttachBone></m_AttachBone>
-	<TextureChoices>clothes\jacket\DCUtop</TextureChoices>
+	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
+	<TextureChoices>clothes\jacket\DBUtop</TextureChoices>
 </clothingItem>
