@@ -9,8 +9,6 @@ description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
 description= [url=https://github.com/sharkster91/SMUI][img]https://i.imgur.com/nPaP9sc.png[/img][/url]
 description=
-description= [h1][b]NEW: Green and Black AN/PVS-5[/b][/h1]
-description=
 description= [h2][b]This mod entirely redoes military zombies and adds in military equipment both from the 1990's and later which is inline with the universe of Project Zomboid.[/b][/h2]
 description=
 description= [h2][b]The time period for equipment in this mod is 1965 - 199X.[/b][/h2]
@@ -30,6 +28,8 @@ description=[h2]Helmets[/h2]
 description=[*] PASGT Helmets (Woodland, Desert Battle, and Desert Combat + can be strapped/unstrapped + Riot Version + Night Vision with AN/PVS-7)
 description=[*] M1 Steel Helmets (Coverless, Woodland, Desert, ERDL, and Mitchell + Autumn Mitchell and  can be strapped/unstrapped + can have goggles attached)
 description=[*] DH-132 Crewman Helmet
+description=[*] T-56 Crewman Helmet
+description=[*] Mark II Talker Helmet
 description=[*] Bump Helmet (Modified Protec Full-Cut Helmet w/ Comms Set + Night Vision version)
 description=[/list]
 description=
