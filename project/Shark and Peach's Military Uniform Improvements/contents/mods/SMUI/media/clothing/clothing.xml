@@ -65,10 +65,6 @@
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Watch (Right) -->
-		<probability>0.5</probability>
-			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
-		</m_items>
 		<m_items> <!-- Holster -->
 		<probability>0.1</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
@@ -140,10 +136,6 @@
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Watch (Right) -->
-		<probability>0.5</probability>
-			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
-		</m_items>
 		<m_items> <!-- Holster -->
 		<probability>0.1</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
@@ -208,10 +200,6 @@
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Watch (Right) -->
-		<probability>0.5</probability>
-			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
-		</m_items>
 		<m_items> <!-- Holster -->
 		<probability>0.1</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
@@ -275,10 +263,6 @@
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Watch (Right) -->
-		<probability>0.5</probability>
-			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
-		</m_items>
 		<m_items> <!-- Holster -->
 		<probability>0.1</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
@@ -338,10 +322,6 @@
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
-		</m_items>
-		<m_items> <!-- Military Watch (Right) -->
-		<probability>0.5</probability>
-			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
 		</m_items>
 		<m_items> <!-- Holster -->
 		<probability>0.1</probability>
@@ -410,10 +390,6 @@
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Watch (Right) -->
-		<probability>0.5</probability>
-			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
-		</m_items>
 		<m_items> <!-- Holster -->
 		<probability>0.1</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
@@ -477,10 +453,6 @@
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
-		</m_items>
-		<m_items> <!-- Military Watch (Right) -->
-		<probability>0.5</probability>
-			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
 		</m_items>
 		<m_items> <!-- Holster -->
 		<probability>0.1</probability>
@@ -616,10 +588,6 @@
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Watch (Right) -->
-		<probability>0.5</probability>
-			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
-		</m_items>
 		<m_items> <!-- Holster -->
 		<probability>0.1</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
@@ -681,10 +649,6 @@
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Watch (Right) -->
-		<probability>0.5</probability>
-			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
-		</m_items>
 		<m_items> <!-- Holster -->
 		<probability>0.1</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
@@ -726,10 +690,6 @@
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
-		</m_items>
-		<m_items> <!-- Military Watch (Right) -->
-		<probability>0.5</probability>
-			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
 		</m_items>
 		<m_items> <!-- Holster -->
 		<probability>0.1</probability>
@@ -797,10 +757,6 @@
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Watch (Right) -->
-		<probability>0.5</probability>
-			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
-		</m_items>
 		<m_items> <!-- Holster -->
 		<probability>0.1</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
@@ -866,10 +822,6 @@
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Watch (Right) -->
-		<probability>0.5</probability>
-			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
-		</m_items>
 		<m_items> <!-- Holster -->
 		<probability>0.1</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
@@ -914,10 +866,6 @@
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Watch (Right) -->
-		<probability>0.5</probability>
-			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
-		</m_items>
 		<m_items> <!-- Holster -->
 		<probability>0.1</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
@@ -955,10 +903,6 @@
 		</m_items>
 		<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
-		</m_items>
-		<m_items> <!-- Military Watch (Right) -->
-		<probability>0.5</probability>
-			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
 		</m_items>
 		<m_items> <!-- Holster -->
 			<probability>0.3</probability>
@@ -1148,10 +1092,6 @@
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Watch (Right) -->
-		<probability>0.5</probability>
-			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
-		</m_items>
 		<m_items> <!-- Holster -->
 		<probability>0.1</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
@@ -1187,10 +1127,6 @@
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
-		</m_items>
-		<m_items> <!-- Military Watch (Right) -->
-		<probability>0.5</probability>
-			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
 		</m_items>
 		<m_items> <!-- Holster -->
 		<probability>0.1</probability>
@@ -1243,10 +1179,6 @@
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
-		</m_items>
-		<m_items> <!-- Military Watch (Right) -->
-		<probability>0.5</probability>
-			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
 		</m_items>
 		<m_items> <!-- Flight Gloves -->
 			<itemGUID>376cd290-8fdb-4b2a-ab52-7a85b2412bd7</itemGUID>
@@ -1557,10 +1489,6 @@
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Watch (Right) -->
-		<probability>0.5</probability>
-			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
-		</m_items>
 		<m_items> <!-- Holster -->
 		<probability>0.1</probability>
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
@@ -1612,10 +1540,6 @@
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
-		</m_items>
-		<m_items> <!-- Military Watch (Right) -->
-		<probability>0.5</probability>
-			<itemGUID>807fade7-aa54-432d-b038-4bf584c79723</itemGUID>
 		</m_items>
 		<m_items> <!-- Holster -->
 		<probability>0.1</probability>
