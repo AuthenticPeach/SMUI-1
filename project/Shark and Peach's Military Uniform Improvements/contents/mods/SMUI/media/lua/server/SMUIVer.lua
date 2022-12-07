@@ -1,1 +1,1 @@
-Events.OnGameBoot.Add(print("SMUI - Little Green Men and Icon Fixes"))
+Events.OnGameBoot.Add(print("SMUI - T-56 Helmet and Mark II Talker Helmet"))
