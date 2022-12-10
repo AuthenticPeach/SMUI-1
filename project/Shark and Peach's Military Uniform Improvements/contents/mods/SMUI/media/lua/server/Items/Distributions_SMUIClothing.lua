@@ -181,14 +181,9 @@ table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 6);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.M40Hood");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 1);
 
-table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.MOPPPackageTop");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.MOPPPackageGreen");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 2);
-table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.MOPPPackageTop");
-table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 6);
-
-table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.MOPPPackageBottom");
-table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 2);
-table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.MOPPPackageBottom");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.MOPPPackageGreen");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 6);
 
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_MilitaryHelmetRiot");
