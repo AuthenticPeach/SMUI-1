@@ -6,7 +6,7 @@ module SMUIClothing
     
     DisplayCategory = Clothing,
     Type = Clothing,
-    DisplayName = MOPP Suit Top,
+    DisplayName = Green MOPP Suit Top,
     ClothingItem = Suit_NBCSuit,
     BodyLocation = Jacket,
     Icon = MOPPTop,
@@ -33,7 +33,7 @@ module SMUIClothing
     
     DisplayCategory = Clothing,
     Type = Clothing,
-    DisplayName = MOPP Suit Top (Up),
+    DisplayName = Green MOPP Suit Top (Up),
     ClothingItem = Suit_NBCSuitHood,
     BodyLocation = Jacket,
     Icon = MOPPTop,
