@@ -56,24 +56,14 @@ module SMUIClothing
 		WorldStaticModel = M40Hood_WorldItem,
 	}
 
-		item MOPPPackageTop
+		item MOPPPackageGreen
 	{
 		DisplayCategory = Accessory,
 		Weight = 0.5,
 		Type = Normal,
-		DisplayName = MOPP Top Package,
+		DisplayName = OD MOPP Suit Package,
 		Icon = MOPPPackage,
 		WorldStaticModel = MOPPPackageTop_WorldItem,
-	}
-
-		item MOPPPackageBottom
-	{
-		DisplayCategory = Accessory,
-		Weight = 0.5,
-		Type = Normal,
-		DisplayName = MOPP Bottom Package,
-		Icon = MOPPPackage,
-		WorldStaticModel = MOPPPackageBottom_WorldItem,
 	}
 
 		item MOPPPackageWrapper

@@ -4,7 +4,6 @@ module SMUIClothing{
       Base
   }
 
-
 recipe Roll patrol cap
   	{
    	   Hat_PatrolCapOG107,
@@ -738,8 +737,8 @@ recipe Remove goggles
 
 recipe Unseal package
   	{
-   	   MOPPPackageTop,
-	   OnCreate: SMUI_Recipe.MOPPTOP,
+   	   MOPPPackageGreen,
+	   OnCreate: SMUI_Recipe.MOPPGREEN,
    	   Result:MOPPPackageWrapper,
 	   Time:60,
   	}
