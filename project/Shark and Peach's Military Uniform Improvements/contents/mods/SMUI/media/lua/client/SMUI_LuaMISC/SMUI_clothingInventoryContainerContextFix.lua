@@ -16,7 +16,11 @@ function clothingInventoryContainerContextFix.apply(player, context, items)
         end
     end
 
-    if clothing then ISInventoryPaneContextMenu.doWearClothingMenu(player, clothing, items, context) end
+    if clothing and
+            not context:getOptionFromName(getText("ContextMenu_Wear")) and
+            not context:getOptionFromName(getText("ContextMenu_Equip_on_your_Back")) then
+        ISInventoryPaneContextMenu.doWearClothingMenu(player, clothing, items, context)
+    end
 end
 
 Events.OnFillInventoryObjectContextMenu.Add(clothingInventoryContainerContextFix.apply)
