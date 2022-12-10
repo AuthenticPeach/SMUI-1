@@ -61,7 +61,7 @@ module SMUIClothing
 
     DisplayCategory = Clothing,
     Type = Clothing,
-    DisplayName = MOPP Suit Pants,
+    DisplayName = Green MOPP Suit Pants,
     ClothingItem = Trousers_NBCPants,
     BodyLocation = Pants,
     BloodLocation = Trousers,
