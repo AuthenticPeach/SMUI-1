@@ -1,4 +1,5 @@
 ItemName_EN = {
+
     ItemName_Base.Hat_BonnieHat_CamoGreen = "Woodland Boonie Hat",
     ItemName_Base.Hat_Army = "Woodland PASGT Helmet",
     ItemName_Base.Vest_BulletArmy = "Woodland PASGT Vest",
@@ -34,6 +35,5 @@ ItemName_EN = {
 
     ItemName_Base.Hat_NBCmask = "M17 w/ Doff Hood",
     ItemName_Base.Boilersuit_Flying = "CWU-27/P Suit",
-
 
 }
