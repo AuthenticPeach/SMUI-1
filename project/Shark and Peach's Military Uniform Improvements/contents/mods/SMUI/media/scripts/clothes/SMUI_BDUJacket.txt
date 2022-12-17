@@ -532,6 +532,7 @@ module SMUIClothing
         DisplayCategory = Clothing,
         Type = Clothing,
         BodyLocation = Jacket,
+        DisplayName = Frog Skin Pattern Jacket,
         Icon = ShirtCamoGreen,
         BloodLocation = Jacket,
         RunSpeedModifier = 0.94,
@@ -553,6 +554,7 @@ module SMUIClothing
         DisplayCategory = Clothing,
         Type = Clothing,
         ClothingItem = Jacket_FrogSkinRolled,
+        DisplayName = Frog Skin Pattern Jacket (Rolled),
         BodyLocation = Jacket,
         Icon = TShirtCamoGreen,
         BloodLocation = Jacket,
@@ -566,7 +568,6 @@ module SMUIClothing
         Weight = 1.0,
         FabricType = Cotton,
         WorldStaticModel = JacketCoat_Ground,
-
     }
 
   }
