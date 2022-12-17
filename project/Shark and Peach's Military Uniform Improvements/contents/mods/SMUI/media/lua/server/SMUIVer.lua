@@ -1,1 +1,1 @@
-Events.OnGameBoot.Add(print("SMUI - T-56 Helmet and Mark II Talker Helmet"))
+Events.OnGameBoot.Add(print("SMUI - Fixes - DEC 17"))
