@@ -347,7 +347,7 @@ module Base
     {
         DisplayCategory = Bag,
         Type = Container,
-        DisplayName = ALICE Pack,
+        DisplayName = Large Backpack,
         ClothingItem = Bag_SurvivorBag,
         CanBeEquipped = Back,
         WeightReduction	=	85,
