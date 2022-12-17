@@ -9,6 +9,7 @@
 	<m_AttachBone></m_AttachBone>
 	<m_Masks>13</m_Masks>
 	<m_Masks>14</m_Masks>
+	<m_MasksFolder>media/textures/Clothes/Jacket/Masks</m_MasksFolder>
 	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
 	<textureChoices>clothes\jacket\DuckHuntertop_rolled</textureChoices>
 </clothingItem>
