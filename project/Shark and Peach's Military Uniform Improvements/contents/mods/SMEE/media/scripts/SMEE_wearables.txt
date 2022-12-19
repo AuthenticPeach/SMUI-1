@@ -1,0 +1,26 @@
+module SMEE 
+{
+
+        item USGIWoobie 
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = USGI Woobie,
+        BodyLocation = Jacket,
+		Icon	=	Sheet,
+        BloodLocation = Jacket,
+        RunSpeedModifier = 0.94,
+        CombatSpeedModifier = 0.97,
+        ClothingItem = USGIWoobie,
+        Insulation = 0.9,
+        WindResistance = 0.5,
+        WaterResistance = 0.8,
+        ChanceToFall = 95,
+        Weight = 0.1,
+        Tags = Military,
+        Tooltip = Tooltip_Woobie,
+		WorldStaticModel = Sheet,
+        
+    }
+
+  }

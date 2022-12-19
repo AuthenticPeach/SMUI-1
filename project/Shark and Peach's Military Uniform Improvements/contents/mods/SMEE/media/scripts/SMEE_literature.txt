@@ -1,0 +1,29 @@
+module SMEE
+{
+
+        item ManualSurvivalManual
+    {
+        DisplayCategory = SkillBook,
+        Weight	=	0.1,
+        Type	=	Literature,
+        DisplayName	=	FM 21-76 - US Army Survival Manual,
+        Icon	=	MagazineElectronics02,
+        SkillTrained = Trapping,
+        LvlSkillTrained = 1,
+        StaticModel = Magazine,
+        WorldStaticModel = MagazineElec4Ground,
+    }
+
+        item ManualEscapeAndEvasion
+    {
+        DisplayCategory = SkillBook,
+        Weight	=	0.1,
+        Type	=	Literature,
+        DisplayName	=	FM - 21-77 Evasion And Escape,
+        Icon	=	MagazineElectronics02,
+        SkillTrained = Sneaking,
+        LvlSkillTrained = 1,
+        StaticModel = Magazine,
+        WorldStaticModel = MagazineElec4Ground,
+    }
+}
