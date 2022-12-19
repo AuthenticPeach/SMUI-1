@@ -1,0 +1,17 @@
+module Base
+{
+
+		model USGIOneLiterCanteen_WorldItem
+	{
+		mesh = WorldItems/MarkIIHelmet_WorldItem,
+	    texture = clothes/hat/Hat_MarkIIHelmet,
+		scale = 0.5,
+	}
+	
+		model USGITwoLiterCanteen_WorldItem
+	{
+		mesh = WorldItems/MarkIIHelmet_WorldItem,
+	    texture = clothes/hat/Hat_MarkIIHelmet,
+		scale = 0.5,
+	}
+}

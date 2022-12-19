@@ -1,0 +1,5 @@
+name=Shark's Military Equipment Expansion
+id=SMEE
+require=SMUI
+description= A vast assortment of military equipment to be used in conjunction with Military Uniform Improvements.
+poster=poster.png

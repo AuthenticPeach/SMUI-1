@@ -1,0 +1,25 @@
+module SMEE
+{
+
+		item USGIOneLiterCanteen
+	{
+		DisplayCategory = Accessory,
+		Weight = 0.1,
+		Type = Normal,
+		DisplayName = GI One-Liter Canteen,
+		Tooltip = Tooltip_OneLiter,
+		Icon = NightVisionGoggles,
+		WorldStaticModel = NVG_WorldItem,
+	}
+
+		item USGITwoLiterCanteen
+	{
+		DisplayCategory = Accessory,
+		Weight = 0.1,
+		Type = Normal,
+		DisplayName = GI Two-Liter Canteen,
+		Tooltip = Tooltip_TwoLiter,
+		Icon = NightVisionGoggles,
+		WorldStaticModel = NVG_WorldItem,
+	}
+}
