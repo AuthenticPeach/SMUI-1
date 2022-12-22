@@ -471,7 +471,7 @@ module SMUIClothing
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName =  Rolled Desert Combat Patrol Cap (Reversed),
+        DisplayName =  Rolled Desert CombatPatrol Cap (Reversed),
         ClothingItem = Hat_PatrolCapDesertCombatRolledReversed,
         BodyLocation = Hat,
         Icon = PatrolCapDesert,
@@ -490,7 +490,7 @@ module SMUIClothing
     {   
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName =  Urban Patrol Cap,
+        DisplayName =  Urban Pattern Patrol Cap,
         ClothingItem = Hat_PatrolCapUrban,
         BodyLocation = Hat,
         Icon = PatrolCapUrban,
@@ -528,7 +528,7 @@ module SMUIClothing
     {   
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName =  Rolled Urban Camo Patrol Cap,
+        DisplayName =  Rolled Urban Patrol Cap,
         ClothingItem = Hat_PatrolCapUrbanRolled,
         BodyLocation = Hat,
         Icon = PatrolCapUrban,
@@ -560,6 +560,241 @@ module SMUIClothing
         Weight = 0.1,
         Tags = Military,
         WorldStaticModel = PatrolCapUrban_WorldItem,
+    }
+
+        item Hat_PatrolCapUrbanRolledReversed
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  Rolled Urban Patrol Cap (Reversed),
+        ClothingItem = Hat_PatrolCapUrbanRolledReversed,
+        BodyLocation = Hat,
+        Icon = PatrolCapUrban,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_PatrolCapUrbanRolled,
+        ClothingItemExtraOption = ForwardCap,
+        ClothingExtraSubmenu = ReverseCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.1,
+        Tags = Military,
+        WorldStaticModel = PatrolCapUrban_WorldItem,
+    }
+    
+        item Hat_UrbanUtilityCap
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  Urban Utility Cover,
+        ClothingItem = Hat_UrbanUtilityCover,
+        BodyLocation = Hat,
+        Icon = OG106,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_UrbanUtilityCoverReversed,
+        ClothingItemExtraOption = ReverseCap,
+        ClothingExtraSubmenu = ForwardCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.1,
+        WorldStaticModel = OG106Cap_WorldItem,
+    }
+
+        item Hat_UrbanUtilityCapReserved
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  Urban Utility Cover (Reserved),
+        ClothingItem = Hat_UrbanUtilityCoverReversed,
+        BodyLocation = Hat,
+        Icon = OG106,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_UrbanUtilityCover,
+        ClothingItemExtraOption = ReverseCap,
+        ClothingExtraSubmenu = ForwardCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.1,
+        WorldStaticModel = OG106Cap_WorldItem,
+    }
+
+        item Hat_WoodlandUtilityCap
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  Woodland Utility Cover,
+        ClothingItem = Hat_WoodlandUtilityCover,
+        BodyLocation = Hat,
+        Icon = OG106,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_WoodlandUtilityCoverReversed,
+        ClothingItemExtraOption = ReverseCap,
+        ClothingExtraSubmenu = ForwardCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.1,
+        WorldStaticModel = OG106Cap_WorldItem,
+    }
+
+        item Hat_WoodlandUtilityCapReserved
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  Woodland Utility Cover (Reserved),
+        ClothingItem = Hat_WoodlandUtilityCoverReversed,
+        BodyLocation = Hat,
+        Icon = OG106,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_WoodlandUtilityCover,
+        ClothingItemExtraOption = ReverseCap,
+        ClothingExtraSubmenu = ForwardCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.1,
+        WorldStaticModel = OG106Cap_WorldItem,
+    }
+
+        item Hat_DesertCombatUtilityCap
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  Desert Combat Utility Cover,
+        ClothingItem = Hat_DesertCombatUtilityCover,
+        BodyLocation = Hat,
+        Icon = OG106,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_DesertCombatUtilityCoverReversed,
+        ClothingItemExtraOption = ReverseCap,
+        ClothingExtraSubmenu = ForwardCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.1,
+        WorldStaticModel = OG106Cap_WorldItem,
+    }
+
+        item Hat_DesertCombatUtilityCoverReversed
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  Desert Combat Utility Cover (Reversed),
+        ClothingItem = Hat_DesertCombatUtilityCoverReversed,
+        BodyLocation = Hat,
+        Icon = OG106,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_DesertCombatUtilityCover,
+        ClothingItemExtraOption = ForwardCap,
+        ClothingExtraSubmenu = ReverseCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.1,
+        WorldStaticModel = PatrolCapOG106_WorldItem,
+    }
+
+        item Hat_GreenERDLUtilityCap
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  Lowland ERDL Utility Cover,
+        ClothingItem = Hat_GreenERDLUtilityCover,
+        BodyLocation = Hat,
+        Icon = OG106,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_GreenERDLUtilityCoverReversed,
+        ClothingItemExtraOption = ReverseCap,
+        ClothingExtraSubmenu = ForwardCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.1,
+        WorldStaticModel = OG106Cap_WorldItem,
+    }
+
+        item Hat_GreenERDLUtilityCoverReversed
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  Lowland ERDL Utility Cover (Reversed),
+        ClothingItem = Hat_GreenERDLUtilityCoverReversed,
+        BodyLocation = Hat,
+        Icon = OG106,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_GreenERDLUtilityCover,
+        ClothingItemExtraOption = ForwardCap,
+        ClothingExtraSubmenu = ReverseCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.1,
+        WorldStaticModel = PatrolCapOG106_WorldItem,
+    }
+
+        item Hat_BrownERDLUtilityCap
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  Highland ERDL Utility Cover,
+        ClothingItem = Hat_BrownERDLUtilityCover,
+        BodyLocation = Hat,
+        Icon = OG106,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_GreenERDLUtilityCoverReversed,
+        ClothingItemExtraOption = ReverseCap,
+        ClothingExtraSubmenu = ForwardCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.1,
+        WorldStaticModel = OG106Cap_WorldItem,
+    }
+
+        item Hat_BrownERDLUtilityCoverReversed
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  Highland ERDL Utility Cover (Reversed),
+        ClothingItem = Hat_BrownERDLUtilityCoverReversed,
+        BodyLocation = Hat,
+        Icon = OG106,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_BrownERDLUtilityCover,
+        ClothingItemExtraOption = ForwardCap,
+        ClothingExtraSubmenu = ReverseCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.1,
+        WorldStaticModel = PatrolCapOG106_WorldItem,
+    }
+
+        item Hat_OG107UtilityCap
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  OG-107 Utility Cover,
+        ClothingItem = Hat_OG107UtilityCover,
+        BodyLocation = Hat,
+        Icon = OG106,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_OG107UtilityCoverReversed,
+        ClothingItemExtraOption = ReverseCap,
+        ClothingExtraSubmenu = ForwardCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.1,
+        WorldStaticModel = OG106Cap_WorldItem,
+    }
+
+        item Hat_OG107UtilityCoverReversed
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName =  OG-107 Utility Cover (Reversed),
+        ClothingItem = Hat_OG107UtilityCoverReversed,
+        BodyLocation = Hat,
+        Icon = OG106,
+        CanHaveHoles = false,
+        ClothingItemExtra = SMUIClothing.Hat_OG107UtilityCover,
+        ClothingItemExtraOption = ForwardCap,
+        ClothingExtraSubmenu = ReverseCap,
+        ChanceToFall = 80,
+        Insulation = 0.10,
+        Weight = 0.1,
+        WorldStaticModel = PatrolCapOG106_WorldItem,
     }
 
         item Hat_PatrolCapWinter
@@ -595,6 +830,7 @@ module SMUIClothing
         Tags = Military,
         WorldStaticModel = PatrolCapDesert_WorldItem,
     }
+    
 
 }
 

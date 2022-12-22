@@ -1,36 +1,26 @@
 module SMEE
 {
 
-		item USGIOneLiterCanteen
+		item M1961Canteen
 	{
 		DisplayCategory = Accessory,
 		Weight = 0.1,
 		Type = Normal,
-		DisplayName = GI One-Liter Canteen,
+		DisplayName = M-1961 Canteen,
 		Tooltip = Tooltip_OneLiter,
 		Icon = NightVisionGoggles,
 		WorldStaticModel = NVG_WorldItem,
 	}
 
-		item USGITwoLiterCanteen
+		item P38CanOpener
 	{
 		DisplayCategory = Accessory,
 		Weight = 0.1,
 		Type = Normal,
-		DisplayName = GI Two-Liter Canteen,
-		Tooltip = Tooltip_TwoLiter,
+		DisplayName = P38 Can Opener,
+		Tags = CanOpener,
 		Icon = NightVisionGoggles,
 		WorldStaticModel = NVG_WorldItem,
 	}
 
-		item USGIFacePaint
-	{
-		DisplayCategory = Accessory,
-		Weight = 0.1,
-		Type = Normal,
-		DisplayName = GI Camouflage Face Paint,
-        MakeUpType = Foundation,
-		Icon = NightVisionGoggles,
-		WorldStaticModel = NVG_WorldItem,
-	}
 }
