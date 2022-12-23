@@ -1,17 +1,17 @@
 module Base
 {
 
-		model USGIOneLiterCanteen_WorldItem
+		model USGIM1961Canteen_WorldItem
 	{
 		mesh = WorldItems/MarkIIHelmet_WorldItem,
 	    texture = clothes/hat/Hat_MarkIIHelmet,
 		scale = 0.5,
 	}
 	
-		model USGITwoLiterCanteen_WorldItem
+		model USGIP38CanOpener_WorldItem
 	{
-		mesh = WorldItems/MarkIIHelmet_WorldItem,
-	    texture = clothes/hat/Hat_MarkIIHelmet,
+		mesh = WorldItems/P38CanOpener_WorldItem,
+	    texture = WorldItems/P38CanOpener,
 		scale = 0.5,
 	}
 }

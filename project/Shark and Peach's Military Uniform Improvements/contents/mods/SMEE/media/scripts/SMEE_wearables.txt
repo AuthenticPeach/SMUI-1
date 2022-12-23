@@ -5,13 +5,11 @@ module SMEE
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = USGI Woobie,
+        DisplayName = GI Woobie,
         BodyLocation = Jacket,
 		Icon	=	Sheet,
         BloodLocation = Jacket,
-        RunSpeedModifier = 0.94,
-        CombatSpeedModifier = 0.97,
-        ClothingItem = USGIWoobie,
+        ClothingItem = Woobie,
         Insulation = 0.9,
         WindResistance = 0.5,
         WaterResistance = 0.8,
@@ -23,4 +21,18 @@ module SMEE
         
     }
 
-  }
+        item USGIEarPro
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Ear Plugs,
+        BodyLocation = Jacket,
+		Icon	=	Sheet,
+        BloodLocation = ShirtNoSleeves,
+        ClothingItem = EarPro,
+        Weight = 0.1,
+		WorldStaticModel = Sheet,
+        
+    }
+
+}

@@ -5,11 +5,40 @@ module SMEE
 	{
 		DisplayCategory = Accessory,
 		Weight = 0.1,
-		Type = Normal,
+		Type = Drainable,
 		DisplayName = M-1961 Canteen,
-		Tooltip = Tooltip_OneLiter,
+		CanStoreWater = TRUE,
+		FillFromDispenserSound = GetWaterFromDispenserPlasticMedium,
+		FillFromTapSound = GetWaterFromTapPlasticMedium,
+		IsWaterSource = TRUE,
+		ReplaceOnDeplete = M1961CanteenEmpty,
+		ReplaceOnUseOn = WaterSource-M1961CanteenEmpty,
+		UseDelta = 0.1,
+		UseWhileEquipped = FALSE,
+		CustomContextMenu = Drink,
+		CustomEatSound = DrinkingFromBottlePlastic,
+		StaticModel = PopBottle,
+		WorldStaticModel = EmptyPopBottle,
 		Icon = NightVisionGoggles,
+		AttachmentsProvided = Webbing_Canteen_Left; Webbing_Canteen_Right,
 		WorldStaticModel = NVG_WorldItem,
+	}
+
+	    item M1961CanteenEmpty
+	{
+	    DisplayCategory = WaterContainer,
+		Weight	=	0.1,
+		CanStoreWater	=	TRUE,
+		Type	=	Normal,
+		DisplayName	=	Empty M-1961 Canteen,
+		ReplaceOnUseOn	=	WaterSource-M1961CanteenFull,
+		Icon	=	WaterBottle_Empty,
+		StaticModel = WaterBottle,
+		WorldStaticModel = WaterBottleEmpty,
+		Tags = EmptyPetrol,
+		ReplaceTypes = WaterSource M1961Canteen,
+		AttachmentsProvided = Webbing_Canteen_Left; Webbing_Canteen_Right,
+		ToolTip = Tooltip_item_OnlyPurifyMicrowave,
 	}
 
 		item P38CanOpener
@@ -19,8 +48,8 @@ module SMEE
 		Type = Normal,
 		DisplayName = P38 Can Opener,
 		Tags = CanOpener,
-		Icon = NightVisionGoggles,
-		WorldStaticModel = NVG_WorldItem,
+		Icon = P38CanOpener,
+		WorldStaticModel = USGIP38CanOpener_WorldItem,
 	}
 
 }
