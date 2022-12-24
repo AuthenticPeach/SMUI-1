@@ -1,6 +1,48 @@
 module Base
 {
 
+		model WoodlandUtilityCover_WorldItem
+	{
+		mesh = WorldItems/UtilityCover_WorldItem,
+	    texture = clothes/hat/Hat_WoodlandUtilityCover,
+		scale = 0.5,
+	}
+	
+		model DesertCombatUtilityCover_WorldItem
+	{
+		mesh = WorldItems/UtilityCover_WorldItem,
+	    texture = clothes/hat/Hat_WoodlandUtilityCover,
+		scale = 0.5,
+	}
+
+		model UrbanUtilityCover_WorldItem
+	{
+		mesh = WorldItems/UtilityCover_WorldItem,
+	    texture = clothes/hat/Hat_UrbanUtilityCover,
+		scale = 0.5,
+	}
+
+		model OG107UtilityCover_WorldItem
+	{
+		mesh = WorldItems/UtilityCover_WorldItem,
+	    texture = clothes/hat/Hat_OG107UtilityCover,
+		scale = 0.5,
+	}
+
+		model BrownERDLUtilityCover_WorldItem
+	{
+		mesh = WorldItems/UtilityCover_WorldItem,
+	    texture = clothes/hat/Hat_BrownERDLUtilityCover,
+		scale = 0.5,
+	}
+
+		model GreenERDLUtilityCover_WorldItem
+	{
+		mesh = WorldItems/UtilityCover_WorldItem,
+	    texture = clothes/hat/Hat_GreenERDLUtilityCover,
+		scale = 0.5,
+	}
+
 		model MarkIIHelmet_WorldItem
 	{
 		mesh = WorldItems/MarkIIHelmet_WorldItem,
