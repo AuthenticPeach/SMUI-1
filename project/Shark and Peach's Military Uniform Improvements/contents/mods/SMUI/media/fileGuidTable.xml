@@ -31,12 +31,12 @@
 
 	<files>
 	<path>media/clothing/clothingItems/Hat_DesertCombatUtilityCover.xml</path>
-	<guid>a8ccb53c-115d-48a5-98fe-455a37349ca2</guid>
+	<guid>90ef9d86-5251-4318-b05e-c85d916edcc2</guid>
 	</files>
 
 	<files>
 	<path>media/clothing/clothingItems/Hat_DesertCombatUtilityCoverReserved.xml</path>
-	<guid>5edc4393-bc8d-44e4-b099-5122506a3a80</guid>
+	<guid>4cda51e5-7e57-47fb-8e0e-c731a5adb946</guid>
 	</files>
 
 	<files>
@@ -57,6 +57,16 @@
 	<files>
 	<path>media/clothing/clothingItems/Hat_ERDLBrownUtilityCoverReserved.xml</path>
 	<guid>3fb72479-2e92-44d3-80a1-cedf259b444c</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_UrbanUtilityCover.xml</path>
+	<guid>cf34e730-daca-4cb4-adfc-f7866ea53a90</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_UrbanUtilityCoverReserved.xml</path>
+	<guid>7a21c642-297c-4cec-b07d-78c67acb354f</guid>
 	</files>
 
 	<files>

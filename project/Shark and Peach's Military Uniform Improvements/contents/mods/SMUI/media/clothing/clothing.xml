@@ -1349,20 +1349,21 @@
 			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
 		</m_items>
 		<m_items> <!-- OG-107 Patrol Cap -->
+		<probability>0.7</probability>
 			<itemGUID>1b3b888f-99b0-48ac-b755-a994624a8fa6</itemGUID>
+		</m_items>
+		<m_items> <!-- OG-106 Cap -->
+			<itemGUID>d5bbff14-3bc1-46b0-b4b2-cb02c91e1819</itemGUID>
+		</m_items>
+		<m_items> <!-- GI Glasses-->
+		<probability>0.2</probability>
+			<itemGUID>85217973-ff88-4680-8a5d-1c6c97692767</itemGUID>
 		</m_items>
 		<m_items> <!-- GI Socks -->
 			<itemGUID>b496da29-e941-43f7-85dd-854b79c7b453</itemGUID>
 		</m_items>	
 		<m_items> <!-- Army Boots -->
 			<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID>
-		</m_items>
-		<m_items> <!-- M17 Gas Mask -->
-		<probability>0.2</probability>
-			<itemGUID>8b3f943c-e903-431b-bf8d-8f2eb86c9ef3</itemGUID>
-		</m_items>
-		<m_items> <!-- M65 Vest -->
-			<itemGUID>d0df6609-330d-469d-81ce-beaff255d0a1</itemGUID>
 		</m_items>
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
@@ -1413,6 +1414,10 @@
 		<probability>0.2</probability>
 			<itemGUID>8b3f943c-e903-431b-bf8d-8f2eb86c9ef3</itemGUID>
 		</m_items>
+		<m_items> <!-- GI Glasses-->
+		<probability>0.2</probability>
+			<itemGUID>85217973-ff88-4680-8a5d-1c6c97692767</itemGUID>
+		</m_items>
 		<m_items> <!-- GI Socks -->
 			<itemGUID>b496da29-e941-43f7-85dd-854b79c7b453</itemGUID>
 		</m_items>	
@@ -1462,6 +1467,10 @@
 		<m_items> <!-- M17 Gas Mask -->
 		<probability>0.2</probability>
 			<itemGUID>8b3f943c-e903-431b-bf8d-8f2eb86c9ef3</itemGUID>
+		</m_items>
+		<m_items> <!-- GI Glasses-->
+		<probability>0.2</probability>
+			<itemGUID>85217973-ff88-4680-8a5d-1c6c97692767</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Pack -->
 			<probability>0.2</probability>
@@ -1609,6 +1618,10 @@
 		</m_items>
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
+		</m_items>
+		<m_items> <!-- GI Glasses-->
+		<probability>0.2</probability>
+			<itemGUID>85217973-ff88-4680-8a5d-1c6c97692767</itemGUID>
 		</m_items>
 		<m_items> <!-- OG-107 Pants (Tucked) -->
 			<itemGUID>caaf9d9c-be1b-46ef-9a39-0686bdf2f3ac</itemGUID>

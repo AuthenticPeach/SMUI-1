@@ -11,7 +11,7 @@ module Base
 		model DesertCombatUtilityCover_WorldItem
 	{
 		mesh = WorldItems/UtilityCover_WorldItem,
-	    texture = clothes/hat/Hat_WoodlandUtilityCover,
+	    texture = clothes/hat/Hat_DesertCombatUtilityCover,
 		scale = 0.5,
 	}
 
