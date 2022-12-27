@@ -181,6 +181,50 @@ cat.beard = "None:100";
 cat.haircutColor = "0.60,0.46,0.30:100","0.33,0.16,0.16:100","0.52,0.37,0.26:100","0.99,0.92,0.55:100";
 table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
 
+-- Vintage Edition -- 
+
+local cat = {};
+cat.outfit = "SharkERDLSoldier";
+cat.haircut = "CrewCut:100;";
+cat.beard = "None:100";
+cat.haircutColor = "0.60,0.46,0.30:100","0.33,0.16,0.16:100","0.52,0.37,0.26:100","0.99,0.92,0.55:100";
+table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
+
+local cat = {};
+cat.outfit = "SharkOG107Soldier";
+cat.haircut = "CrewCut:100;";
+cat.beard = "None:100";
+cat.haircutColor = "0.60,0.46,0.30:100","0.33,0.16,0.16:100","0.52,0.37,0.26:100","0.99,0.92,0.55:100";
+table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
+
+local cat = {};
+cat.outfit = "SharkOG107USNG";
+cat.haircut = "CrewCut:100;";
+cat.beard = "None:100";
+cat.haircutColor = "0.60,0.46,0.30:100","0.33,0.16,0.16:100","0.52,0.37,0.26:100","0.99,0.92,0.55:100";
+table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
+
+local cat = {};
+cat.outfit = "SharkOG107MP";
+cat.haircut = "CrewCut:100;";
+cat.beard = "None:100";
+cat.haircutColor = "0.60,0.46,0.30:100","0.33,0.16,0.16:100","0.52,0.37,0.26:100","0.99,0.92,0.55:100";
+table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
+
+local cat = {};
+cat.outfit = "SharkERDLMP";
+cat.haircut = "CrewCut:100;";
+cat.beard = "None:100";
+cat.haircutColor = "0.60,0.46,0.30:100","0.33,0.16,0.16:100","0.52,0.37,0.26:100","0.99,0.92,0.55:100";
+table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
+
+local cat = {};
+cat.outfit = "SharkOG107Tanker";
+cat.haircut = "CrewCut:100;";
+cat.beard = "None:100";
+cat.haircutColor = "0.60,0.46,0.30:100","0.33,0.16,0.16:100","0.52,0.37,0.26:100","0.99,0.92,0.55:100";
+table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
+
 -- Expanded Helicopter Events --
 
 local cat = {};
