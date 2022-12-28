@@ -161,6 +161,7 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1,
         FabricType = Cotton,
+        Tooltip = Tooltip_CoolKids,
         WorldStaticModel = JacketCoat_Ground,  
     }
 
@@ -187,7 +188,7 @@ module SMUIClothing
         WaterResistance = 0.4,
         Weight = 1,
         FabricType = Cotton,
-        Tooltip = Tooltip_Rolled,
+        Tooltip = Tooltip_CoolKids,
         WorldStaticModel = JacketCoat_Ground,
     }
 
@@ -210,6 +211,7 @@ module SMUIClothing
         WindResistance = 0.3,
         WaterResistance = 0.4,
         FabricType = Cotton,
+        Tooltip = Tooltip_CoolKids,
         WorldStaticModel = Trousers_Ground,
     }
 
@@ -232,10 +234,9 @@ module SMUIClothing
         WindResistance = 0.3,
         WaterResistance = 0.4,
         FabricType = Cotton,
-        Tooltip = Tooltip_Tucked,
+        Tooltip = Tooltip_CoolKids,
         WorldStaticModel = Trousers_Ground,
     }
-
 
     item Jacket_SharkCamo
     {
@@ -259,8 +260,8 @@ module SMUIClothing
         WaterResistance = 1,
         Weight = 1,
         FabricType = Cotton,
+        Tooltip = Tooltip_CoolKids,
         WorldStaticModel = JacketCoat_Ground,
-        
     }
 
     item Jacket_SharkCamoRolled
@@ -286,8 +287,24 @@ module SMUIClothing
         WaterResistance = 1,
         Weight = 1,
         FabricType = Cotton,
-        Tooltip = Tooltip_Rolled,
+        Tooltip = Tooltip_CoolKids,
         WorldStaticModel = JacketCoat_Ground,
+    }
+
+    item Shorts_Hawaiian
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Hawaiian Pattern Shorts,
+        ClothingItem = Shorts_Hawaiian,
+        BodyLocation = Pants,
+        IconsForTexture = ShortsAthleticBlue,
+        BloodLocation = ShortsShort,
+        Insulation = 0.15,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        Tooltip = Tooltip_CoolKids,
+        WorldStaticModel = ShortShorts_Ground,
     }
 
     item Trousers_SharkCamo
@@ -309,6 +326,7 @@ module SMUIClothing
         WindResistance = 0.3,
         WaterResistance = 1,
         FabricType = Cotton,
+        Tooltip = Tooltip_CoolKids,
         WorldStaticModel = Trousers_Ground,
     }
 
@@ -331,7 +349,7 @@ module SMUIClothing
         WindResistance = 0.3,
         WaterResistance = 1,
         FabricType = Cotton,
-        Tooltip = Tooltip_Tucked,
+        Tooltip = Tooltip_CoolKids,
         WorldStaticModel = Trousers_Ground,
     }
 }
