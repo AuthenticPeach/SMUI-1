@@ -902,10 +902,9 @@ module SMUIClothing
 
         item Shoes_MickeyMouse
 	{   
-
         DisplayCategory = Clothing,
     	Type = Clothing,
-	    DisplayName = Mickey Mouse Boots,
+	    DisplayName = GI Extreme Cold Weather Boots,
 	    ClothingItem = Shoes_MickeyMouse,
 	    BodyLocation = Shoes,
 	    BloodLocation = Shoes,
