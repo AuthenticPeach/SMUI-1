@@ -1349,10 +1349,10 @@
 			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
 		</m_items>
 		<m_items> <!-- OG-107 Patrol Cap -->
-		<probability>0.7</probability>
 			<itemGUID>1b3b888f-99b0-48ac-b755-a994624a8fa6</itemGUID>
 		</m_items>
 		<m_items> <!-- OG-106 Cap -->
+		<probability>0.7</probability>
 			<itemGUID>d5bbff14-3bc1-46b0-b4b2-cb02c91e1819</itemGUID>
 		</m_items>
 		<m_items> <!-- GI Glasses-->
@@ -1373,6 +1373,10 @@
 		</m_items>
 		<m_items> <!-- OG-107 Jacket -->
 			<itemGUID>d9baa406-1095-4706-a184-4104b646be23</itemGUID>
+		</m_items>
+		<m_items> <!-- M65 Jacket -->
+		<probability>0.3</probability>
+			<itemGUID>58f60ce0-5fa6-4a4b-91de-5cc1af6bd3e3</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Webbing (Tightened) -->
 			<itemGUID>20260ba2-716d-4e84-9a36-8000c3eb6c2a</itemGUID>
@@ -1401,18 +1405,14 @@
 			<itemGUID>8b3f943c-e903-431b-bf8d-8f2eb86c9ef3</itemGUID>
 		</m_items>
 		<m_items> <!-- Mitchell M1 Helmet -->
+		<probability>0.2</probability>
 			<itemGUID>4c08abca-b4aa-479e-b9c1-720c32b1d8e1</itemGUID>
 		</m_items>
 		<m_items> <!-- Brown ERDL M1 Helmet -->
-		<probability>0.3</probability>
-			<itemGUID>c9c25ecb-8e55-4d00-be8f-3a0e831a8663</itemGUID>
+			<itemGUID>9844f947-0820-4dd1-9cab-15e9fb0df8fd</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Webbing (Tightened) -->
 			<itemGUID>20260ba2-716d-4e84-9a36-8000c3eb6c2a</itemGUID>
-		</m_items>
-		<m_items> <!-- M17 Gas Mask -->
-		<probability>0.2</probability>
-			<itemGUID>8b3f943c-e903-431b-bf8d-8f2eb86c9ef3</itemGUID>
 		</m_items>
 		<m_items> <!-- GI Glasses-->
 		<probability>0.2</probability>
@@ -1424,9 +1424,6 @@
 		<m_items> <!-- Army Boots -->
 			<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID>
 		</m_items>
-		<m_items> <!-- M69 Vest -->
-			<itemGUID>d0df6609-330d-469d-81ce-beaff255d0a1</itemGUID>
-		</m_items>
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
 		</m_items>
@@ -1435,6 +1432,10 @@
 		</m_items>
 		<m_items> <!-- OG-107 Jacket -->
 			<itemGUID>d9baa406-1095-4706-a184-4104b646be23</itemGUID>
+		</m_items>
+		<m_items> <!-- OG-107 Jacket (Rolled)-->
+		<probability>0.3</probability>
+			<itemGUID>43ea7734-f74d-4df3-ad09-a532369e5d6d</itemGUID>
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
@@ -1456,17 +1457,13 @@
 			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
 		</m_items>
 		<m_items> <!-- ERDL Brown M1 Helmet -->
-			<itemGUID>c9c25ecb-8e55-4d00-be8f-3a0e831a8663</itemGUID>
+			<itemGUID>9844f947-0820-4dd1-9cab-15e9fb0df8fd</itemGUID>
 		</m_items>
 		<m_items> <!-- GI Socks -->
 			<itemGUID>b496da29-e941-43f7-85dd-854b79c7b453</itemGUID>
 		</m_items>	
 		<m_items> <!-- Army Boots -->
 			<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID>
-		</m_items>
-		<m_items> <!-- M17 Gas Mask -->
-		<probability>0.2</probability>
-			<itemGUID>8b3f943c-e903-431b-bf8d-8f2eb86c9ef3</itemGUID>
 		</m_items>
 		<m_items> <!-- GI Glasses-->
 		<probability>0.2</probability>
@@ -1476,8 +1473,8 @@
 			<probability>0.2</probability>
 			<itemGUID>8b3f943c-e903-431b-bf8d-8f2eb86c9ef3</itemGUID>
 		</m_items>
-		<m_items> <!-- ALICE Webbing (Tightened) -->
-			<itemGUID>20260ba2-716d-4e84-9a36-8000c3eb6c2a</itemGUID>
+		<m_items> <!-- ALICE Webbing -->
+			<itemGUID>01ee11ca-3de7-4495-85d6-078d33fcab12</itemGUID>
 		</m_items>
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
@@ -1487,6 +1484,10 @@
 		</m_items>
 		<m_items> <!-- ERDL Brown Jacket -->
 			<itemGUID>1a3effb9-0471-483b-bb79-ed211e86a53b</itemGUID>
+		</m_items>
+		<m_items> <!-- ERDL Brown Jacket (Rolled) -->
+		<probability>0.3</probability>
+			<itemGUID>18d75584-8d1a-4c6a-a294-dbc6051f9faf</itemGUID>
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
@@ -1510,15 +1511,8 @@
 		<m_items> <!-- Military Police M1 Helmet -->
 			<itemGUID>59dda96b-1b31-4671-94c8-475be82aa139</itemGUID>
 		</m_items>
-		<m_items> <!-- M17 Gas Mask -->
-		<probability>0.5</probability>
-			<itemGUID>8b3f943c-e903-431b-bf8d-8f2eb86c9ef3</itemGUID>
-		</m_items>
 		<m_items> <!-- ALICE Webbing (Tightened) -->
 			<itemGUID>20260ba2-716d-4e84-9a36-8000c3eb6c2a</itemGUID>
-		</m_items>
-		<m_items> <!-- M69 Vest -->
-			<itemGUID>d0df6609-330d-469d-81ce-beaff255d0a1</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Police Brassard -->
 			<itemGUID>480c1126-3a95-409d-9a48-27a0787aae4a</itemGUID>
@@ -1563,9 +1557,6 @@
 		<m_items> <!-- M17 Gas Mask -->
 		<probability>0.5</probability>
 			<itemGUID>8b3f943c-e903-431b-bf8d-8f2eb86c9ef3</itemGUID>
-		</m_items>
-		<m_items> <!-- M69 Vest -->
-			<itemGUID>d0df6609-330d-469d-81ce-beaff255d0a1</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Police Brassard -->
 			<itemGUID>480c1126-3a95-409d-9a48-27a0787aae4a</itemGUID>
@@ -1629,7 +1620,11 @@
 		<m_items> <!-- OG-107 Jacket -->
 			<itemGUID>d9baa406-1095-4706-a184-4104b646be23</itemGUID>
 		</m_items>
-			<m_items> <!-- Dog-Tags -->
+		<m_items> <!-- OG-107 Jacket (Rolled)-->
+		<probability>0.3</probability>
+			<itemGUID>43ea7734-f74d-4df3-ad09-a532369e5d6d</itemGUID>
+		</m_items>
+		<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
 		</m_items>
 		<m_items> <!-- Holster -->
