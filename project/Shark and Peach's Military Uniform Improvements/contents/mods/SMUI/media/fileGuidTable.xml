@@ -15,7 +15,7 @@
 	</files>
 
 	<files>
-	<path>media/clothing/clothingItems/Hat_WoodlandUtilityCoverReserved.xml</path>
+	<path>media/clothing/clothingItems/Hat_WoodlandUtilityCoverReversed.xml</path>
 	<guid>bc82b8b0-14fc-4bca-9837-81d1c5a93dee</guid>
 	</files>
 
@@ -25,38 +25,8 @@
 	</files>
 
 	<files>
-	<path>media/clothing/clothingItems/Hat_WoodlandUtilityCoverReserved.xml</path>
+	<path>media/clothing/clothingItems/Hat_WoodlandUtilityCoverReversed.xml</path>
 	<guid>bc82b8b0-14fc-4bca-9837-81d1c5a93dee</guid>
-	</files>
-
-	<files>
-	<path>media/clothing/clothingItems/Hat_DesertCombatUtilityCover.xml</path>
-	<guid>90ef9d86-5251-4318-b05e-c85d916edcc2</guid>
-	</files>
-
-	<files>
-	<path>media/clothing/clothingItems/Hat_DesertCombatUtilityCoverReserved.xml</path>
-	<guid>4cda51e5-7e57-47fb-8e0e-c731a5adb946</guid>
-	</files>
-
-	<files>
-	<path>media/clothing/clothingItems/Hat_ERDLGreenCombatUtilityCover.xml</path>
-	<guid>b64b903c-a6d5-41f7-a4ce-083de266755c</guid>
-	</files>
-
-	<files>
-	<path>media/clothing/clothingItems/Hat_ERDLGreenUtilityCoverReserved.xml</path>
-	<guid>676cbed9-f405-493a-8203-92aec53aec64</guid>
-	</files>
-
-	<files>
-	<path>media/clothing/clothingItems/Hat_ERDLBrownUtilityCover.xml</path>
-	<guid>3a4e61be-584e-4574-b304-59f48551d42a</guid>
-	</files>
-
-	<files>
-	<path>media/clothing/clothingItems/Hat_ERDLBrownUtilityCoverReserved.xml</path>
-	<guid>3fb72479-2e92-44d3-80a1-cedf259b444c</guid>
 	</files>
 
 	<files>
@@ -65,7 +35,7 @@
 	</files>
 
 	<files>
-	<path>media/clothing/clothingItems/Hat_UrbanUtilityCoverReserved.xml</path>
+	<path>media/clothing/clothingItems/Hat_UrbanUtilityCoverReversed.xml</path>
 	<guid>7a21c642-297c-4cec-b07d-78c67acb354f</guid>
 	</files>
 
@@ -1280,6 +1250,11 @@
 	<files>
 	<path>media/clothing/clothingItems/Trousers_HawaiianTucked.xml</path>
 	<guid>89a38fc3-5e69-46f9-ac88-3fc0562c88b7</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Shorts_Hawaiian.xml</path>
+	<guid>e87548d0-162b-4d37-b8df-181ee7bdde8a</guid>
 	</files>
 
 	<files>
