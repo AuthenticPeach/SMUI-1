@@ -29,20 +29,6 @@ module Base
 		scale = 0.5,
 	}
 
-		model BrownERDLUtilityCover_WorldItem
-	{
-		mesh = WorldItems/UtilityCover_WorldItem,
-	    texture = clothes/hat/Hat_BrownERDLUtilityCover,
-		scale = 0.5,
-	}
-
-		model GreenERDLUtilityCover_WorldItem
-	{
-		mesh = WorldItems/UtilityCover_WorldItem,
-	    texture = clothes/hat/Hat_GreenERDLUtilityCover,
-		scale = 0.5,
-	}
-
 		model MarkIIHelmet_WorldItem
 	{
 		mesh = WorldItems/MarkIIHelmet_WorldItem,
@@ -556,6 +542,13 @@ module Base
 	{
 		mesh = WorldItems/M1HelmetGoggles_WorldItem,
 		texture = WorldItems/M1HelmetERDLGoggles,
+		scale = 0.5,
+	}
+	
+		model M1HelmetBrownERDL_WorldItem
+	{
+		mesh = WorldItems/M1Helmet_WorldItem,
+		texture = Clothes/Hat/Hat_M1HelmetERDLBrown,
 		scale = 0.5,
 	}
 

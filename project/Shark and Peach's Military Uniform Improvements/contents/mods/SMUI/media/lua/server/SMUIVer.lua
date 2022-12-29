@@ -1,1 +1,1 @@
-Events.OnGameBoot.Add(print("SMUI - Fixes - DEC 17"))
+Events.OnGameBoot.Add(print("SMUI - Fixes"))
