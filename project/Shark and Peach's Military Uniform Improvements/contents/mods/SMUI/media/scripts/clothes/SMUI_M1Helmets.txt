@@ -609,7 +609,7 @@ module SMUIClothing
         Insulation = 0.10,
         WaterResistance = 0.2,
         Weight = 0.5,
-		WorldStaticModel = M1HelmetERDLBrown_WorldItem,
+		WorldStaticModel = M1HelmetBrownERDL_WorldItem,
     }
 
         item Hat_M1HelmetERDLBrownStrapless
@@ -632,7 +632,7 @@ module SMUIClothing
         Insulation = 0.10,
         WaterResistance = 0.2,
         Weight = 0.5,
-		WorldStaticModel = M1HelmetERDLBrown_WorldItem,
+		WorldStaticModel = M1HelmetBrownERDL_WorldItem,
     }
 
         item Hat_M1HelmetMilitaryPolice

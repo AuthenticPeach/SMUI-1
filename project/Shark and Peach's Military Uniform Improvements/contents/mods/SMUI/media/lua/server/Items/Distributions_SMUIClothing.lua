@@ -396,6 +396,11 @@ table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 5);
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Hat_M1HelmetERDL");
 table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
 
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_M1HelmetBrownERDL");
+table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 5);
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, "SMUIClothing.Hat_M1HelmetBrownERDL");
+table.insert(ProceduralDistributions.list.WardrobeRedneck.items, 1);
+
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Gloves_FlightGloves");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
 table.insert(ProceduralDistributions.list.ArmyHangarOutfit.items, "SMUIClothing.Gloves_FlightGloves");
