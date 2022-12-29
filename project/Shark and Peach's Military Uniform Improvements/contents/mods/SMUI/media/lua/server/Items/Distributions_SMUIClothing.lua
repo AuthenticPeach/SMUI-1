@@ -251,6 +251,13 @@ table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
 table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_PatrolCap");
 table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 3);
 
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_WoodlandUtilityCover");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_UrbanUtilityCover");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Hat_OG107UtilityCover");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
+
 table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_WoodlandUtilityCover");
 table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, 10);
 table.insert(ProceduralDistributions.list.ArmySurplusHeadwear.items, "SMUIClothing.Hat_UrbanUtilityCover");

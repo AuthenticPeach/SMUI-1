@@ -609,19 +609,19 @@ module SMUIClothing
         Icon = WoodlandUtilityCover,
         CanHaveHoles = false,
         ClothingItemExtra = SMUIClothing.Hat_WoodlandUtilityCover,
-        ClothingItemExtraOption = ReverseCap,
-        ClothingExtraSubmenu = ForwardCap,
+        ClothingItemExtraOption = ForwardCap,
+        ClothingExtraSubmenu = ReverseCap,
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
         WorldStaticModel = WoodlandUtilityCover_WorldItem,
     }
     
-        item Hat_DesertCombatUtilityCover
+        item Hat_DesertBattleUtilityCover
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        ClothingItem = Hat_DesertCombatUtilityCover,
+        ClothingItem = Hat_DesertBattleUtilityCover,
         BodyLocation = Hat,
         Icon = DesertCombatUtilityCover,
         CanHaveHoles = false,
@@ -634,11 +634,11 @@ module SMUIClothing
         WorldStaticModel = DesertCombatUtilityCover_WorldItem,
     }
 
-        item Hat_DesertCombatUtilityCoverReversed
+        item Hat_DesertBattleUtilityCoverReversed
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        ClothingItem = Hat_DesertCombatUtilityCoverReversed,
+        ClothingItem = Hat_DesertBattleUtilityCoverReversed,
         BodyLocation = Hat,
         Icon = DesertCombatUtilityCover,
         CanHaveHoles = false,
@@ -679,8 +679,8 @@ module SMUIClothing
         Icon = UrbanUtilityCover,
         CanHaveHoles = false,
         ClothingItemExtra = SMUIClothing.Hat_UrbanUtilityCover,
-        ClothingItemExtraOption = ReverseCap,
-        ClothingExtraSubmenu = ForwardCap,
+        ClothingItemExtraOption = ForwardCap,
+        ClothingExtraSubmenu = ReverseCap,
         ChanceToFall = 80,
         Insulation = 0.10,
         Weight = 0.1,
