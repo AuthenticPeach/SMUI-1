@@ -254,7 +254,23 @@ module SMUIClothing
 		Tags 			= Military;GasMask,			
     }
 
-        item Hat_Shemagh
+    	item Glasses_MilitaryGoggles
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = SWDG Goggles,
+		ClothingItem = Glasses_MilitaryGoggles,
+		BodyLocation = Eyes,
+        BloodLocation = Head,
+        ScratchDefense = 10,
+		Icon= MilitaryGoggles,
+		Weight = 0.1,
+		Cosmetic = TRUE,
+        Tags = Military,
+        WorldStaticModel = MilitaryGoggles_WorldItem,
+	}        
+    
+    item Hat_Shemagh
     {
         DisplayCategory = Accessory,
         Type = Clothing,
@@ -266,8 +282,8 @@ module SMUIClothing
         CanHaveHoles = false,
         ScratchDefense = 10,
         ClothingItemExtra = SMUIClothing.Hat_ShemaghDown,
-        ClothingItemExtraOption = PullDown,
-        ClothingExtraSubmenu = PullUp,
+        ClothingItemExtraOption = PullUp,
+        ClothingExtraSubmenu = PullDown,
         Weight = 0.1,
         Insulation = 0.75,
         WindResistance = 0.70,
@@ -284,8 +300,8 @@ module SMUIClothing
         BloodLocation = Head,
         Icon = Shemagh,
         ClothingItemExtra = SMUIClothing.Hat_Shemagh,
-        ClothingItemExtraOption = PullUp,
-        ClothingExtraSubmenu = PullDown,
+        ClothingItemExtraOption = PullDown,
+        ClothingExtraSubmenu = PullUp,
         CanHaveHoles = false,
         ScratchDefense = 10,
         Weight = 0.1,
@@ -294,21 +310,6 @@ module SMUIClothing
         WorldStaticModel = Shemagh_WorldItem,	
     }
 
-    	item Glasses_MilitaryGoggles
-	{
-	    DisplayCategory = Accessory,
-		Type = Clothing,
-		DisplayName = SWDG Goggles,
-		ClothingItem = Glasses_MilitaryGoggles,
-		BodyLocation = Eyes,
-        BloodLocation = Head,
-        ScratchDefense = 10,
-		Icon= MilitaryGoggles,
-		Weight = 0.1,
-		Cosmetic = TRUE,
-        Tags = Military,
-        WorldStaticModel = MilitaryGoggles_WorldItem,
-	}
 
         item Hat_ShemaghWoodland
     {
@@ -320,8 +321,8 @@ module SMUIClothing
         BloodLocation = Head,
         Icon = ShemaghWoodland,
         ClothingItemExtra = SMUIClothing.Hat_ShemaghWoodlandDown,
-        ClothingItemExtraOption = PullDown,
-        ClothingExtraSubmenu = PullUp,
+        ClothingItemExtraOption = PullUp,
+        ClothingExtraSubmenu = PullDown,
         CanHaveHoles = false,
         ScratchDefense = 10,
         Weight = 0.1,
@@ -340,8 +341,8 @@ module SMUIClothing
         BloodLocation = Head,
         Icon = ShemaghWoodland,
         ClothingItemExtra = SMUIClothing.Hat_ShemaghWoodland,
-        ClothingItemExtraOption = PullUp,
-        ClothingExtraSubmenu = PullDown,
+        ClothingItemExtraOption = PullDown,
+        ClothingExtraSubmenu = PullUp,
         CanHaveHoles = false,
         ScratchDefense = 10,
         Weight = 0.1,
@@ -360,8 +361,8 @@ module SMUIClothing
         BloodLocation = Head,
         Icon = ShemaghDesert,
         ClothingItemExtra = SMUIClothing.Hat_ShemaghDesertDown,
-        ClothingItemExtraOption = PullDown,
-        ClothingExtraSubmenu = PullUp,
+        ClothingItemExtraOption = PullUp,
+        ClothingExtraSubmenu = PullDown,
         CanHaveHoles = false,
         ScratchDefense = 10,
         Weight = 0.1,
@@ -380,8 +381,8 @@ module SMUIClothing
         BloodLocation = Head,
         Icon = ShemaghDesert,
         ClothingItemExtra = SMUIClothing.Hat_ShemaghDesert,
-        ClothingItemExtraOption = PullUp,
-        ClothingExtraSubmenu = PullDown,
+        ClothingItemExtraOption = PullDown,
+        ClothingExtraSubmenu = PullUp,
         CanHaveHoles = false,
         ScratchDefense = 10,
         Weight = 0.1,
