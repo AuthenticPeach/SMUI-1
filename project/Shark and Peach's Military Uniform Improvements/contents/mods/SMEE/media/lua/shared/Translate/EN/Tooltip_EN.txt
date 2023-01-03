@@ -1,6 +1,0 @@
-Tooltip_EN = {
-
-    Tooltip_USGIWoobie = Wearable; but may fall off in case of action.
-    Tooltip_USGIOneLiter = Holds one liters; can be worn on webbing or pistol belt.
-    Tooltip_USGITwoLiter = Holds two liters; can be worn on webbing or pistol belt.
-}
