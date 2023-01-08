@@ -81,16 +81,12 @@
 		<probability>0.2</probability>
 			<itemGUID>85217973-ff88-4680-8a5d-1c6c97692767</itemGUID>
 		</m_items>
-			<m_items> <!-- Desert PASGT Helmet  w/ Goggles -->
-		<probability>0.5</probability>
-			<itemGUID>61f0f856-5052-4243-9e2d-08c944a7d7d8</itemGUID>
+		<m_items> <!-- Desert Battle PASGT Helmet -->
+			<probability>0.3</probability>
+			<itemGUID>b049fdda-ea87-444c-9a5b-c719b3776e81</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Webbing -->
 			<itemGUID>01ee11ca-3de7-4495-85d6-078d33fcab12</itemGUID>
-		</m_items>
-		<m_items> <!-- Desert Patrol Cap -->
-		<probability>0.5</probability>
-			<itemGUID>cfb33432-ec8e-4752-b6a3-54b86ccc230a</itemGUID>
 		</m_items>
 		<m_items> <!-- GI Socks -->
 			<itemGUID>b496da29-e941-43f7-85dd-854b79c7b453</itemGUID>
@@ -144,10 +140,6 @@
 			<m_items> <!-- GI Glasses-->
 		<probability>0.2</probability>
 			<itemGUID>85217973-ff88-4680-8a5d-1c6c97692767</itemGUID>
-		</m_items>
-			<m_items> <!-- Desert PASGT Helmet  w/ Goggles -->
-		<probability>0.5</probability>
-			<itemGUID>925f00d1-ac42-445f-8ebd-cd7cb73a4201</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Webbing -->
 			<itemGUID>01ee11ca-3de7-4495-85d6-078d33fcab12</itemGUID>
@@ -916,10 +908,10 @@
 		<m_items> <!-- Hair Stubble-->
 			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Tactical Helmet -->
+		<m_items> <!-- Bump Helmet -->
 			<itemGUID>0f8e3cda-6558-4c51-9e43-c4a92882764e</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Tactical Helmet w/ NVG -->
+		<m_items> <!-- Bump Helmet w/ NVG -->
 		<probability>0.5</probability>
 			<itemGUID>0cde2765-941d-46f9-b450-7de32fcc26a4</itemGUID>
 		</m_items>
@@ -966,10 +958,10 @@
 		<m_items> <!-- Hair Stubble-->
 			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Tactical Helmet -->
+		<m_items> <!-- Bump Helmet -->
 			<itemGUID>0f8e3cda-6558-4c51-9e43-c4a92882764e</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Tactical Helmet w/ NVG -->
+		<m_items> <!-- Bump Helmet w/ NVG -->
 		<probability>0.5</probability>
 			<itemGUID>0cde2765-941d-46f9-b450-7de32fcc26a4</itemGUID>
 		</m_items>
