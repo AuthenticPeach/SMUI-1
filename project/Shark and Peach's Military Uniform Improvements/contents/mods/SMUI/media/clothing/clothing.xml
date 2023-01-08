@@ -216,7 +216,7 @@
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Bulletproof Vest -->
+		<m_items> <!-- PASGT Vest -->
 			<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID>
 		</m_items>
 		<m_items> <!-- Ranger Body Armor -->
@@ -276,7 +276,7 @@
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Bulletproof Vest -->
+		<m_items> <!-- PASGT Vest -->
 			<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Medical Bag -->
@@ -335,7 +335,7 @@
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Bulletproof Vest -->
+		<m_items> <!-- PASGT Vest -->
 			<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID>
 		</m_items>
 		<m_items> <!-- Ranger Body Armor -->
@@ -399,7 +399,7 @@
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Bulletproof Vest -->
+		<m_items> <!-- PASGT Vest -->
 			<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Pack (Woodland) -->
@@ -469,7 +469,7 @@
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Bulletproof Vest -->
+		<m_items> <!-- PASGT Vest -->
 			<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Pack (Woodland) -->
@@ -529,7 +529,7 @@
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Bulletproof Vest -->
+		<m_items> <!-- PASGT Vest -->
 			<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Pack (Woodland) -->
@@ -586,7 +586,7 @@
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Bulletproof Vest -->
+		<m_items> <!-- PASGT Vest -->
 			<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Pack (Woodland) -->
@@ -649,6 +649,98 @@
 			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
 		</m_items>	
 	</m_MaleOutfits>
+
+	<m_MaleOutfits><m_Name>SharkArmyMedicalMale</m_Name>
+		<m_Guid>c51457cc-d512-43fc-b39e-d59f9fe2698c</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
+		<m_items> <!-- Woodland Patrol Cap-->
+			<itemGUID>601bf44b-fe47-44b1-a327-3fd441250ca7</itemGUID>
+		</m_items>
+		<m_items> <!-- Medical Gloves -->
+			<itemGUID>2dd80ba3-4b0e-469a-98c4-7221891bd71a</itemGUID>
+		</m_items>
+		<m_items> <!-- Safety Goggles -->
+			<itemGUID>c05cf7a7-f704-43ce-a6bf-5eee59d96a5c</itemGUID>
+		</m_items>
+		<m_items> <!-- Medical Mask (Green) -->
+			<itemGUID>c617853e-dd00-443e-952a-7b910150c410</itemGUID>
+		</m_items>
+		<m_items> <!-- Medical Gloves -->
+			<itemGUID>2dd80ba3-4b0e-469a-98c4-7221891bd71a</itemGUID>
+		</m_items>
+		<m_items> <!-- GI Socks -->
+			<itemGUID>b496da29-e941-43f7-85dd-854b79c7b453</itemGUID>
+		</m_items>	
+		<m_items> <!-- Army Boots -->
+			<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID>
+		</m_items>
+		<m_items> <!-- Army T-Shirt -->
+			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
+		</m_items>
+		<m_items> <!-- Woodland Camo Pants (Tucked) -->
+			<itemGUID>eb8d1f35-8d0b-4c9c-a308-aba2aa085r34</itemGUID>
+		</m_items>
+		<m_items> <!-- Woodland Camo Jacket -->
+			<itemGUID>b0d642f6-eb11-456c-aeb0-1b190b29a364</itemGUID>
+		</m_items>
+		<m_items> <!-- Woodland Camo Jacket (Rolled) -->
+		<probability>0.2</probability>
+			<itemGUID>a51eee81-0e8a-45b1-9169-145d87041d99</itemGUID>
+		</m_items>
+			<m_items> <!-- Dog-Tags -->
+			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
+		</m_items>
+	</m_MaleOutfits>
+	
+	<m_FemaleOutfits><m_Name>SharkArmyMedicalFemale</m_Name>
+		<m_Guid>2d5e3fa3-54b7-4703-962e-0f55c4fe6f50</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
+		<m_items> <!-- Woodland Patrol Cap-->
+			<itemGUID>601bf44b-fe47-44b1-a327-3fd441250ca7</itemGUID>
+		</m_items>
+		<m_items> <!-- Medical Gloves -->
+			<itemGUID>2dd80ba3-4b0e-469a-98c4-7221891bd71a</itemGUID>
+		</m_items>
+		<m_items> <!-- Safety Goggles -->
+			<itemGUID>c05cf7a7-f704-43ce-a6bf-5eee59d96a5c</itemGUID>
+		</m_items>
+		<m_items> <!-- Medical Mask (Green) -->
+			<itemGUID>c617853e-dd00-443e-952a-7b910150c410</itemGUID>
+		</m_items>
+		<m_items> <!-- Medical Gloves -->
+			<itemGUID>2dd80ba3-4b0e-469a-98c4-7221891bd71a</itemGUID>
+		</m_items>
+		<m_items> <!-- GI Socks -->
+			<itemGUID>b496da29-e941-43f7-85dd-854b79c7b453</itemGUID>
+		</m_items>	
+		<m_items> <!-- Army Boots -->
+			<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID>
+		</m_items>
+		<m_items> <!-- Army T-Shirt -->
+			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
+		</m_items>
+		<m_items> <!-- Woodland Camo Pants (Tucked) -->
+			<itemGUID>eb8d1f35-8d0b-4c9c-a308-aba2aa085r34</itemGUID>
+		</m_items>
+		<m_items> <!-- Woodland Camo Jacket -->
+			<itemGUID>b0d642f6-eb11-456c-aeb0-1b190b29a364</itemGUID>
+		</m_items>
+		<m_items> <!-- Woodland Camo Jacket (Rolled) -->
+		<probability>0.2</probability>
+			<itemGUID>a51eee81-0e8a-45b1-9169-145d87041d99</itemGUID>
+		</m_items>
+			<m_items> <!-- Dog-Tags -->
+			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
+		</m_items>
+	</m_FemaleOutfits>
 
 	<m_MaleOutfits><m_Name>SharkArmyCamoGreenReservist</m_Name>
 		<m_Guid>09eafd79-c81e-4b76-9691-f7603652d5c6</m_Guid>
@@ -744,7 +836,7 @@
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Bulletproof Vest -->
+		<m_items> <!-- PASGT Vest -->
 			<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Pack (Plain) -->
@@ -1700,8 +1792,8 @@
 		<m_items> <!-- Army Boots -->
 			<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID>
 		</m_items>
-		<m_items> <!-- OD PASGT Vest -->
-			<itemGUID>bd491c9f-6fe3-48ca-bf05-04c8070cfb99</itemGUID>
+		<m_items> <!-- M69 Vest -->
+			<itemGUID>d0df6609-330d-469d-81ce-beaff255d0a1</itemGUID>
 		</m_items>
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
@@ -1731,15 +1823,15 @@
 		<m_items> <!-- Hair Stubble-->
 			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
 		</m_items>
-		<m_items> <!-- OG-107 Patrol Cap -->
-			<itemGUID>1b3b888f-99b0-48ac-b755-a994624a8fa6</itemGUID>
-		</m_items>
 		<m_items> <!-- Military Police M1 Helmet -->
-		<probability>0.5</probability>
 			<itemGUID>59dda96b-1b31-4671-94c8-475be82aa139</itemGUID>
 		</m_items>
-		<m_items> <!-- OD PASGT Vest -->
-			<itemGUID>bd491c9f-6fe3-48ca-bf05-04c8070cfb99</itemGUID>
+		<m_items> <!-- M17 Mask -->
+		<probability>0.5</probability>
+			<itemGUID>2d32997a-b8e5-463d-b718-06fcf2a73437</itemGUID>
+		</m_items>
+		<m_items> <!-- M69 Vest -->
+			<itemGUID>d0df6609-330d-469d-81ce-beaff255d0a1</itemGUID>
 		</m_items>
 		<m_items> <!-- Military Police Brassard -->
 			<itemGUID>480c1126-3a95-409d-9a48-27a0787aae4a</itemGUID>
@@ -1793,7 +1885,7 @@
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Bulletproof Vest -->
+		<m_items> <!-- PASGT Vest -->
 			<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Pack (Woodland) -->
@@ -1845,7 +1937,7 @@
 		<m_items> <!-- Army T-Shirt -->
 			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
 		</m_items>
-		<m_items> <!-- Military Bulletproof Vest -->
+		<m_items> <!-- PASGT Vest -->
 			<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Pack (Woodland) -->
