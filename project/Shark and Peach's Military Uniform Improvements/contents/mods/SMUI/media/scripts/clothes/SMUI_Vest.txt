@@ -8,7 +8,7 @@ module SMUIClothing
         DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = M69 Flak Vest,
-        ClothingItem = Vest_M69FlakVest,
+        ClothingItem = Vest_ODGreen,
         BodyLocation = TorsoExtra,
         Icon = M69Vest,
         BloodLocation = ShirtNoSleeves,
