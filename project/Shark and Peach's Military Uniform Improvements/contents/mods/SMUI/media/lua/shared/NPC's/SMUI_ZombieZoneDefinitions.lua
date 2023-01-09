@@ -5,6 +5,11 @@ SMUI_ZombiesZoneDefinition = ZombiesZoneDefinition or {};
 -- name of the zone for the zone type ZombiesType (in worldzed)
 
 ZombiesZoneDefinition.GeneralMilitary = {
+	SharkArmyCamoGreen = {
+		name="SharkArmyCamoGreen",
+		chance=100,
+	},
+
 	SharkArmyCamoGreenMale = {
 		name="SharkArmyCamoGreenMale",
 		chance=100,
