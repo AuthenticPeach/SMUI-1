@@ -1,14 +1,78 @@
 SMUIZombiesZoneDefinition = ZombiesZoneDefinition or {};
 
 
+SMUIZombiesZoneDefinition.GeneralMilitary = {
+	SharkArmyCamoGreen = {
+		name="SharkArmyCamoGreen",
+		chance=100,
+	},
+
+	SharkArmyCamoGreenMale = {
+		name="SharkArmyCamoGreenMale",
+		chance=100,
+	},
+
+	SharkArmyCamoGreenFemale = {
+		name="SharkArmyCamoGreenFemale",
+		chance=15,
+	},
+
+	SharkArmyMedicalMale = {
+		name="SharkMedicalFemale",
+		chance=1,
+	},
+
+	SharkArmyMedicalFemale = {
+		name="SharkArmyMedicalFemale",
+		chance=1,
+	},
+}
+
+SMUIZombiesZoneDefinition.MilitaryPolice = {
+	SharkMilitaryPolice = {
+		name="SharkMilitaryPolice",
+		chance=100,
+	},
+}
+
+SMUIZombiesZoneDefinition.NationalGuard = {
+	SharkNationalGuard = {
+		name="SharkArmyCamoGreenReservist",
+		chance=100,
+	},
+}
+
+SMUIZombiesZoneDefinition.SpecialForces = {
+	SharkSpecialForces = {
+		name="SharkSpecialForces",
+		chance=100,
+	},
+}
+
+SMUIZombiesZoneDefinition.SecretLab = {
+	SharkSecretLabSoldier = {
+		name="SharkSecretLabSoldier",
+		chance=100,
+	},
+	SharkSecretLabMP = {
+		name="SharkSecretLabMP",
+		chance=15,
+	},
+}
+
+SMUIZombiesZoneDefinition.Militamen = {
+	SharkPreparedSurvivor = {
+		name="SharkPreparedSurvivor",
+		chance=60,
+	},
+	SharkBandit = {
+		name="SharkBandit",
+		chance=60,
+	},
+}
+
 SMUIZombiesZoneDefinition.Army = {
 
-	GhillieM = {
-		name="Ghillie",
-		toSpawn=0,
-		mandatory="false",
-		gender="male",
-	},		
 	SharkArmyCamoGreen = {
 		name="SharkArmyCamoGreen",
 		chance=70,

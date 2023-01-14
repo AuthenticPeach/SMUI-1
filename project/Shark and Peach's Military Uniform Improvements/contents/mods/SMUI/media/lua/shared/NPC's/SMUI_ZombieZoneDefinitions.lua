@@ -63,7 +63,7 @@ ZombiesZoneDefinition.SecretLab = {
 	},
 }
 
-ZombiesZoneDefinition.Militamen = {
+ZombiesZoneDefinition.SMUISurvivalist = {
 	SharkPreparedSurvivor = {
 		name="SharkPreparedSurvivor",
 		chance=60,
