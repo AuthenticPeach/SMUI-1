@@ -618,6 +618,10 @@
 		<m_items> <!-- Woodland Patrol Cap-->
 			<itemGUID>601bf44b-fe47-44b1-a327-3fd441250ca7</itemGUID>
 		</m_items>
+		<m_items> <!-- Rolled Woodland Patrol Cap -->
+		<probability>0.3</probability>
+			<itemGUID>50a07bc6-c0e0-4aad-ab68-2c5ba76da526</itemGUID>
+		</m_items>
 			<m_items> <!-- GI Glasses-->
 		<probability>0.2</probability>
 			<itemGUID>85217973-ff88-4680-8a5d-1c6c97692767</itemGUID>
@@ -640,6 +644,10 @@
 		<m_items> <!-- Woodland Camo Jacket (Rolled) -->
 		<probability>0.5</probability>
 			<itemGUID>a51eee81-0e8a-45b1-9169-145d87041d99</itemGUID>
+		</m_items>
+		<m_items> <!-- ALICE Webbing (Fastened) -->
+		<probability>0.5</probability>
+			<itemGUID>20260ba2-716d-4e84-9a36-8000c3eb6c2a</itemGUID>
 		</m_items>
 			<m_items> <!-- Dog-Tags -->
 			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
@@ -1176,6 +1184,55 @@
 
 	<!-- Survivors, Bandits, and Hunters -->
 	
+	<m_MaleOutfits><m_Name>SharkArmySurvivor</m_Name>
+		<m_Guid>004931b4-934a-4070-974d-67d20c51021b</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_items> <!-- Hair Stubble-->
+			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
+		</m_items>
+		<m_items> <!-- Watch Cap -->
+			<itemGUID>e5cc2ab2-7ef5-446a-9089-017361485d88</itemGUID>
+		</m_items>
+		<m_items> <!-- Rolled Woodland Patrol Cap -->
+		<probability>0.3</probability>
+			<itemGUID>50a07bc6-c0e0-4aad-ab68-2c5ba76da526</itemGUID>
+		</m_items>
+			<m_items> <!-- GI Glasses-->
+		<probability>0.2</probability>
+			<itemGUID>85217973-ff88-4680-8a5d-1c6c97692767</itemGUID>
+		</m_items>
+		<m_items> <!-- GI Socks -->
+			<itemGUID>b496da29-e941-43f7-85dd-854b79c7b453</itemGUID>
+		</m_items>	
+		<m_items> <!-- Army Boots -->
+			<itemGUID>227cb2d5-05a5-44ed-872d-ac4ca16e80bc</itemGUID>
+		</m_items>
+		<m_items> <!-- Army T-Shirt -->
+			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
+		</m_items>
+		<m_items> <!-- Woodland Camo Pants (Tucked) -->
+			<itemGUID>eb8d1f35-8d0b-4c9c-a308-aba2aa085r34</itemGUID>
+		</m_items>
+		<m_items> <!-- Woodland Camo Jacket (Rolled) -->
+		<probability>0.5</probability>
+			<itemGUID>a51eee81-0e8a-45b1-9169-145d87041d99</itemGUID>
+		</m_items>
+		<m_items> <!-- PASGT Vest -->
+			<itemGUID>1a437dbb-cee9-4013-8e8a-e158acf98b62</itemGUID>
+		</m_items>
+		<m_items> <!-- ALICE Webbing -->
+			<itemGUID>01ee11ca-3de7-4495-85d6-078d33fcab12</itemGUID>
+		</m_items>
+			<m_items> <!-- Dog-Tags -->
+			<itemGUID>88321000-2b08-4537-9c51-4b5eca360c92</itemGUID>
+		</m_items>
+		<m_items> <!-- Holster -->
+		<probability>0.1</probability>
+			<itemGUID>88f11c9e-e717-446c-82ec-f749320df25a</itemGUID>
+		</m_items>	
+	</m_MaleOutfits>
+
 	<m_MaleOutfits><m_Name>SharkVeteran</m_Name>
 		<m_Guid>6d857b63-2d22-4ca7-9c7f-b73bf61f1112</m_Guid>
 		<m_Top>false</m_Top>
