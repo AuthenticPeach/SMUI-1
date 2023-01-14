@@ -160,6 +160,13 @@ cat.haircutColor = "0.60,0.46,0.30:100","0.33,0.16,0.16:100","0.52,0.37,0.26:100
 table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
 
 local cat = {};
+cat.outfit = "SharkMOPPSuitMedical";
+cat.haircut = "Short:34;Bald:33;CrewCut:33;";
+cat.beard = "None:100";
+cat.haircutColor = "0.60,0.46,0.30:100","0.33,0.16,0.16:100","0.52,0.37,0.26:100","0.99,0.92,0.55:100";
+table.insert(HairOutfitDefinitions.haircutOutfitDefinition, cat);
+
+local cat = {};
 cat.outfit = "SharkArmyRanger";
 cat.haircut = "Short:34;Bald:33;CrewCut:33;";
 cat.beard = "None:100";
