@@ -10,7 +10,7 @@ SMUIZombiesZoneDefinition.Army = {
 	
 	SharkERDLEquipped = {
 		name="SharkERDLEquipped",
-		chance = 30,
+		chance = 5,
 	},
 
 	SharkOG107 = {
@@ -20,7 +20,7 @@ SMUIZombiesZoneDefinition.Army = {
 
 	SharkERDLEquipped = {
 		name="SharkERDLEquipped",
-		chance = 30,
+		chance = 5,
 	},
 
 	SharkOG107MP = {
