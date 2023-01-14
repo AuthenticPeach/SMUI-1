@@ -210,3 +210,81 @@ table.insert(SuburbsDistributions["all"]["Outfit_SharkArmyMedicalMale"].items, "
 table.insert(SuburbsDistributions["all"]["Outfit_SharkArmyMedicalMale"].items, 5)     
 table.insert(SuburbsDistributions["all"]["Outfit_SharkArmyMedicalMale"].items, "Scalpel")
 table.insert(SuburbsDistributions["all"]["Outfit_SharkArmyMedicalMale"].items, 5)     
+
+SuburbsDistributions.all.Outfit_SharkOG107 = SuburbsDistributions.all.Outfit_SharkOG107 or {rolls = 20,items = {}}
+
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107"].items, "556Clip")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107"].items, 20)     
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107"].items, "45Clip")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107"].items, 10)     
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107"].items, "556Bullets")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107"].items, 20)   
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107"].items, "45Bullets")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107"].items, 10)   
+
+SuburbsDistributions.all.Outfit_SharkOG107Equipped = SuburbsDistributions.all.Outfit_SharkOG107Equipped or {rolls = 20,items = {}}
+
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107Equipped"].items, "556Clip")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107Equipped"].items, 20)     
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107Equipped"].items, "45Clip")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107Equipped"].items, 10)     
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107Equipped"].items, "556Bullets")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107Equipped"].items, 20)   
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107Equipped"].items, "45Bullets")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107Equipped"].items, 10)   
+
+SuburbsDistributions.all.Outfit_SharkOG107MP = SuburbsDistributions.all.Outfit_SharkOG107MP or {rolls = 20,items = {}}
+
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107MP"].items, "556Clip")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107MP"].items, 20)     
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107MP"].items, "45Clip")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107MP"].items, 10)     
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107MP"].items, "556Bullets")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107MP"].items, 20)   
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107MP"].items, "45Bullets")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107MP"].items, 10)   
+
+SuburbsDistributions.all.Outfit_SharkOG107USNG = SuburbsDistributions.all.Outfit_SharkOG107USNG or {rolls = 20,items = {}}
+
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107USNG"].items, "556Clip")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107USNG"].items, 20)     
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107USNG"].items, "45Clip")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107USNG"].items, 10)     
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107USNG"].items, "556Bullets")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107USNG"].items, 20)   
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107USNG"].items, "45Bullets")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkOG107USNG"].items, 10)   
+
+SuburbsDistributions.all.Outfit_SharkERDL = SuburbsDistributions.all.Outfit_SharkERDL or {rolls = 20,items = {}}
+
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDL"].items, "556Clip")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDL"].items, 20)     
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDL"].items, "45Clip")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDL"].items, 10)     
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDL"].items, "556Bullets")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDL"].items, 20)   
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDL"].items, "45Bullets")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDL"].items, 10)   
+
+SuburbsDistributions.all.Outfit_SharkERDLEquipped = SuburbsDistributions.all.Outfit_SharkERDLEquipped or {rolls = 20,items = {}}
+
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDLEquipped"].items, "556Clip")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDLEquipped"].items, 20)     
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDLEquipped"].items, "45Clip")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDLEquipped"].items, 10)     
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDLEquipped"].items, "556Bullets")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDLEquipped"].items, 20)   
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDLEquipped"].items, "45Bullets")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDLEquipped"].items, 10)   
+
+SuburbsDistributions.all.Outfit_SharkERDLMP = SuburbsDistributions.all.Outfit_SharkERDLMP or {rolls = 20,items = {}}
+
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDLMP"].items, "556Clip")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDLMP"].items, 20)     
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDLMP"].items, "45Clip")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDLMP"].items, 10)     
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDLMP"].items, "556Bullets")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDLMP"].items, 20)   
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDLMP"].items, "45Bullets")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkERDLMP"].items, 10)   
+
