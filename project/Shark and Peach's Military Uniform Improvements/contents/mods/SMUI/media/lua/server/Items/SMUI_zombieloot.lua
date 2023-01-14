@@ -288,3 +288,25 @@ table.insert(SuburbsDistributions["all"]["Outfit_SharkERDLMP"].items, 20)
 table.insert(SuburbsDistributions["all"]["Outfit_SharkERDLMP"].items, "45Bullets")
 table.insert(SuburbsDistributions["all"]["Outfit_SharkERDLMP"].items, 10)   
 
+SuburbsDistributions.all.Outfit_SharkSecretLabSoldier = SuburbsDistributions.all.Outfit_SharkSecretLabSoldier or {rolls = 20,items = {}}
+
+table.insert(SuburbsDistributions["all"]["Outfit_SharkSecretLabSoldier"].items, "556Clip")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkSecretLabSoldier"].items, 20)     
+table.insert(SuburbsDistributions["all"]["Outfit_SharkSecretLabSoldier"].items, "45Clip")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkSecretLabSoldier"].items, 10)     
+table.insert(SuburbsDistributions["all"]["Outfit_SharkSecretLabSoldier"].items, "556Bullets")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkSecretLabSoldier"].items, 20)   
+table.insert(SuburbsDistributions["all"]["Outfit_SharkSecretLabSoldier"].items, "45Bullets")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkSecretLabSoldier"].items, 10)   
+
+SuburbsDistributions.all.Outfit_SharkSecretLabMP = SuburbsDistributions.all.Outfit_SharkSecretLabMP or {rolls = 20,items = {}}
+
+table.insert(SuburbsDistributions["all"]["Outfit_SharkSecretLabMP"].items, "556Clip")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkSecretLabMP"].items, 20)     
+table.insert(SuburbsDistributions["all"]["Outfit_SharkSecretLabMP"].items, "45Clip")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkSecretLabMP"].items, 10)     
+table.insert(SuburbsDistributions["all"]["Outfit_SharkSecretLabMP"].items, "556Bullets")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkSecretLabMP"].items, 20)   
+table.insert(SuburbsDistributions["all"]["Outfit_SharkSecretLabMP"].items, "45Bullets")
+table.insert(SuburbsDistributions["all"]["Outfit_SharkSecretLabMP"].items, 10)   
+
