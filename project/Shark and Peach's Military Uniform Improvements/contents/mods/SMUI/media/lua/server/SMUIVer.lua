@@ -1,1 +1,1 @@
-Events.OnGameBoot.Add(print("SMUI - Fixes"))
+Events.OnGameBoot.Add(print("SMUI - Loot Buff, Decreased Geared Zombies, and Bug Fixes"))
