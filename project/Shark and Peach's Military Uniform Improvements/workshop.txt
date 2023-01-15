@@ -7,8 +7,6 @@ description= Consider supporting our modding efforts:
 description= [url=https://ko-fi.com/sharkmods]Shark[/url]
 description= [url=https://www.patreon.com/authenticpeach]Peach[/url]
 description=
-description= [url=https://github.com/sharkster91/SMUI][img]https://i.imgur.com/nPaP9sc.png[/img][/url]
-description=
 description= [h2][b]This mod entirely redoes military zombies and adds in military equipment both from the 1990's and later which is inline with the universe of Project Zomboid.[/b][/h2]
 description=
 description= [h2][b]The time period for equipment in this mod is 1965 - 199X.[/b][/h2]
@@ -21,7 +19,7 @@ description= [*] Woodland, Desert and Urban BDU's can have their sleeves rolled 
 description= [*] Helmets can have goggles mounted onto them
 description= [*] Woodland, Desert, and Urban patrol caps will spawn on zombie soldiers
 description= [*] Zombie Soldiers now have their trousers tucked into their boots and randomly have their sleeves rolled up
-description= [*] Soldiers will come equipped  with firearms and relevant ammo, magazines, and accessories
+description= [*] Soldiers will come equipped  with firearms, ammo, magazines, and accessories
 description= [*] New equipment in-line with the 1990's US Military and earlier
 description= [*] New wandering military zombies that cam be found rarely
 description= [/list]
@@ -39,7 +37,7 @@ description=[h2]Body Armor[/h2]
 description=[*]PASGT Vests (Woodland, Desert Battle, and Green)
 description=[*]Ranger Body Armor (Woodland + Desert)
 description=[*]Combat Vehicle Crewman Vest
-description=[*]Military Tactical Vest
+description=[*]T.G. Faust Vest
 description=[/list]
 description=
 description=[h2]Uniforms[/h2]
