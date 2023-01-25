@@ -270,7 +270,7 @@ module SMUIClothing
         WorldStaticModel = MilitaryGoggles_WorldItem,
 	}        
     
-    item Hat_Shemagh
+        item Hat_Shemagh
     {
         DisplayCategory = Accessory,
         Type = Clothing,

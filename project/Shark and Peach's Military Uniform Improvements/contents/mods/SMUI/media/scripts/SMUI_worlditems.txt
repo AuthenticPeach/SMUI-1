@@ -244,6 +244,13 @@ module Base
 		scale = 0.5,
 	}
 
+		model MilitaryGoggles_WorldItem
+	{
+		mesh = WorldItems/MilitaryGoggles_WorldItem,
+		texture = clothes/hat/Glasses_SWDG,
+		scale = 0.5,
+	}
+
 		model WoodlandPASGTHelmetNVGMount_WorldItem
 	{
 		mesh = WorldItems/MilitaryHelmetNVGMount_WorldItem,
@@ -344,8 +351,8 @@ module Base
 	
 		model WoodlandPASGTHelmetGoggles_WorldItem
 	{
-		mesh = WorldItems/MilitaryGoggles_WorldItem,
-		texture = clothes/hat/Hat_MilitaryHelmetWoodlandGoggles,
+		mesh = WorldItems/MilitaryHelmetGoggles_WorldItem,
+		texture = clothes/hat/Hat_MilitaryHelmetGoggles,
 		scale = 0.5,
 	}
 
@@ -688,56 +695,56 @@ module Base
 		model CavalryHat_WorldItem
 	{
 		mesh = WorldItems/CavalryHat_WorldItem,
-		texture = WorldItems/CavalryHat,
+		texture = clothes/hat/Hat_CavalryHat,
 		scale = 0.5,
 	}
 
 		model OG106Cap_WorldItem
 	{
 		mesh = WorldItems/OG106Cap_WorldItem,
-		texture = WorldItems/OG106Cap,
+		texture = clothes/hat/Hat_OG106,
 		scale = 0.5,
 	}
 
 		model ExtremeColdWeatherMask_WorldItem
 	{
 		mesh = WorldItems/ExtremeColdWeatherMask_WorldItem,
-		texture = WorldItems/ExtremeColdWeatherMask,
+        texture = clothes/hat/Mask_ExtremeColdWeather,
 		scale = 0.5,
 	}
 
 		model MediumALICEGreen_WorldItem
 	{
 		mesh = WorldItems/MediumALICE_WorldItem,
-		texture = WorldItems/GreenALICE,
+        texture = clothes/misc/GreenALICE,
 		scale = 0.5,
 	}
 
 		model MediumALICEWoodland_WorldItem
 	{
 		mesh = WorldItems/MediumALICE_WorldItem,
-		texture = WorldItems/WoodlandALICE,
+		texture = clothes/misc/WoodlandALICE,
 		scale = 0.5,
 	}
 
 		model LargeALICEGreen_WorldItem
 	{
 		mesh = WorldItems/LargeALICE_WorldItem,
-		texture = WorldItems/GreenALICE,
+		texture = clothes/misc/GreenALICE,
 		scale = 0.5,
 	}
 
 		model LargeALICEWoodland_WorldItem
 	{
 		mesh = WorldItems/LargeALICE_WorldItem,
-		texture = WorldItems/WoodlandALICE,
+		texture = clothes/misc/WoodlandALICE,
 		scale = 0.5,
 	}
 
 		model LBV88_WorldItem
 	{
 		mesh = WorldItems/LBV88_WorldItem,
-		texture = WorldItems/LBV88,
+		texture = clothes/misc/LBV88,
 		scale = 0.5,
 	}
 
