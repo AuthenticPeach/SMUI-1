@@ -1,7 +1,7 @@
 SMUIZombiesZoneDefinition = ZombiesZoneDefinition or {};
 
 
-SMUIZombiesZoneDefinition.GeneralMilitary = {
+SMUIZombiesZoneDefinition.SMUIGeneralMilitary = {
 	SharkArmyCamoGreen = {
 		name="SharkArmyCamoGreen",
 		chance=100,
@@ -28,46 +28,53 @@ SMUIZombiesZoneDefinition.GeneralMilitary = {
 	},
 }
 
-SMUIZombiesZoneDefinition.MilitaryPolice = {
+SMUIZombiesZoneDefinition.SMUIMilitaryPolice = {
 	SharkMilitaryPolice = {
 		name="SharkMilitaryPolice",
 		chance=100,
+		toSpawn=3,
 	},
 }
 
-SMUIZombiesZoneDefinition.NationalGuard = {
+SMUIZombiesZoneDefinition.SMUINationalGuard = {
 	SharkNationalGuard = {
 		name="SharkArmyCamoGreenReservist",
 		chance=100,
+		toSpawn=30,
 	},
 }
 
-SMUIZombiesZoneDefinition.SpecialForces = {
+SMUIZombiesZoneDefinition.SMUISpecialForces = {
 	SharkSpecialForces = {
 		name="SharkSpecialForces",
 		chance=100,
+		toSpawn=1,
 	},
 }
 
-SMUIZombiesZoneDefinition.SecretLab = {
+SMUIZombiesZoneDefinition.SMUISecretLab = {
 	SharkSecretLabSoldier = {
 		name="SharkSecretLabSoldier",
 		chance=100,
+		toSpawn=10,
 	},
 	SharkSecretLabMP = {
 		name="SharkSecretLabMP",
-		chance=15,
+		chance=100,
+		toSpawn=5,
 	},
 }
 
-SMUIZombiesZoneDefinition.Militamen = {
+SMUIZombiesZoneDefinition.SMUISurvivalist = {
 	SharkPreparedSurvivor = {
 		name="SharkPreparedSurvivor",
 		chance=60,
+		toSpawn=5,
 	},
 	SharkBandit = {
 		name="SharkBandit",
 		chance=60,
+		toSpawn=2,
 	},
 }
 
