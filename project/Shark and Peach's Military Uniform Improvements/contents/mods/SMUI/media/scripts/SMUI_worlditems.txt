@@ -198,14 +198,14 @@ module Base
 		model NVG_WorldItem
 	{
 		mesh = WorldItems/NVG_WorldItem,
-		texture = clothes/hat/Hat_MilitaryHelmetWoodland,
+		texture = clothes/hat/Hat_MilitaryHelmetNVG,
 		scale = 0.5,
 	}
 
 		model NVGStrap_WorldItem
 	{
 		mesh = WorldItems/NVGStrap_WorldItem,
-		texture = clothes/hat/Hat_MilitaryHelmetWoodland,
+		texture = clothes/hat/Hat_MilitaryHelmetNVG,
 		scale = 0.5,
 	}
 
@@ -213,34 +213,6 @@ module Base
 	{
 		mesh = WorldItems/MilitaryHelmet_WorldItem,
 		texture = clothes/hat/Hat_MilitaryHelmetWoodland,
-		scale = 0.5,
-	}
-
-	    model BlackCombatBoots_WorldItem
-	{
-		mesh = WorldItems/CombatBoots_WorldItem,
-		texture = WorldItems/BlackCombatBoots,
-		scale = 0.5,
-	}
-
-	    model DesertCombatBoots_WorldItem
-	{
-		mesh = WorldItems/CombatBoots_WorldItem,
-		texture = WorldItems/DesertCombatBoots,
-		scale = 0.5,
-	}
-
-	    model JungleCombatBoots_WorldItem
-	{
-		mesh = WorldItems/CombatBoots_WorldItem,
-		texture = WorldItems/JungleCombatBoots,
-		scale = 0.5,
-	}
-
-	    model HazmatBoots_WorldItem
-	{
-		mesh = WorldItems/CombatBoots_WorldItem,
-		texture = WorldItems/HazmatBoots,
 		scale = 0.5,
 	}
 
