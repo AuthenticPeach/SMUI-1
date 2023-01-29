@@ -31,6 +31,14 @@ SMUIZombiesZoneDefinition.SMUIGeneralMilitary = {
 SMUIZombiesZoneDefinition.SMUIMilitaryPolice = {
 	SharkMilitaryPolice = {
 		name="SharkMilitaryPolice",
+		chance=55,
+		toSpawn=3,
+	},
+}
+
+SMUIZombiesZoneDefinition.SMUIMarchRidge = {
+	SharkMilitaryPolice = {
+		name="SharkMilitaryPoliceMarchRidge",
 		chance=100,
 		toSpawn=3,
 	},
