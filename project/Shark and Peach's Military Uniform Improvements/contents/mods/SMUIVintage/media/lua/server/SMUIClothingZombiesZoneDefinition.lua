@@ -1,41 +1,102 @@
 SMUIZombiesZoneDefinition = ZombiesZoneDefinition or {};
 
 
+SMUIZombiesZoneDefinition.SMUIGeneralMilitary = {
+	SharkERDL = {
+		name="SharkERDL",
+		chance=100,
+	},
+
+	SharkERDLEquipped = {
+		name="SharkERDLEquipped",
+		chance=100,
+	},
+
+}
+
+SMUIZombiesZoneDefinition.SMUIMilitaryPolice = {
+	SharkOG107MP = {
+		name="SharkOG107MP",
+		chance=55,
+		toSpawn=3,
+	},
+}
+
+SMUIZombiesZoneDefinition.SMUIMarchRidge = {
+	SharkOG107MP = {
+		name="SharkOG107MP",
+		chance=50,
+		toSpawn=3,
+	},
+}
+
+SMUIZombiesZoneDefinition.SMUINationalGuard = {
+	SharkOG107 = {
+		name="SharkOG107",
+		chance=50,
+		toSpawn=5,
+	},
+	SharkOG107Equipped = {
+		name="SharkOG107Equipped",
+		chance=50,
+		toSpawn=5,
+	},
+	SharkOG107USNG = {
+		name="SharkOG107USNG",
+		chance=50,
+		toSpawn=5,
+	},
+}
+
+SMUIZombiesZoneDefinition.SMUISpecialForces = {
+	SharkSpecialForces = {
+		name="SharkSpecialForces",
+		chance=100,
+		toSpawn=1,
+	},
+}
+
+SMUIZombiesZoneDefinition.SMUISecretLab = {
+	SharkSecretLabSoldier = {
+		name="SharkSecretLabSoldier",
+		chance=100,
+		toSpawn=10,
+	},
+	SharkSecretLabMP = {
+		name="SharkSecretLabMP",
+		chance=100,
+		toSpawn=5,
+	},
+}
+
+SMUIZombiesZoneDefinition.SMUISurvivalist = {
+	SharkPreparedSurvivor = {
+		name="SharkPreparedSurvivor",
+		chance=5,
+		toSpawn=5,
+	},
+}
+
 SMUIZombiesZoneDefinition.Army = {
 
 	SharkERDL = {
 		name="SharkERDL",
-		chance = 10,
-	},
-	
+		chance=50,
+		gender="male",
+	},	
 	SharkERDLEquipped = {
 		name="SharkERDLEquipped",
-		chance = 5,
-	},
-
-	SharkOG107 = {
-		name="SharkOG107",
-		chance = 10,
-	},
-
-	SharkERDLEquipped = {
-		name="SharkERDLEquipped",
-		chance = 5,
-	},
-
-	SharkOG107MP = {
-		name="SharkOG107MP",
-		chance = 5,
-	},
-
-	SharkOG107Tanker = {
-		name="SharkOG107MP",
-		chance = 5,
-	},
+		chance=50,
+		gender="male",
+	},	
 }
 
 SMUIZombiesZoneDefinition.SecretBase = {
-
+	ArmyGeneral = {
+		name="ArmyGeneral",
+		chance=1,
+		gender="male",
+	},
 	OfficeWorkerSkirt = {
 		name="OfficeWorkerSkirt",
 		chance=0,
@@ -47,21 +108,22 @@ SMUIZombiesZoneDefinition.SecretBase = {
 		gender="male",
 		beardStyles="null:80",
 	},
+	SharkSecretLabSoldier = {
+		name="SharkSecretLabSoldier",
+		gender="male",			
+		toSpawn=10,
+		chance=50,
+	},
+	SharkSecretLabMP = {
+		name="SharkSecretLabMP",
+		gender="male",			
+		toSpawn=5,
+		chance=50,
+	},
 	Doctor = {
 		name="Doctor",
 		chance=10,
 	},
-	
-	SharkERDLEquipped = {
-		name="SharkERDLEquipped",
-		chance = 30,
-	},
-
-	SharkOG107MP = {
-		name="SharkOG107MP",
-		chance = 50,
-	},
-
 }
 
 local SharkPreparedSurvivor = {
@@ -98,12 +160,6 @@ ZombiesZoneDefinition.TrailerPark[SharkVeteran] = SharkVeteran;
 -- total chance can be over 100% we don't care as we'll roll on the totalChance and not a 100 (unlike the specific outfits on top of this)
 SMUIZombiesZoneDefinition.Default = ZombiesZoneDefinition.Default or {};
 
-table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkERDL", chance=0.01});
-table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkERDLEquipped", chance=0.01});
-table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkOG107", chance=0.01});
-table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkOG107Equipped", chance=0.01});
-table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkOG107USNG", chance=0.01});
-table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkOG107MP", chance=0.01});
+table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkMilitaryPolice", chance=0.01});
 table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkVeteran", chance=0.01});
-table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkBandit", chance=0.01});
 table.insert(SMUIZombiesZoneDefinition.Default,{name = "SharkPreparedSurvivor", chance=0.01});
