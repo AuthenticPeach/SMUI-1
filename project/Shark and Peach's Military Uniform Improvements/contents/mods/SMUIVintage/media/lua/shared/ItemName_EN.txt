@@ -1,6 +1,0 @@
-ItemName_EN = {
-
-    ItemName_Base.Shorts_CamoUrbanLong = "Duck Hunter Shorts",
-    ItemName_Base.Shorts_CamoGreenLong = "OG-107 Shorts",
-    
-}
