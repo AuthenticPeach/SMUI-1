@@ -34,17 +34,14 @@ SMUIZombiesZoneDefinition.SMUINationalGuard = {
 	SharkOG107 = {
 		name="SharkOG107",
 		chance=50,
-		toSpawn=5,
 	},
 	SharkOG107Equipped = {
 		name="SharkOG107Equipped",
 		chance=50,
-		toSpawn=5,
 	},
 	SharkOG107USNG = {
 		name="SharkOG107USNG",
 		chance=50,
-		toSpawn=5,
 	},
 }
 
