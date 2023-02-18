@@ -5,7 +5,7 @@ module SMUIClothing{
   }
 
 recipe Roll patrol cap
-  	{
+  	{   
 	   Category:Military,
    	   Hat_PatrolCapOG107,
 
@@ -14,7 +14,7 @@ recipe Roll patrol cap
   	}
 
 recipe Roll patrol cap
-  	{
+  	{   
 	   Category:Military,
    	   Hat_PatrolCapOG107Reversed,
 
@@ -23,7 +23,7 @@ recipe Roll patrol cap
   	}
 
 recipe Unroll patrol cap
-  	{
+  	{   
 	   Category:Military,
    	   Hat_PatrolCapOG107Rolled,
 
@@ -32,7 +32,7 @@ recipe Unroll patrol cap
   	}
 
 recipe Unroll patrol cap
-  	{
+  	{   
 	   Category:Military,
    	   Hat_PatrolCapOG107RolledReversed,
 
@@ -41,7 +41,7 @@ recipe Unroll patrol cap
   	}
 
 recipe Roll patrol cap
-  	{
+  	{   
 	   Category:Military,
    	   Hat_PatrolCap,
 
@@ -50,7 +50,7 @@ recipe Roll patrol cap
   	}
 
 recipe Roll patrol cap
-  	{
+  	{   
 	   Category:Military,
    	   Hat_PatrolCapReversed,
 
@@ -59,7 +59,7 @@ recipe Roll patrol cap
   	}
 
 recipe Unroll patrol cap
-  	{
+  	{   
 	   Category:Military,
    	   Hat_PatrolCapRolled,
 
@@ -68,7 +68,7 @@ recipe Unroll patrol cap
   	}
 
 recipe Unroll patrol cap
-  	{
+  	{   
 	   Category:Military,
    	   Hat_PatrolCapRolledReversed,
 
@@ -77,7 +77,7 @@ recipe Unroll patrol cap
   	}
 
 recipe Roll patrol cap
-  	{
+  	{   
 	   Category:Military,
    	   Hat_PatrolCapERDL,
 
@@ -86,7 +86,7 @@ recipe Roll patrol cap
   	}
 
 recipe Roll patrol cap
-  	{
+  	{  
 	   Category:Military,
    	   Hat_PatrolCapERDLReversed,
 
@@ -95,7 +95,7 @@ recipe Roll patrol cap
   	}
 
 recipe Unroll patrol cap
-  	{
+  	{   
 	   Category:Military,
    	   Hat_PatrolCapERDLRolled,
 
@@ -104,7 +104,7 @@ recipe Unroll patrol cap
   	}
 
 recipe Unroll patrol cap
-  	{
+  	{   
 	   Category:Military,
    	   Hat_PatrolCapRolledERDLReversed,
 
@@ -113,7 +113,7 @@ recipe Unroll patrol cap
   	}
 
 recipe Roll patrol cap
-  	{
+  	{   
 	   Category:Military,
    	   Hat_PatrolCapERDLBrown,
 
@@ -122,7 +122,7 @@ recipe Roll patrol cap
   	}
 
 recipe Roll patrol cap
-  	{
+  	{   
 	   Category:Military,
    	   Hat_PatrolCapERDLBrownReversed,
 
@@ -131,7 +131,7 @@ recipe Roll patrol cap
   	}
 
 recipe Unroll patrol cap
-  	{
+  	{   
 	   Category:Military,
    	   Hat_PatrolCapERDLBrownRolled,
 
@@ -140,7 +140,7 @@ recipe Unroll patrol cap
   	}
 
 recipe Unroll patrol cap
-  	{
+  	{   
 	   Category:Military,
    	   Hat_PatrolCapRolledERDLBrownReversed,
 
@@ -149,7 +149,7 @@ recipe Unroll patrol cap
   	}
 
 recipe Roll patrol cap
-  	{
+  	{   
 	   Category:Military,
    	   Hat_PatrolCapDesert,
 
@@ -159,6 +159,7 @@ recipe Roll patrol cap
 
 recipe Roll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapDesertReversed,
 
    	   Result:Hat_PatrolCapDesertRolledReversed,
@@ -167,6 +168,7 @@ recipe Roll patrol cap
 
 recipe Unroll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapDesertRolled,
 
    	   Result:Hat_PatrolCapDesert,
@@ -175,6 +177,7 @@ recipe Unroll patrol cap
 
 recipe Unroll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapDesertRolledReversed,
 
    	   Result:Hat_PatrolCapDesert,
@@ -183,6 +186,7 @@ recipe Unroll patrol cap
 
 recipe Roll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapDesertCombat,
 
    	   Result:Hat_PatrolCapDesertCombatRolled,
@@ -191,6 +195,7 @@ recipe Roll patrol cap
 
 recipe Roll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapDesertCombatReversed,
 
    	   Result:Hat_PatrolCapDesertCombatRolledReversed,
@@ -199,6 +204,7 @@ recipe Roll patrol cap
 
 recipe Unroll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapDesertCombatRolled,
 
    	   Result:Hat_PatrolCapDesertCombat,
@@ -207,6 +213,7 @@ recipe Unroll patrol cap
 
 recipe Unroll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapDesertCombatRolledReversed,
 
    	   Result:Hat_PatrolCapDesertCombat,
@@ -215,6 +222,7 @@ recipe Unroll patrol cap
 
 recipe Roll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapUrban,
 
    	   Result:Hat_PatrolCapUrbanRolled,
@@ -223,6 +231,7 @@ recipe Roll patrol cap
 
 recipe Roll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapUrbanReversed,
 
    	   Result:Hat_PatrolCapUrbanRolledReversed,
@@ -231,6 +240,7 @@ recipe Roll patrol cap
 
 recipe Unroll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapUrbanRolled,
 
    	   Result:Hat_PatrolCapUrban,
@@ -239,6 +249,7 @@ recipe Unroll patrol cap
 
 recipe Unroll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapUrbanRolledReversed,
 
    	   Result:Hat_PatrolCapUrban,
@@ -247,6 +258,7 @@ recipe Unroll patrol cap
 
 recipe Attach NVG mount
   	{
+	   Category:Military,
    	   Hat_MilitaryHelmet,
 	   NightVisionMount,
 
@@ -256,6 +268,7 @@ recipe Attach NVG mount
 	  
 recipe Attach NVG mount
   	{
+	   Category:Military,
    	   Hat_MilitaryHelmetDesert,
 	   NightVisionMount,
 
@@ -265,6 +278,7 @@ recipe Attach NVG mount
 
 recipe Attach NVG mount
   	{
+	   Category:Military,
    	   Hat_MilitaryHelmetDesertCombat,
 	   NightVisionMount,
 
@@ -274,6 +288,7 @@ recipe Attach NVG mount
 
 recipe Attach Night Vision
   	{
+	   Category:Military,
    	   Hat_MilitaryHelmetNVGMount,
 	   NightVisionGoggles,
 
@@ -283,6 +298,7 @@ recipe Attach Night Vision
 
 recipe Attach NVG mount
   	{
+	   Category:Military,
    	   Hat_MilitaryTacticalHelmet,
 	   NightVisionMount,
 
@@ -292,6 +308,7 @@ recipe Attach NVG mount
 	
  recipe Attach Night Vision
   	{
+	   Category:Military,
    	   Hat_MilitaryHelmetDesertNVGMount,
 	   NightVisionGoggles,
 
@@ -301,6 +318,7 @@ recipe Attach NVG mount
 
  recipe Attach Night Vision
   	{
+	   Category:Military,
    	   Hat_MilitaryHelmetDesertCombatNVGMount,
 	   NightVisionGoggles,
 
@@ -310,6 +328,7 @@ recipe Attach NVG mount
 
  recipe Attach Night Vision
   	{
+	   Category:Military,
    	   Hat_MilitaryHelmetDesertCombatNVGMount,
 	   NightVisionGoggles,
 
@@ -319,6 +338,7 @@ recipe Attach NVG mount
 
  recipe Attach Night Vision
   	{
+	   Category:Military,
    	   Hat_MilitaryTacticalHelmetNVGMount,
 	   NightVisionGoggles,
 
@@ -328,6 +348,7 @@ recipe Attach NVG mount
 
 recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_MilitaryHelmet,
 	   Glasses_MilitaryGoggles,
 
@@ -337,6 +358,7 @@ recipe Attach goggles to helmet
 
 recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_MilitaryHelmet,
 	   Glasses_MilitaryGoggles,
 
@@ -346,6 +368,7 @@ recipe Attach goggles to helmet
 
 recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_MilitaryHelmetStrapless,
 	   Glasses_MilitaryGoggles,
 
@@ -355,6 +378,7 @@ recipe Attach goggles to helmet
 
 recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_MilitaryHelmetDesert,
 	   Glasses_MilitaryGoggles,
 
@@ -364,6 +388,7 @@ recipe Attach goggles to helmet
 
 recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_MilitaryHelmetDesertCombat,
 	   Glasses_MilitaryGoggles,
 
@@ -373,6 +398,7 @@ recipe Attach goggles to helmet
 
 recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_MilitaryHelmetDesertStrapless,
 	   Glasses_MilitaryGoggles,
 
@@ -382,6 +408,7 @@ recipe Attach goggles to helmet
 
 recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_DH132,
 	   Glasses_MilitaryGoggles,
 
@@ -391,6 +418,7 @@ recipe Attach goggles to helmet
 
 recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_DH132,
 	   Glasses_TacticalGoggles,
 
@@ -400,6 +428,7 @@ recipe Attach goggles to helmet
 
 recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_MilitaryTacticalHelmet,
 	   Glasses_MilitaryGoggles,
 
@@ -409,6 +438,7 @@ recipe Attach goggles to helmet
 
 recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_M1Helmet,
 	   Glasses_MilitaryGoggles,
 
@@ -418,6 +448,7 @@ recipe Attach goggles to helmet
 
 recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_M1HelmetStrapless,
 	   Glasses_MilitaryGoggles,
 
@@ -427,6 +458,7 @@ recipe Attach goggles to helmet
 
 recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_M1HelmetWoodland,
 	   Glasses_MilitaryGoggles,
 
@@ -436,6 +468,7 @@ recipe Attach goggles to helmet
 
 recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_M1HelmetWoodlandStrapless,
 	   Glasses_MilitaryGoggles,
 
@@ -445,6 +478,7 @@ recipe Attach goggles to helmet
 
 recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_M1HelmetMitchell,
 	   Glasses_MilitaryGoggles,
 
@@ -454,6 +488,7 @@ recipe Attach goggles to helmet
 
 recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_M1HelmetMitchellStrapless,
 	   Glasses_MilitaryGoggles,
 
@@ -463,6 +498,7 @@ recipe Attach goggles to helmet
 
 recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_M1HelmetAutumnMitchell,
 	   Glasses_MilitaryGoggles,
 
@@ -472,6 +508,7 @@ recipe Attach goggles to helmet
 
 recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_M1HelmetAutumnMitchellStrapless,
 	   Glasses_MilitaryGoggles,
 
@@ -481,6 +518,7 @@ recipe Attach goggles to helmet
 	  
 recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_M1HelmetThreeColor,
 	   Glasses_MilitaryGoggles,
 
@@ -490,6 +528,7 @@ recipe Attach goggles to helmet
 
 recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_M1HelmetThreeColorStrapless,
 	   Glasses_MilitaryGoggles,
 
@@ -499,6 +538,7 @@ recipe Attach goggles to helmet
 
  recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_M1HelmetMilitaryPolice,
 	   Glasses_MilitaryGoggles,
 
@@ -508,6 +548,7 @@ recipe Attach goggles to helmet
 
 recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_M1HelmetMilitaryPoliceStrapless,
 	   Glasses_MilitaryGoggles,
 
@@ -517,6 +558,7 @@ recipe Attach goggles to helmet
 
  recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_M1HelmetERDL,
 	   Glasses_MilitaryGoggles,
 
@@ -526,6 +568,7 @@ recipe Attach goggles to helmet
 
 recipe Attach goggles to helmet
   	{
+	   Category:Military,
    	   Hat_M1HelmetERDLStrapless,
 	   Glasses_MilitaryGoggles,
 
@@ -535,6 +578,7 @@ recipe Attach goggles to helmet
 
 recipe Attach doff hood
   	{
+	   Category:Military,
    	   Hat_M40,
 	   M40Hood,
 
@@ -544,6 +588,7 @@ recipe Attach doff hood
 
 recipe Attach doff hood
   	{
+	   Category:Military,
    	   Hat_M17,
 	   M17Hood,
 
@@ -553,6 +598,7 @@ recipe Attach doff hood
 
 recipe Remove doff hood
   	{
+	   Category:Military,
    	   Hat_M17Doff,
 	   OnCreate: SMUI_Recipe.M17HOOD,
    	   Result:Hat_M17,
@@ -561,23 +607,16 @@ recipe Remove doff hood
 
 recipe Remove doff hood
   	{
+	   Category:Military,
    	   Hat_M40Doff,
 	   OnCreate: SMUI_Recipe.M40HOOD,
    	   Result:Hat_M40,
 	   Time:60,
   	}
 
-recipe Attach suspenders to belt
-  	{
-   	   MilitaryWebbingSuspenders,
-	   PistolBeltPouches,
-	   OnCreate:KeepInventory,
-   	   Result:MilitaryWebbing,
-	   Time:60,
-  	}
-
 recipe Remove goggles
   	{
+	   Category:Military,
    	   Hat_MilitaryHelmetGoggles,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_MilitaryHelmet,
@@ -586,6 +625,7 @@ recipe Remove goggles
 
 recipe Remove goggles
   	{
+	   Category:Military,
    	   Hat_MilitaryHelmetGogglesStrapless,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_MilitaryHelmetStrapless,
@@ -594,6 +634,7 @@ recipe Remove goggles
 
 recipe Remove goggles
   	{
+	   Category:Military,
    	   Hat_MilitaryHelmetDesertGoggles,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_MilitaryHelmetDesert,
@@ -602,6 +643,7 @@ recipe Remove goggles
 
 recipe Remove goggles
   	{
+	   Category:Military,
    	   Hat_MilitaryHelmetDesertGogglesStrapless,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_MilitaryHelmetDesertStrapless,
@@ -610,6 +652,7 @@ recipe Remove goggles
 
 recipe Remove goggles
   	{
+	   Category:Military,
    	   Hat_MilitaryHelmetDesertCombatGoggles,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_MilitaryHelmetDesertCombat,
@@ -618,6 +661,7 @@ recipe Remove goggles
 
 recipe Remove goggles
   	{
+	   Category:Military,
    	   Hat_MilitaryHelmetDesertCombatGogglesStrapless,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_MilitaryHelmetDesertCombatStrapless,
@@ -626,6 +670,7 @@ recipe Remove goggles
 
 recipe Remove goggles
   	{
+	   Category:Military,
    	   Hat_MilitaryTacticalHelmetGoggles,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_MilitaryTacticalHelmet,
@@ -634,6 +679,7 @@ recipe Remove goggles
 
 recipe Remove goggles
   	{
+	   Category:Military,
    	   Hat_DH132Goggles,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_DH132,
@@ -642,6 +688,7 @@ recipe Remove goggles
 
 recipe Remove goggles
   	{
+	   Category:Military,
    	   Hat_M1HelmetGoggles,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_M1Helmet,
@@ -650,6 +697,7 @@ recipe Remove goggles
 
 recipe Remove goggles
   	{
+	   Category:Military,
    	   Hat_M1HelmetGogglesStrapless,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_M1Helmet,
@@ -658,6 +706,7 @@ recipe Remove goggles
 
 recipe Remove goggles
   	{
+	   Category:Military,
    	   Hat_M1HelmetWoodlandGoggles,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_M1HelmetWoodland,
@@ -666,6 +715,7 @@ recipe Remove goggles
 
 recipe Remove goggles
   	{
+	   Category:Military,
    	   Hat_M1HelmetWoodlandGogglesStrapless,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_M1HelmetWoodlandStrapless,
@@ -674,6 +724,7 @@ recipe Remove goggles
 
 recipe Remove goggles
   	{
+	   Category:Military,
    	   Hat_M1HelmetMitchellGoggles,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_M1HelmetMitchell,
@@ -682,6 +733,7 @@ recipe Remove goggles
 
 recipe Remove goggles
   	{
+	   Category:Military,
    	   Hat_M1HelmetMitchellGogglesStrapless,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_M1HelmetMitchellStrapless,
@@ -690,6 +742,7 @@ recipe Remove goggles
 
 recipe Remove goggles
   	{
+	   Category:Military,
    	   Hat_M1HelmetAutumnMitchellGoggles,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_M1HelmetAutumnMitchell,
@@ -698,6 +751,7 @@ recipe Remove goggles
 
 recipe Remove goggles
   	{
+	   Category:Military,
    	   Hat_M1HelmetAutumnMitchellGogglesStrapless,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_M1HelmetAutumnMitchellStrapless,
@@ -706,6 +760,7 @@ recipe Remove goggles
 
 recipe Remove goggles
   	{
+	   Category:Military,
    	   Hat_M1HelmetThreeColorGoggles,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_M1HelmetThreeColor,
@@ -714,6 +769,7 @@ recipe Remove goggles
 
 recipe Remove goggles
   	{
+	   Category:Military,
    	   Hat_M1HelmetThreeColorGogglesStrapless,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_M1HelmetThreeColorStrapless,
@@ -722,6 +778,7 @@ recipe Remove goggles
 
 recipe Remove goggles
   	{
+	   Category:Military,
    	   Hat_M1HelmetMilitaryPoliceGoggles,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_M1HelmetMilitaryPolice,
@@ -730,6 +787,7 @@ recipe Remove goggles
 
 recipe Remove goggles
   	{
+	   Category:Military,
    	   Hat_M1HelmetMilitaryPoliceGogglesStrapless,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_M1HelmetMilitaryPoliceStrapless,
@@ -738,6 +796,7 @@ recipe Remove goggles
 
 recipe Remove goggles
   	{
+	   Category:Military,		
    	   Hat_M1HelmetERDLGoggles,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_M1HelmetERDL,
@@ -746,6 +805,7 @@ recipe Remove goggles
 
 recipe Remove goggles
   	{
+	   Category:Military,
    	   Hat_M1HelmetERDLGogglesStrapless,
 	   OnCreate: SMUI_Recipe.GOGGLES,
    	   Result:Hat_M1HelmetERDLStrapless,
@@ -754,6 +814,7 @@ recipe Remove goggles
 
 recipe Unseal package
   	{
+	   Category:Military,
    	   MOPPPackageGreen,
 	   OnCreate: SMUI_Recipe.MOPPGREEN,
    	   Result:MOPPPackageWrapper,
@@ -762,6 +823,7 @@ recipe Unseal package
 
 recipe Make helmet rags
   	{
+	   Category:Military,
    	   RippedSheets,
 	   PaintGreen,
 	   keep Paintbrush,
@@ -771,6 +833,7 @@ recipe Make helmet rags
 
 recipe Add helmet rags
   	{
+	   Category:Military,		
    	   Hat_M1Helmet,
 	   HelmetRags,
 	   Tooltip:Tooltip_Irreversible,
@@ -780,6 +843,7 @@ recipe Add helmet rags
 
 recipe Add helmet rags
   	{
+	   Category:Military,	
    	   Hat_M1HelmetStrapless,
 	   HelmetRags,
 	   Tooltip:Tooltip_Irreversible,
@@ -789,6 +853,7 @@ recipe Add helmet rags
 	
 recipe Add helmet rags
   	{
+	   Category:Military,	
    	   Hat_MilitaryHelmet,
 	   HelmetRags,
 	   Tooltip:Tooltip_Irreversible,
@@ -798,6 +863,7 @@ recipe Add helmet rags
 
 recipe Add helmet rags
   	{
+	   Category:Military,
    	   Hat_MilitaryHelmetStrapless,
 	   HelmetRags,
 	   Tooltip:Tooltip_Irreversible,
