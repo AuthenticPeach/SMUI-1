@@ -6,6 +6,7 @@ module SMUIClothing{
 
 recipe Roll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapOG107,
 
    	   Result:Hat_PatrolCapOG107Rolled,
@@ -14,6 +15,7 @@ recipe Roll patrol cap
 
 recipe Roll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapOG107Reversed,
 
    	   Result:Hat_PatrolCapOG107Rolled,
@@ -22,6 +24,7 @@ recipe Roll patrol cap
 
 recipe Unroll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapOG107Rolled,
 
    	   Result:Hat_PatrolCapOG107,
@@ -30,6 +33,7 @@ recipe Unroll patrol cap
 
 recipe Unroll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapOG107RolledReversed,
 
    	   Result:Hat_PatrolCapOG107,
@@ -38,6 +42,7 @@ recipe Unroll patrol cap
 
 recipe Roll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCap,
 
    	   Result:Hat_PatrolCapRolled,
@@ -46,6 +51,7 @@ recipe Roll patrol cap
 
 recipe Roll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapReversed,
 
    	   Result:Hat_PatrolCapRolled,
@@ -54,6 +60,7 @@ recipe Roll patrol cap
 
 recipe Unroll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapRolled,
 
    	   Result:Hat_PatrolCap,
@@ -62,6 +69,7 @@ recipe Unroll patrol cap
 
 recipe Unroll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapRolledReversed,
 
    	   Result:Hat_PatrolCap,
@@ -70,6 +78,7 @@ recipe Unroll patrol cap
 
 recipe Roll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapERDL,
 
    	   Result:Hat_PatrolCapERDLRolled,
@@ -78,6 +87,7 @@ recipe Roll patrol cap
 
 recipe Roll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapERDLReversed,
 
    	   Result:Hat_PatrolCapERDLRolled,
@@ -86,6 +96,7 @@ recipe Roll patrol cap
 
 recipe Unroll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapERDLRolled,
 
    	   Result:Hat_PatrolCapERDL,
@@ -94,6 +105,7 @@ recipe Unroll patrol cap
 
 recipe Unroll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapRolledERDLReversed,
 
    	   Result:Hat_PatrolCapERDL,
@@ -102,6 +114,7 @@ recipe Unroll patrol cap
 
 recipe Roll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapERDLBrown,
 
    	   Result:Hat_PatrolCapERDLBrownRolled,
@@ -110,6 +123,7 @@ recipe Roll patrol cap
 
 recipe Roll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapERDLBrownReversed,
 
    	   Result:Hat_PatrolCapERDLBrownRolled,
@@ -118,6 +132,7 @@ recipe Roll patrol cap
 
 recipe Unroll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapERDLBrownRolled,
 
    	   Result:Hat_PatrolCapERDLBrown,
@@ -126,6 +141,7 @@ recipe Unroll patrol cap
 
 recipe Unroll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapRolledERDLBrownReversed,
 
    	   Result:Hat_PatrolCapERDLBrown,
@@ -134,6 +150,7 @@ recipe Unroll patrol cap
 
 recipe Roll patrol cap
   	{
+	   Category:Military,
    	   Hat_PatrolCapDesert,
 
    	   Result:Hat_PatrolCapDesertRolled,
