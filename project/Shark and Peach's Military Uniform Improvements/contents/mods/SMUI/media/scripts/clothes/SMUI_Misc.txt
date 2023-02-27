@@ -844,6 +844,54 @@ module SMUIClothing
         WorldStaticModel = ExtremeColdWeatherMask_WorldItem,	
     }
 
+        item Bag_SmallALICEPack
+    {
+        DisplayCategory = Bag,
+        Type = Container,
+        DisplayName = Small ALICE Pack,
+        ClothingItem = Bag_SmallALICEPack,
+        CanBeEquipped = Back,
+        WeightReduction	=	70,
+        Weight	=	3.5,
+        Capacity	=	35,
+        Icon	=	GreenALICEPack,
+        OpenSound   =   OpenBag,
+        CloseSound   =   CloseBag,
+        PutInSound   =   PutItemInBag,
+        BloodLocation = Bag,
+        RunSpeedModifier = 2.0,
+        CanHaveHoles = false,
+        AttachmentReplacement = Bag,
+        ReplaceInSecondHand = Bag_ALICEpack_LHand holdingbagleft,
+        ReplaceInPrimaryHand = Bag_ALICEpack_RHand holdingbagright,
+        Tags = Military,	
+        WorldStaticModel = SmallALICEGreen_WorldItem,
+    }
+
+        item Bag_SmallALICEPackWoodland
+    {
+        DisplayCategory = Bag,
+        Type = Container,
+        DisplayName = Small Woodland ALICE Pack,
+        ClothingItem = Bag_SmallALICEPackWoodland,
+        CanBeEquipped = Back,
+        WeightReduction	=	70,
+        Weight	=	3.5,
+        Capacity	=	35,
+        Icon	=	GreenALICEPack,
+        OpenSound   =   OpenBag,
+        CloseSound   =   CloseBag,
+        PutInSound   =   PutItemInBag,
+        BloodLocation = Bag,
+        RunSpeedModifier = 2.0,
+        CanHaveHoles = false,
+        AttachmentReplacement = Bag,
+        ReplaceInSecondHand = Bag_ALICEpack_LHand holdingbagleft,
+        ReplaceInPrimaryHand = Bag_ALICEpack_RHand holdingbagright,
+        Tags = Military,	
+        WorldStaticModel = SmallALICEGreen_WorldItem,
+    }
+
         item Bag_LargeALICEPack
     {
         DisplayCategory = Bag,

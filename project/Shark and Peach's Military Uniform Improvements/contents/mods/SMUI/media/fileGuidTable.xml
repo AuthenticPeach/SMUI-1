@@ -320,6 +320,16 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Bag_SmallALICEPack.xml</path>
+	<guid>bde4fc7f-462c-4093-bf32-3a17ecd75040</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Bag_SmallALICEPackWoodland.xml</path>
+	<guid>243764a2-1600-4cff-9582-52818d767ecf</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Bag_LargeALICEPack.xml</path>
 	<guid>3130f55c-892d-4729-9597-bd081acbef6e</guid>
 	</files>
