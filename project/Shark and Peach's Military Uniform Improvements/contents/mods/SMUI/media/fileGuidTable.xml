@@ -3,6 +3,35 @@
 
 	<!-- Shark's Military Uniform Improvements -->
 
+	<files>
+	<path>media/clothing/clothingItems/Bag_SmallALICEPackWoodland.xml</path>
+	<guid>7ec2175a-7af9-42fb-9ad4-0b0b51d06a4b</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Bag_SmallALICEPackWoodland_Rhand.xml</path>
+	<guid>b42c6745-234d-4e8d-b121-e5b6c6d75753</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Bag_SmallALICEPackWoodland_Lhand.xml</path>
+	<guid>764231b6-ff88-49f4-a528-82accca09fbb</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Bag_SmallALICEPack.xml</path>
+	<guid>0f19d8c2-7dfa-4d33-bb86-b53ed0504b0e</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Bag_SmallALICEPack_Rhand.xml</path>
+	<guid>0f19d8c2-7dfa-4d33-bb86-b53ed0504b0e</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Bag_SmallALICEPack_Lhand.xml</path>
+	<guid>ff1d7e9b-da2f-4aca-803f-ab82e9e5482e</guid>
+	</files>
 
 	<files>
 	<path>media/clothing/clothingItems/Bag_GIDuffelbagWoodland.xml</path>
