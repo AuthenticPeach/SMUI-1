@@ -29,6 +29,7 @@ ItemName_EN = {
     ItemName_Base.Shorts_CamoUrbanLong = "Urban Pattern Shorts",
     ItemName_Base.Shorts_CamoGreenLong = "Woodland Pattern Shorts",
     
+    ItemName_Base.Bag_Military = "GI Duffelbag",
     ItemName_Base.Bag_SurvivorBag = "ALICE Pack",
     ItemName_Base.Bag_ALICEpack = "ALICE Pack",
     ItemName_Base.Bag_ALICEpack_Army = "Woodland ALICE Pack",

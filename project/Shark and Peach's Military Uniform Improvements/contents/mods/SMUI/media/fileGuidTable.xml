@@ -5,6 +5,11 @@
 
 
 	<files>
+	<path>media/clothing/clothingItems/Bag_GIDuffelbagWoodland.xml</path>
+	<guid>c24a9b4e-dbf6-47ce-bfa0-c9490f34a064</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_OG107UtilityCover.xml</path>
 	<guid>1f5ae716-d55a-4ada-aa92-919d2166ea0f</guid>
 	</files>

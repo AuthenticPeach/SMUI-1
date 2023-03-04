@@ -110,7 +110,7 @@ module SMUIClothing
         Insulation = 0.10,
         Weight = 1.5,
         Tags = Military,
-		WorldStaticModel = WoodlandPASGTHelmetGoggles_WorldItem,
+		WorldStaticModel = WoodlandPASGTHelmetPVS7_WorldItem,
     }
 
     item Hat_MilitaryHelmetGogglesStrapless

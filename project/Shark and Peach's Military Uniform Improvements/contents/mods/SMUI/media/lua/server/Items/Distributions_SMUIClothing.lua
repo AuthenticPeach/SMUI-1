@@ -34,9 +34,29 @@ table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3);
 
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Bag_CFP90PatrolPack");
-table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 0.5);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Bag_CFP90PatrolPack");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 0.5);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Bag_SmallALICEPack");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 5);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Bag_SmallALICEPack");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 5);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Bag_SmallALICEPack");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 5);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Bag_SmallALICEPack");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 5);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Bag_SmallALICEPackWoodland");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 5);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Bag_SmallALICEPackWoodland");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 5);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Bag_SmallALICEPackWoodland");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 5);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Bag_SmallALICEPackWoodland");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 5);
 
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Bag_LargeALICEPack");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
@@ -47,6 +67,36 @@ table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Bag_LargeALICEPackWoodland");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3)
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Bag_SmallALICEPackWoodland");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 5);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Bag_SmallALICEPackWoodland");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 5);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Bag_GIDuffelWoodland");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 5);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Bag_GIDuffelWoodland");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 5);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Bag_Military");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 5);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Bag_Military");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 5);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Bag_Military");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 5);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Bag_Military");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 5);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Bag_GIDuffelWoodland");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 5);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Bag_GIDuffelWoodland");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 5);
+
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Bag_GIDuffelWoodland");
+table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 5);
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Bag_GIDuffelWoodland");
+table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 5);
 
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.LBV88Webbing");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 1);
