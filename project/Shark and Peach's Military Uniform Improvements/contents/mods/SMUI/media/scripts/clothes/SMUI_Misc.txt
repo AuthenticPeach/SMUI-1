@@ -73,9 +73,9 @@ module SMUIClothing fp
         PutInSound   =   PutItemInBag,
         RunSpeedModifier = 1.95,
         CanHaveHoles = false,
-        ReplaceInSecondHand = Bag_DuffelBag_LHand holdingbagleft,
-        ReplaceInPrimaryHand = Bag_DuffelBag_RHand holdingbagright,
-        WorldStaticModel = DuffelBag_Ground,
+        ReplaceInSecondHand = Bag_GIDuffelBagWoodland_LHand holdingbagleft,
+        ReplaceInPrimaryHand = Bag_GIDuffelBagWoodland_RHand holdingbagright,
+        WorldStaticModel = GIDuffelbagWoodland_WorldItem,
         SoundParameter = EquippedBaggageContainer DuffleBag,
     }
 

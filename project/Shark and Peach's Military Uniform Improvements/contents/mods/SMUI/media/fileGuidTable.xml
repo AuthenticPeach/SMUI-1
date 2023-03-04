@@ -39,6 +39,16 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Bag_GIDuffelbagWoodland_Lhand.xml</path>
+	<guid>4f168468-d463-4672-9718-acdeac5a00b0</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Bag_GIDuffelbagWoodland_Rhand.xml</path>
+	<guid>dbfe190f-e615-4f0d-9b56-12a0c0066538</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_OG107UtilityCover.xml</path>
 	<guid>1f5ae716-d55a-4ada-aa92-919d2166ea0f</guid>
 	</files>
