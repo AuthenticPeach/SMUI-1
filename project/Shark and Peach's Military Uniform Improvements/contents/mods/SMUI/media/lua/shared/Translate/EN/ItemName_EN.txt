@@ -30,9 +30,9 @@ ItemName_EN = {
     ItemName_Base.Shorts_CamoGreenLong = "Woodland Pattern Shorts",
     
     ItemName_Base.Bag_Military = "GI Duffelbag",
-    ItemName_Base.Bag_SurvivorBag = "ALICE Pack",
-    ItemName_Base.Bag_ALICEpack = "ALICE Pack",
-    ItemName_Base.Bag_ALICEpack_Army = "Woodland ALICE Pack",
+    ItemName_Base.Bag_SurvivorBag = "Medium ALICE Pack",
+    ItemName_Base.Bag_ALICEpack = "Medium ALICE Pack",
+    ItemName_Base.Bag_ALICEpack_Army = "Woodland Medium ALICE Pack",
 
     ItemName_Base.Hat_NBCmask = "M17 w/ Doff Hood",
     ItemName_Base.Boilersuit_Flying = "CWU-27/P Suit",

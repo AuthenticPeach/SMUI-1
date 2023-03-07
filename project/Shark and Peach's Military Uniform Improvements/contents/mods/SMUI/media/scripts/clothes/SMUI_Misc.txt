@@ -1,4 +1,4 @@
-module SMUIClothing fp
+module SMUIClothing
 {
 
     	item M3Holster
@@ -929,7 +929,7 @@ module SMUIClothing fp
         CloseSound   =   CloseBag,
         PutInSound   =   PutItemInBag,
         BloodLocation = Bag,
-        RunSpeedModifier = 4.0,
+        RunSpeedModifier = 1.5,
         CanHaveHoles = false,
         AttachmentReplacement = Bag,
         ReplaceInSecondHand = Bag_LargeALICEPack_LHand holdingbagleft,
@@ -953,7 +953,7 @@ module SMUIClothing fp
         CloseSound   =   CloseBag,
         PutInSound   =   PutItemInBag,
         BloodLocation = Bag,
-        RunSpeedModifier = 4.0,
+        RunSpeedModifier = 1.5,
         CanHaveHoles = false,
         AttachmentReplacement = Bag,
         ReplaceInSecondHand = Bag_LargeALICEPackWoodland_LHand holdingbagleft,
