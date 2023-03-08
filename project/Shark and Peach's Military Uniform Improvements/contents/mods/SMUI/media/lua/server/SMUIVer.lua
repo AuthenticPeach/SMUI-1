@@ -1,1 +1,1 @@
-Events.OnGameBoot.Add(print("SMUI - Zoning, Bug Fixes, Clean-Up"))
+Events.OnGameBoot.Add(print("SMUI - ALICE Pack Overhaul, New Duffelbags, Recipe Consoliation"))

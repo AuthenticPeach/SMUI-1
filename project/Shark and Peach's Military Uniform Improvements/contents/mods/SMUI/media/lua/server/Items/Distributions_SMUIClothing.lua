@@ -33,11 +33,6 @@ table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 3);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.MilitaryWebbing");
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 3);
 
-table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Bag_CFP90PatrolPack");
-table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 0.5);
-table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Bag_CFP90PatrolPack");
-table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, 0.5);
-
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, "SMUIClothing.Bag_SmallALICEPack");
 table.insert(ProceduralDistributions.list.ArmyStorageOutfit.items, 5);
 table.insert(ProceduralDistributions.list.ArmySurplusOutfit.items, "SMUIClothing.Bag_SmallALICEPack");

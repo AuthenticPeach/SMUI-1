@@ -62,7 +62,7 @@ module SMUIClothing
         DisplayCategory = Bag,
         Type = Container,
         DisplayName = Woodland GI Duffelbag,
-        ClothingItem = Bag_GIDuffelbagWooodland,
+        ClothingItem = Bag_GIDuffelbagWoodland,
         CanBeEquipped = Back,
         WeightReduction	=	25,
         Weight	=	1,
@@ -71,11 +71,11 @@ module SMUIClothing
         OpenSound   =   OpenBag,
         CloseSound   =   CloseBag,
         PutInSound   =   PutItemInBag,
-        RunSpeedModifier = 1.95,
+        RunSpeedModifier = 1.25,
         CanHaveHoles = false,
         ReplaceInSecondHand = Bag_GIDuffelBagWoodland_LHand holdingbagleft,
         ReplaceInPrimaryHand = Bag_GIDuffelBagWoodland_RHand holdingbagright,
-        WorldStaticModel = GIDuffelbagWoodland_WorldItem,
+        WorldStaticModel = WoodlandGIDuffel_WorldItem,
         SoundParameter = EquippedBaggageContainer DuffleBag,
     }
 

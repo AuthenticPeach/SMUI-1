@@ -342,6 +342,27 @@ module Base
         WorldStaticModel = Trousers_Ground,
     }
 
+        item Bag_Military
+    {
+        DisplayCategory = Bag,
+        Type = Container,
+        DisplayName = GI Duffelbag,
+        ClothingItem = Bag_Military,
+        CanBeEquipped = Back,
+        WeightReduction	=	25,
+        Weight	=	1,
+        Capacity	=	30,
+        Icon	=	GIDuffel,
+        OpenSound   =   OpenBag,
+        CloseSound   =   CloseBag,
+        PutInSound   =   PutItemInBag,
+        RunSpeedModifier = 0.75,
+        CanHaveHoles = false,
+        ReplaceInSecondHand = Bag_DuffelBag_LHandMilitary holdingbagleft,
+        ReplaceInPrimaryHand = Bag_DuffelBag_RHandMilitary holdingbagright,
+        WorldStaticModel = GIDuffel_WorldItem,
+    }
+
         item Bag_SurvivorBag
         
     {
