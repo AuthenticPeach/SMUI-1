@@ -41,12 +41,9 @@
 		<m_items> <!-- Desert PASGT Vest -->
 			<itemGUID>d646bba8-dee5-4d17-923b-a48f9280367b</itemGUID>
 		</m_items>
-		<m_items> <!-- Small ALICE Pack -->
-			<itemGUID>bde4fc7f-462c-4093-bf32-3a17ecd75040</itemGUID>
-		</m_items>
-		<m_items> <!-- Medium ALICE Pack -->
+		<m_items> <!-- ALICE Pack (Plain) -->
 		<probability>0.1</probability>
-			<itemGUID>e5e131ff-bc65-4b94-9bc1-b70e8f99e68d</itemGUID>
+			<itemGUID>8b3f943c-e903-431b-bf8d-8f2eb86c9ef3</itemGUID>
 		</m_items>
 		<m_items> <!-- Desert Camo Pants (Tucked) -->
 			<itemGUID>afd79fed-34e7-4e5a-9dec-b8bc54424aea</itemGUID>
@@ -107,12 +104,9 @@
 		<probability>0.1</probability>
 			<itemGUID>5015651a-e3b2-4ef6-b41a-bf2aca34063b</itemGUID>
 		</m_items>
-		<m_items> <!-- Small ALICE Pack -->
-			<itemGUID>bde4fc7f-462c-4093-bf32-3a17ecd75040</itemGUID>
-		</m_items>
-		<m_items> <!-- Medium ALICE Pack -->
+		<m_items> <!-- ALICE Pack (Plain) -->
 		<probability>0.1</probability>
-			<itemGUID>e5e131ff-bc65-4b94-9bc1-b70e8f99e68d</itemGUID>
+			<itemGUID>8b3f943c-e903-431b-bf8d-8f2eb86c9ef3</itemGUID>
 		</m_items>
 		<m_items> <!-- Desert Camo Pants (Tucked) -->
 			<itemGUID>e757d562-2d74-4fdc-b228-3bbf8347126a</itemGUID>
@@ -166,12 +160,9 @@
 		<m_items> <!-- Desert PASGT Vest -->
 			<itemGUID>d646bba8-dee5-4d17-923b-a48f9280367b</itemGUID>
 		</m_items>
-		<m_items> <!-- Small ALICE Pack -->
-			<itemGUID>bde4fc7f-462c-4093-bf32-3a17ecd75040</itemGUID>
-		</m_items>
-		<m_items> <!-- Medium ALICE Pack -->
+		<m_items> <!-- ALICE Pack (Plain) -->
 		<probability>0.1</probability>
-			<itemGUID>e5e131ff-bc65-4b94-9bc1-b70e8f99e68d</itemGUID>
+			<itemGUID>8b3f943c-e903-431b-bf8d-8f2eb86c9ef3</itemGUID>
 		</m_items>
 		<m_items> <!-- Desert Combat Pants (Tucked) -->
 			<itemGUID>e757d562-2d74-4fdc-b228-3bbf8347126a</itemGUID>
@@ -232,10 +223,7 @@
 		<probability>0.1</probability>
 			<itemGUID>5015651a-e3b2-4ef6-b41a-bf2aca34063b</itemGUID>
 		</m_items>
-		<m_items> <!-- Small Woodland ALICE Pack -->
-			<itemGUID>7ec2175a-7af9-42fb-9ad4-0b0b51d06a4b </itemGUID>
-		</m_items>
-		<m_items> <!-- Medium ALICE Pack (Woodland) -->
+		<m_items> <!-- ALICE Pack (Woodland) -->
 		<probability>0.1</probability>
 			<itemGUID>e5e131ff-bc65-4b94-9bc1-b70e8f99e68d</itemGUID>
 		</m_items>
@@ -334,9 +322,9 @@
 		<m_items> <!-- LBV-88 Webbing-->
 			<itemGUID>d3546a87-b4f5-4b23-be53-25c0ec7ca00b</itemGUID>
 		</m_items>
-			<m_items> <!-- Small Woodland ALICE Pack  -->
+			<m_items> <!-- CFP-90 Assault Pack -->
 		<probability>0.7</probability>
-			<itemGUID>7ec2175a-7af9-42fb-9ad4-0b0b51d06a4b</itemGUID>
+			<itemGUID>80c41e56-7aeb-48ee-a1a7-c75be8cd80cc</itemGUID>
 		</m_items>
 		<m_items> <!-- GI Socks -->
 			<itemGUID>b496da29-e941-43f7-85dd-854b79c7b453</itemGUID>
@@ -398,9 +386,9 @@
 		<m_items> <!-- ALICE Webbing -->
 			<itemGUID>01ee11ca-3de7-4495-85d6-078d33fcab12</itemGUID>
 		</m_items>
-		<m_items> <!-- Small Woodland ALICE Pack  -->
+			<m_items> <!-- CFP-90 Assault Pack -->
 		<probability>0.7</probability>
-			<itemGUID>7ec2175a-7af9-42fb-9ad4-0b0b51d06a4b</itemGUID>
+			<itemGUID>80c41e56-7aeb-48ee-a1a7-c75be8cd80cc</itemGUID>
 		</m_items>
 		<m_items> <!-- GI Socks -->
 			<itemGUID>b496da29-e941-43f7-85dd-854b79c7b453</itemGUID>
@@ -447,7 +435,7 @@
 		<m_items> <!-- Hair Stubble-->
 			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
 		</m_items>
-		<m_items> <!---Woodland PASGT Helmet (Strapless)-->
+		<m_items> <!---Army Helmet (Strapless)-->
 			<itemGUID>9620aac8-3540-4699-b285-ed3257bc2ee5</itemGUID>
 		</m_items>
 		<m_items> <!-- M40 Gas Mask -->
@@ -558,7 +546,7 @@
         <m_items> <!-- Hair Stubble-->
 			<itemGUID>68c936f2-2a30-49be-bbf2-81e5389850c4</itemGUID>
 		</m_items>
-		<m_items> <!---Woodland PASGT Helmet (Strapless)-->
+		<m_items> <!---Army Helmet (Strapless)-->
 			<itemGUID>9620aac8-3540-4699-b285-ed3257bc2ee5</itemGUID>
 		</m_items>
 		<m_items> <!-- M17 Gas Mask w/ Doff-->
@@ -615,7 +603,7 @@
 		<m_AllowPantsHue>false</m_AllowPantsHue>
 		<m_AllowTopTint>false</m_AllowTopTint>
 		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
-		<m_items> <!---Woodland PASGT Helmet (Strapless)-->
+		<m_items> <!---Army Helmet (Strapless)-->
 			<itemGUID>9620aac8-3540-4699-b285-ed3257bc2ee5</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Webbing -->
@@ -1706,12 +1694,9 @@
 		<probability>0.2</probability>
 			<itemGUID>85217973-ff88-4680-8a5d-1c6c97692767</itemGUID>
 		</m_items>
-		<m_items> <!-- Small ALICE Pack -->
-			<itemGUID>bde4fc7f-462c-4093-bf32-3a17ecd75040</itemGUID>
-		</m_items>
-		<m_items> <!-- Medium ALICE Pack -->
-		<probability>0.1</probability>
-			<itemGUID>e5e131ff-bc65-4b94-9bc1-b70e8f99e68d</itemGUID>
+		<m_items> <!-- ALICE Pack -->
+			<probability>0.2</probability>
+			<itemGUID>8b3f943c-e903-431b-bf8d-8f2eb86c9ef3</itemGUID>
 		</m_items>
 		<m_items> <!-- ALICE Webbing -->
 			<itemGUID>01ee11ca-3de7-4495-85d6-078d33fcab12</itemGUID>

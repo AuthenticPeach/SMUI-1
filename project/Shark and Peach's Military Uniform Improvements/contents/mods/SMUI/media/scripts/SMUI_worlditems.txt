@@ -699,6 +699,20 @@ module Base
 		scale = 0.5,
 	}
 
+		model SmallALICEGreen_WorldItem
+	{
+		mesh = WorldItems/SmallALICE_WorldItem,
+        texture = clothes/misc/GreenALICE,
+		scale = 0.5,
+	}
+
+		model SmallALICEWoodland_WorldItem
+	{
+		mesh = WorldItems/SmallALICE_WorldItem,
+        texture = clothes/misc/WoodlandALICE,
+		scale = 0.5,
+	}
+
 		model MediumALICEGreen_WorldItem
 	{
 		mesh = WorldItems/MediumALICE_WorldItem,

@@ -2,10 +2,10 @@
 <clothingItem>
 	<m_MaleModel>skinned\clothes\GIDuffel_RHand</m_MaleModel>
 	<m_FemaleModel>skinned\clothes\GIDuffel_RHand</m_FemaleModel>
-	<m_GUID>dbfe190f-e615-4f0d-9b56-12a0c0066538</m_GUID>
+	<m_GUID>92254819-f2c8-4c05-94d0-4b7c7a91e889</m_GUID>
 	<m_Static>false</m_Static>
 	<m_AllowRandomHue>false</m_AllowRandomHue>
 	<m_AllowRandomTint>false</m_AllowRandomTint>
 	<m_AttachBone></m_AttachBone>
-	<textureChoices>clothes/misc/WoodlandGIDuffel</textureChoices>
+	<textureChoices>clothes/misc/GIDuffel</textureChoices>
 </clothingItem>
