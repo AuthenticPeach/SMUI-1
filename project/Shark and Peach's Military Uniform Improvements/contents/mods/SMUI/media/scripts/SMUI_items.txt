@@ -22,18 +22,7 @@ module SMUIClothing
 		Icon = NVGMount,
 		WorldStaticModel = NVGStrap_WorldItem,
 	}
-
-		item MilitaryWebbingSuspenders
-	{
-		DisplayCategory = Accessory,
-		Weight = 0.1,
-		Type = Normal,
-		DisplayName = Military Webbing Suspenders,
-		Tooltip = Tooltip_WebbingSuspenders,
-		Icon = WebbingHarness,
-		WorldStaticModel = WebbingSuspenders_WorldItem,
-	}
-
+	
 		item M17Hood
 	{
 		DisplayCategory = Accessory,
