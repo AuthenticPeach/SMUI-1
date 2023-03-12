@@ -71,7 +71,7 @@ module SMUIClothing
         OpenSound   =   OpenBag,
         CloseSound   =   CloseBag,
         PutInSound   =   PutItemInBag,
-        RunSpeedModifier = 0.75,
+        RunSpeedModifier = 0.45
         CanHaveHoles = false,
         ReplaceInSecondHand = Bag_GIDuffelBagWoodland_LHand holdingbagleft,
         ReplaceInPrimaryHand = Bag_GIDuffelBagWoodland_RHand holdingbagright,
@@ -209,7 +209,7 @@ module SMUIClothing
         BiteDefense = 5,
         ScratchDefense = 10,
         Weight = 0.2,
-        Insulation = 0.75,
+        Insulation = 0.45
         WindResistance = 0.45,
         Weight = 0.5,
 		AttachmentType  = GasMask,	
@@ -231,7 +231,7 @@ module SMUIClothing
         BiteDefense = 5,
         ScratchDefense = 10,
         Weight = 0.2,
-        Insulation = 0.75,
+        Insulation = 0.45
         WindResistance = 0.45,
         Weight = 0.5,
 		AttachmentType  = GasMask,	
@@ -253,7 +253,7 @@ module SMUIClothing
         BiteDefense = 5,
         ScratchDefense = 10,
         Weight = 0.2,
-        Insulation = 0.75,
+        Insulation = 0.45
         WindResistance = 0.45,
         Weight = 0.5,
 		AttachmentType  = GasMask,	
@@ -275,7 +275,7 @@ module SMUIClothing
         BiteDefense = 5,
         ScratchDefense = 10,
         Weight = 0.5,
-        Insulation = 0.75, 
+        Insulation = 0.45 
         WindResistance = 0.45,
 		AttachmentType  = GasMask,	
 		StaticModel 	= GasMaskM17NotWorn,
@@ -314,7 +314,7 @@ module SMUIClothing
         ClothingItemExtraOption = PullUp,
         ClothingExtraSubmenu = PullDown,
         Weight = 0.1,
-        Insulation = 0.75,
+        Insulation = 0.45
         WindResistance = 0.70,
         WorldStaticModel = Shemagh_WorldItem,	
     }
@@ -334,7 +334,7 @@ module SMUIClothing
         CanHaveHoles = false,
         ScratchDefense = 10,
         Weight = 0.1,
-        Insulation = 0.75,
+        Insulation = 0.45
         WindResistance = 0.70,
         WorldStaticModel = Shemagh_WorldItem,	
     }
@@ -355,7 +355,7 @@ module SMUIClothing
         CanHaveHoles = false,
         ScratchDefense = 10,
         Weight = 0.1,
-        Insulation = 0.75,
+        Insulation = 0.45
         WindResistance = 0.70,
         WorldStaticModel = ShemaghWoodland_WorldItem,	
     }
@@ -375,7 +375,7 @@ module SMUIClothing
         CanHaveHoles = false,
         ScratchDefense = 10,
         Weight = 0.1,
-        Insulation = 0.75,
+        Insulation = 0.45
         WindResistance = 0.70,
         WorldStaticModel = ShemaghWoodland_WorldItem,	
     }
@@ -395,7 +395,7 @@ module SMUIClothing
         CanHaveHoles = false,
         ScratchDefense = 10,
         Weight = 0.1,
-        Insulation = 0.75,
+        Insulation = 0.45
         WindResistance = 0.70,
         WorldStaticModel = ShemaghDesert_WorldItem,	
     }
@@ -415,7 +415,7 @@ module SMUIClothing
         CanHaveHoles = false,
         ScratchDefense = 10,
         Weight = 0.1,
-        Insulation = 0.75,
+        Insulation = 0.45
         WindResistance = 0.70,
         WorldStaticModel = ShemaghDesert_WorldItem,	
     }
@@ -566,7 +566,7 @@ module SMUIClothing
         BiteDefense = 20,
         Weight = 0.1,
         Insulation = 0.80,
-        WindResistance = 0.75,
+        WindResistance = 0.45
         FabricType = Cotton,
         WorldStaticModel = Gloves_Ground,
 	}
@@ -881,7 +881,7 @@ module SMUIClothing
         CloseSound   =   CloseBag,
         PutInSound   =   PutItemInBag,
         BloodLocation = Bag,
-        RunSpeedModifier = 0.30,
+        RunSpeedModifier = 0.15,
         CanHaveHoles = false,
         AttachmentReplacement = Bag,
         ReplaceInSecondHand = Bag_SmallALICEPack_LHand holdingbagleft,
@@ -905,7 +905,7 @@ module SMUIClothing
         CloseSound   =   CloseBag,
         PutInSound   =   PutItemInBag,
         BloodLocation = Bag,
-        RunSpeedModifier = 0.30,
+        RunSpeedModifier = 0.15,
         CanHaveHoles = false,
         AttachmentReplacement = Bag,
         ReplaceInSecondHand = Bag_SmallALICEPackWoodland_LHand holdingbagleft,
@@ -929,7 +929,7 @@ module SMUIClothing
         CloseSound   =   CloseBag,
         PutInSound   =   PutItemInBag,
         BloodLocation = Bag,
-        RunSpeedModifier = 0.75,
+        RunSpeedModifier = 0.45
         CanHaveHoles = false,
         AttachmentReplacement = Bag,
         ReplaceInSecondHand = Bag_LargeALICEPack_LHand holdingbagleft,
@@ -953,7 +953,7 @@ module SMUIClothing
         CloseSound   =   CloseBag,
         PutInSound   =   PutItemInBag,
         BloodLocation = Bag,
-        RunSpeedModifier = 0.75,
+        RunSpeedModifier = 0.45
         CanHaveHoles = false,
         AttachmentReplacement = Bag,
         ReplaceInSecondHand = Bag_LargeALICEPackWoodland_LHand holdingbagleft,
