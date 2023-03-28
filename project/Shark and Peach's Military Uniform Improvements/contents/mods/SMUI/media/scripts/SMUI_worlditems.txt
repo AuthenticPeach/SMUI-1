@@ -408,7 +408,7 @@ module Base
 		model MilitaryMedicalBag_WorldItem
 	{
 		mesh = WorldItems/MilitaryMedicalBag_WorldItem,
-		texture = clothes/bag/Hat_DH132Goggles,
+		texture = clothes/misc/MilitaryMedicalBag,
 		scale = 0.5,
 	}
 
